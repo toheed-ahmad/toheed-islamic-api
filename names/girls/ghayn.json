@@ -1,0 +1,79 @@
+{
+  "letter": "ghayn",
+  "arabic_letter": "غ",
+  "gender": "female",
+  "names": [
+    {
+      "name_urdu": "غزالہ",
+      "name_hindi": "ग़ज़ाला",
+      "name_english": "Ghazala",
+      "meaning_urdu": "ہرن جیسی خوبصورت",
+      "meaning_hindi": "हिरन जैसी सुंदर",
+      "meaning_english": "Beautiful like a deer",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "غنیہ",
+      "name_hindi": "ग़निया",
+      "name_english": "Ghaniya",
+      "meaning_urdu": "مالدار، بے نیاز",
+      "meaning_hindi": "समृद्ध, सम्पन्न",
+      "meaning_english": "Rich, self-sufficient",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "غزال",
+      "name_hindi": "ग़ज़ाल",
+      "name_english": "Ghazal",
+      "meaning_urdu": "خوبصورت، دلکش",
+      "meaning_hindi": "सुंदर, आकर्षक",
+      "meaning_english": "Graceful, charming",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "غفورہ",
+      "name_hindi": "ग़फ़ूरा",
+      "name_english": "Ghafoora",
+      "meaning_urdu": "بہت معاف کرنے والی",
+      "meaning_hindi": "अत्यंत क्षमाशील",
+      "meaning_english": "Very forgiving",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "غفران",
+      "name_hindi": "ग़ुफ़रान",
+      "name_english": "Ghufran",
+      "meaning_urdu": "بخشش، معافی",
+      "meaning_hindi": "क्षमा, माफी",
+      "meaning_english": "Forgiveness",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "غنیزا",
+      "name_hindi": "ग़नीज़ा",
+      "name_english": "Ghaniza",
+      "meaning_urdu": "باعزت، قیمتی",
+      "meaning_hindi": "सम्मानित, मूल्यवान",
+      "meaning_english": "Honorable, precious",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "غزالین",
+      "name_hindi": "ग़ज़ालीन",
+      "name_english": "Ghazaleen",
+      "meaning_urdu": "نرم مزاج، حسین",
+      "meaning_hindi": "कोमल स्वभाव, सुंदर",
+      "meaning_english": "Gentle and beautiful",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "غوثیہ",
+      "name_hindi": "ग़ौसिया",
+      "name_english": "Ghausia",
+      "meaning_urdu": "مدد کرنے والی",
+      "meaning_hindi": "सहायता करने वाली",
+      "meaning_english": "Helper, supporter",
+      "gender": "female"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "letter": "ya",
+  "arabic_letter": "ی",
+  "gender": "female",
+  "names": [
+    {
+      "name_urdu": "یاسمین",
+      "name_hindi": "यास्मीन",
+      "name_english": "Yasmin",
+      "meaning_urdu": "خوشبو دار پھول",
+      "meaning_hindi": "खुशबूदार फूल",
+      "meaning_english": "Fragrant flower",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "یعقوبیہ",
+      "name_hindi": "याक़ूबिया",
+      "name_english": "Yaqubiya",
+      "meaning_urdu": "نبی یعقوب سے منسوب",
+      "meaning_hindi": "नबी याक़ूब से संबंधित",
+      "meaning_english": "Related to Prophet Yaqub",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "یمینہ",
+      "name_hindi": "यमीनाह",
+      "name_english": "Yamina",
+      "meaning_urdu": "حق کی طرف رہنمائی",
+      "meaning_hindi": "सत्य की ओर मार्गदर्शन",
+      "meaning_english": "Guided towards truth",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "یقینا",
+      "name_hindi": "यक़ीनाह",
+      "name_english": "Yaqina",
+      "meaning_urdu": "یقین رکھنے والی",
+      "meaning_hindi": "विश्वास रखने वाली",
+      "meaning_english": "Full of faith, certain",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "یونیسہ",
+      "name_hindi": "यूनिसा",
+      "name_english": "Yunisa",
+      "meaning_urdu": "دوست اور مانوس",
+      "meaning_hindi": "मित्रवत और परिचित",
+      "meaning_english": "Friendly and familiar",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "یحیٰیہ",
+      "name_hindi": "यह्या",
+      "name_english": "Yahya",
+      "meaning_urdu": "زندگی دینے والی، نبی کے نام سے منسوب",
+      "meaning_hindi": "जीवन देने वाली, नबी से संबंधित",
+      "meaning_english": "Life-giver, related to Prophet",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "یاقوت",
+      "name_hindi": "याक़ूत",
+      "name_english": "Yaqoot",
+      "meaning_urdu": "قیمتی پتھر، خوبصورت",
+      "meaning_hindi": "कीमती पत्थर, सुंदर",
+      "meaning_english": "Precious stone, beautiful",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "یاسمینا",
+      "name_hindi": "यास्मीना",
+      "name_english": "Yasmina",
+      "meaning_urdu": "خوشبو دار اور دلکش پھول",
+      "meaning_hindi": "खुशबूदार और आकर्षक फूल",
+      "meaning_english": "Fragrant and charming flower",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "یمنہ",
+      "name_hindi": "यमनाह",
+      "name_english": "Yamna",
+      "meaning_urdu": "خوش نصیب، کامیاب",
+      "meaning_hindi": "सौभाग्यशाली, सफल",
+      "meaning_english": "Fortunate, successful",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "یقیناۃ",
+      "name_hindi": "यक़ीनात",
+      "name_english": "Yaqinat",
+      "meaning_urdu": "پختہ یقین رکھنے والی",
+      "meaning_hindi": "पक्का विश्वास रखने वाली",
+      "meaning_english": "Firm in faith, certain",
+      "gender": "female"
+    }
+  ]
+}

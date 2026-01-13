@@ -1,0 +1,141 @@
+{
+  "letter": "ghayn",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "غالب",
+      "name_hindi": "ग़ालिब",
+      "name_english": "Ghalib",
+      "meaning_urdu": "فتح یاب، غالب آنے والا",
+      "meaning_hindi": "विजयी",
+      "meaning_english": "Victorious, dominant",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "غفور",
+      "name_hindi": "ग़फ़ूर",
+      "name_english": "Ghafoor",
+      "meaning_urdu": "بہت معاف کرنے والا",
+      "meaning_hindi": "बहुत क्षमाशील",
+      "meaning_english": "All-forgiving",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "غنی",
+      "name_hindi": "ग़नी",
+      "name_english": "Ghanee",
+      "meaning_urdu": "مالدار، خود کفیل",
+      "meaning_hindi": "धनवान, आत्मनिर्भर",
+      "meaning_english": "Wealthy, self-sufficient",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "غیاث",
+      "name_hindi": "ग़यास",
+      "name_english": "Ghiyas",
+      "meaning_urdu": "مددگار، نجات دینے والا",
+      "meaning_hindi": "मदद करने वाला",
+      "meaning_english": "Helper, savior",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "غلام",
+      "name_hindi": "ग़ुलाम",
+      "name_english": "Ghulam",
+      "meaning_urdu": "بندگی کرنے والا، اللہ کا بندہ",
+      "meaning_hindi": "ईश्वर का सेवक",
+      "meaning_english": "Servant, devoted to Allah",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "غفار",
+      "name_hindi": "ग़फ़्फ़ार",
+      "name_english": "Ghaffar",
+      "meaning_urdu": "بہت زیادہ معاف کرنے والا",
+      "meaning_hindi": "बहुत क्षमाशील",
+      "meaning_english": "Most forgiving",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "غوث",
+      "name_hindi": "ग़ौस",
+      "name_english": "Ghaus",
+      "meaning_urdu": "مددگار، اعلیٰ مقام والا",
+      "meaning_hindi": "उच्च स्थान वाला",
+      "meaning_english": "Helper, exalted",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "غازی",
+      "name_hindi": "ग़ाज़ी",
+      "name_english": "Ghazi",
+      "meaning_urdu": "فاتح، بہادر جنگجو",
+      "meaning_hindi": "वीर योद्धा",
+      "meaning_english": "Warrior, conqueror",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "غنی",
+      "name_hindi": "ग़नी",
+      "name_english": "Ghani",
+      "meaning_urdu": "خود کفیل، مالدار",
+      "meaning_hindi": "आत्मनिर्भर, संपन्न",
+      "meaning_english": "Self-sufficient, wealthy",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "غدیر",
+      "name_hindi": "ग़दीर",
+      "name_english": "Ghadir",
+      "meaning_urdu": "ندی، صاف پانی والا",
+      "meaning_hindi": "नदी, साफ पानी",
+      "meaning_english": "Stream, clear water",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "غفران",
+      "name_hindi": "ग़फ़रान",
+      "name_english": "Ghafran",
+      "meaning_urdu": "بخشش، مغفرت",
+      "meaning_hindi": "क्षमाशीलता",
+      "meaning_english": "Forgiveness",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "غیاث الدین",
+      "name_hindi": "ग़यासुद्दीन",
+      "name_english": "Ghiyasuddin",
+      "meaning_urdu": "دین کا مددگار",
+      "meaning_hindi": "धर्म का सहायक",
+      "meaning_english": "Helper of the faith",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "غریب",
+      "name_hindi": "ग़रीब",
+      "name_english": "Ghareeb",
+      "meaning_urdu": "غریب، محتاج",
+      "meaning_hindi": "गरीब, ज़रूरतमंद",
+      "meaning_english": "Poor, needy",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "غوث الاعظم",
+      "name_hindi": "ग़ौस उल अजम",
+      "name_english": "Ghausul Azam",
+      "meaning_urdu": "اعلیٰ روحانی مرتبہ والا بزرگ",
+      "meaning_hindi": "उच्च आध्यात्मिक स्थान वाला",
+      "meaning_english": "Highly spiritual elder",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "غلام حسین",
+      "name_hindi": "ग़ुलाम हुसैन",
+      "name_english": "Ghulam Hussain",
+      "meaning_urdu": "اللہ کا بندہ حسین",
+      "meaning_hindi": "अल्लाह का सेवक हुसैन",
+      "meaning_english": "Servant of Allah, Hussain",
+      "gender": "male"
+    }
+  ]
+}

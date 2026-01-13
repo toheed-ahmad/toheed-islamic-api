@@ -1,0 +1,97 @@
+{
+  "letter": "ayn",
+  "arabic_letter": "ع",
+  "gender": "female",
+  "names": [
+    {
+      "name_urdu": "عائشہ",
+      "name_hindi": "आयशा",
+      "name_english": "Aisha",
+      "meaning_urdu": "زندگی والی، زندہ دل",
+      "meaning_hindi": "जीवंत, जीवन से भरपूर",
+      "meaning_english": "Alive, full of life",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "عالیہ",
+      "name_hindi": "आलिया",
+      "name_english": "Aliya",
+      "meaning_urdu": "بلند مرتبہ، اعلیٰ",
+      "meaning_hindi": "उच्च, महान",
+      "meaning_english": "Exalted, noble",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "عفت",
+      "name_hindi": "इफ़्फ़त",
+      "name_english": "Iffat",
+      "meaning_urdu": "پاکدامنی، پاکیزگی",
+      "meaning_hindi": "पवित्रता",
+      "meaning_english": "Chastity, purity",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "عالیہ فاطمہ",
+      "name_hindi": "आलिया फ़ातिमा",
+      "name_english": "Aliya Fatima",
+      "meaning_urdu": "بلند مرتبہ اور پاکیزہ",
+      "meaning_hindi": "उच्च और पवित्र",
+      "meaning_english": "Noble and pure",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "عصمت",
+      "name_hindi": "इस्मत",
+      "name_english": "Ismat",
+      "meaning_urdu": "پاکیزگی، بے گناہی",
+      "meaning_hindi": "पवित्रता, मासूमियत",
+      "meaning_english": "Purity, innocence",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "عروبہ",
+      "name_hindi": "अ़रूबा",
+      "name_english": "Arooba",
+      "meaning_urdu": "جنتی عورت",
+      "meaning_hindi": "स्वर्ग की स्त्री",
+      "meaning_english": "Woman of Paradise",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "عنایہ",
+      "name_hindi": "इनाया",
+      "name_english": "Inaya",
+      "meaning_urdu": "اللہ کی خاص توجہ",
+      "meaning_hindi": "ईश्वर की विशेष कृपा",
+      "meaning_english": "Divine care, concern",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "عزیزہ",
+      "name_hindi": "अज़ीज़ा",
+      "name_english": "Aziza",
+      "meaning_urdu": "محبوب، قابلِ عزت",
+      "meaning_hindi": "प्रिय, सम्मानित",
+      "meaning_english": "Beloved, respected",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "عالیانہ",
+      "name_hindi": "आलियाना",
+      "name_english": "Aliyana",
+      "meaning_urdu": "عزت والی، شریف",
+      "meaning_hindi": "सम्मानित, कुलीन",
+      "meaning_english": "Honorable, dignified",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "عمیرا",
+      "name_hindi": "अमीरा",
+      "name_english": "Ameera",
+      "meaning_urdu": "شہزادی، امیر عورت",
+      "meaning_hindi": "राजकुमारी",
+      "meaning_english": "Princess, leader",
+      "gender": "female"
+    }
+  ]
+}

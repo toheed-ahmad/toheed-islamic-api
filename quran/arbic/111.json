@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "surahNumber": 111,
+    "surahNameArabic": "سُورَةُ المَسَدِ",
+    "surahNameEnglish": "Al-Masad",
+    "surahNameTranslation": "The Palm Fibre",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 6217,
+      "ayahNumberInSurah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍۢ وَتَبَّ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6218,
+      "ayahNumberInSurah": 2,
+      "text": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6219,
+      "ayahNumberInSurah": 3,
+      "text": "سَيَصْلَىٰ نَارًۭا ذَاتَ لَهَبٍۢ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6220,
+      "ayahNumberInSurah": 4,
+      "text": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6221,
+      "ayahNumberInSurah": 5,
+      "text": "فِى جِيدِهَا حَبْلٌۭ مِّن مَّسَدٍۭ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "default",
+  "version": "1.0",
+  "rules": {
+    "Fajr": { "mode": "after_adhan", "minutes": 20 },
+    "Dhuhr": { "mode": "fixed_time", "time": "13:30" },
+    "Asr": { "mode": "after_adhan", "minutes": 15 },
+    "Maghrib": { "mode": "after_adhan", "minutes": 5 },
+    "Isha": { "mode": "after_adhan", "minutes": 15 }
+  },
+  "meta": {
+    "location_based": true,
+    "editable_by_admin": true
+  }
+}

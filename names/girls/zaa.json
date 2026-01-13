@@ -1,0 +1,79 @@
+{
+  "letter": "zaa",
+  "arabic_letter": "ظ",
+  "gender": "female",
+  "names": [
+    {
+      "name_urdu": "ظاہرہ",
+      "name_hindi": "ज़ाहिरा",
+      "name_english": "Zahira",
+      "meaning_urdu": "روشن، نمایاں",
+      "meaning_hindi": "स्पष्ट, उज्ज्वल",
+      "meaning_english": "Bright, evident",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ظہیرہ",
+      "name_hindi": "ज़हीरा",
+      "name_english": "Zaheera",
+      "meaning_urdu": "چمکدار، روشن",
+      "meaning_hindi": "चमकदार",
+      "meaning_english": "Shining, radiant",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ظفرہ",
+      "name_hindi": "ज़फ़रा",
+      "name_english": "Zafra",
+      "meaning_urdu": "کامیابی والی، فتح پانے والی",
+      "meaning_hindi": "सफलता पाने वाली",
+      "meaning_english": "Victorious",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ظلیخا",
+      "name_hindi": "ज़ुलैखा",
+      "name_english": "Zulekha",
+      "meaning_urdu": "حضرت یوسفؑ کے دور کی مشہور خاتون",
+      "meaning_hindi": "हज़रत यूसुफ़ के समय की प्रसिद्ध महिला",
+      "meaning_english": "Famous woman from the time of Prophet Yusuf",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ظریفہ",
+      "name_hindi": "ज़रीफ़ा",
+      "name_english": "Zarifa",
+      "meaning_urdu": "نرم مزاج، شریف",
+      "meaning_hindi": "सभ्य, कोमल",
+      "meaning_english": "Gentle, elegant",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ظمیرا",
+      "name_hindi": "ज़मीरा",
+      "name_english": "Zameera",
+      "meaning_urdu": "ضمیر والی، نیک دل",
+      "meaning_hindi": "अंतरात्मा वाली",
+      "meaning_english": "Conscientious, pure-hearted",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ظنیفہ",
+      "name_hindi": "ज़नीफ़ा",
+      "name_english": "Zanifa",
+      "meaning_urdu": "لطیف، نازک",
+      "meaning_hindi": "नाज़ुक, कोमल",
+      "meaning_english": "Delicate, graceful",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ظہرا",
+      "name_hindi": "ज़हरा",
+      "name_english": "Zahra",
+      "meaning_urdu": "چمکدار، روشن (حضرت فاطمہؓ کا لقب)",
+      "meaning_hindi": "चमकदार, उज्ज्वल",
+      "meaning_english": "Radiant, shining",
+      "gender": "female"
+    }
+  ]
+}

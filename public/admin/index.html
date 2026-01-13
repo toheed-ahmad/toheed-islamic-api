@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>🕌 Prayer Admin Dashboard</title>
+
+<!-- Tailwind -->
+<script src="https://cdn.tailwindcss.com"></script>
+
+<style>
+  body { font-family: system-ui, Arial; }
+  .sidebar-item.active {
+    background: rgba(255,255,255,0.2);
+  }
+</style>
+</head>
+
+<body class="bg-gray-100">
+
+<div class="flex min-h-screen">
+
+  <!-- SIDEBAR -->
+  <aside class="w-64 bg-emerald-900 text-white p-4 flex flex-col">
+    <h2 class="text-xl font-bold mb-6">🕌 Admin Panel</h2>
+
+    <nav class="space-y-1 flex-1">
+      <button class="sidebar-item w-full text-left px-3 py-2 rounded"
+        onclick="navigate('virtues', this)">📿 Virtues</button>
+
+      <button class="sidebar-item w-full text-left px-3 py-2 rounded"
+        onclick="navigate('iqamah', this)">🕌 Iqamah</button>
+
+      <button class="sidebar-item w-full text-left px-3 py-2 rounded"
+        onclick="navigate('ramadan', this)">🌙 Ramadan</button>
+
+      <button class="sidebar-item w-full text-left px-3 py-2 rounded"
+        onclick="navigate('stats', this)">📊 API Stats</button>
+
+      <button class="sidebar-item w-full text-left px-3 py-2 rounded"
+        onclick="navigate('health', this)">⚙️ System</button>
+    </nav>
+
+    <div class="text-xs opacity-70 mt-6">
+      Toheed Islamic API<br>
+      Admin Dashboard v1
+    </div>
+  </aside>
+
+  <!-- MAIN -->
+  <main class="flex-1 p-6">
+
+    <!-- TOP BAR -->
+    <div class="bg-white rounded-lg shadow px-5 py-3 mb-6 flex justify-between items-center">
+      <h1 id="pageTitle" class="text-lg font-semibold">Dashboard</h1>
+      <span class="text-sm text-gray-500">Admin Mode</span>
+    </div>
+
+    <!-- CONTENT -->
+    <div id="pageContent"></div>
+
+  </main>
+
+</div>
+
+<!-- TOAST -->
+<div id="toast"
+  class="fixed bottom-5 right-5 bg-green-600 text-white px-4 py-2 rounded shadow hidden">
+</div>
+
+<script>
+/* =============================
+   CONFIG
+============================= */
+const API = {
+  virtues: '/api/v1/virtues',
+  stats: '/api/v1/stats'
+};
+
+/* =============================
+   NAVIGATION
+============================= */
+function navigate(page, el) {
+  document.querySelectorAll('.sidebar-item')
+    .forEach(i => i.classList.remove('active'));
+  el.classList.add('active');
+
+  document.getElementById('pageTitle').innerText =
+    page.charAt(0).toUpperCase() + page.slice(1);
+
+  if (page === 'virtues') loadVirtues();
+  if (page === 'iqamah') loadPlaceholder('🕌 Iqamah Management');
+  if (page === 'ramadan') loadPlaceholder('🌙 Ramadan Settings');
+  if (page === 'stats') loadStatsPage();
+  if (page === 'health') loadHealth();
+}
+
+/* =============================
+   TOAST
+============================= */
+function toast(msg, color='bg-green-600') {
+  const t = document.getElementById('toast');
+  t.className = `fixed bottom-5 right-5 ${color} text-white px-4 py-2 rounded shadow`;
+  t.innerText = msg;
+  t.classList.remove('hidden');
+  setTimeout(() => t.classList.add('hidden'), 2500);
+}
+
+/* =============================
+   VIRTUES PAGE
+============================= */
+function loadVirtues() {
+  document.getElementById('pageContent').innerHTML = `
+  <div class="grid lg:grid-cols-3 gap-6">
+
+    <div class="bg-white rounded-xl shadow p-5">
+      <h2 class="font-semibold mb-4">➕ Add / Edit Virtue</h2>
+
+      <input type="hidden" id="editId">
+
+      <label class="text-sm">Type</label>
+      <select id="type" class="w-full border p-2 rounded mb-3">
+        <option value="prayer">Prayer</option>
+        <option value="ramadan">Ramadan</option>
+      </select>
+
+      <label class="text-sm">Key</label>
+      <input id="key" class="w-full border p-2 rounded mb-3">
+
+      <label class="text-sm">Title</label>
+      <input id="title" class="w-full border p-2 rounded mb-3">
+
+      <label class="text-sm">Short Virtue</label>
+      <textarea id="short" rows="3"
+        class="w-full border p-2 rounded mb-3"></textarea>
+
+      <label class="text-sm">Reference</label>
+      <input id="reference" class="w-full border p-2 rounded mb-4">
+
+      <button onclick="saveVirtue()"
+        class="w-full bg-emerald-700 hover:bg-emerald-800 text-white py-2 rounded">
+        💾 Save
+      </button>
+    </div>
+
+    <div class="lg:col-span-2 bg-white rounded-xl shadow p-5">
+      <h2 class="font-semibold mb-4">📋 Virtues List</h2>
+
+      <table class="w-full text-sm">
+        <thead class="bg-gray-100">
+          <tr>
+            <th class="p-2 text-left">Type</th>
+            <th class="p-2 text-left">Key</th>
+            <th class="p-2 text-left">Title</th>
+            <th class="p-2 text-center">Actions</th>
+          </tr>
+        </thead>
+        <tbody id="virtuesTable"></tbody>
+      </table>
+    </div>
+
+  </div>`;
+  loadVirtuesData();
+}
+
+/* =============================
+   API STATS PAGE
+============================= */
+function loadStatsPage() {
+  fetch(API.stats)
+    .then(res => res.json())
+    .then(data => {
+      document.getElementById('pageContent').innerHTML = `
+        <div class="bg-white rounded-xl shadow p-5">
+          <h2 class="font-semibold mb-4">📊 API Statistics</h2>
+          <pre class="text-sm bg-gray-100 p-4 rounded overflow-auto">
+${JSON.stringify(data, null, 2)}
+          </pre>
+        </div>
+      `;
+    });
+}
+
+/* =============================
+   OTHER PAGES
+============================= */
+function loadPlaceholder(title) {
+  document.getElementById('pageContent').innerHTML =
+    `<div class="bg-white rounded shadow p-6 text-lg">${title} (Coming Soon)</div>`;
+}
+
+function loadHealth() {
+  fetch('/health')
+    .then(r => r.json())
+    .then(d => {
+      document.getElementById('pageContent').innerHTML =
+        `<pre class="bg-white rounded shadow p-4 text-sm">${JSON.stringify(d, null, 2)}</pre>`;
+    });
+}
+
+/* DEFAULT LOAD */
+navigate('virtues', document.querySelector('.sidebar-item'));
+</script>
+
+</body>
+</html>

@@ -1,0 +1,97 @@
+{
+  "letter": "ha",
+  "urdu_letter": "ح",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "حسن",
+      "name_hindi": "हसन",
+      "name_english": "Hasan",
+      "meaning_urdu": "خوبصورتی، اچھائی",
+      "meaning_hindi": "सुंदरता, भलाई",
+      "meaning_english": "Beauty, goodness",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "حسین",
+      "name_hindi": "हुसैन",
+      "name_english": "Husain",
+      "meaning_urdu": "انتہائی خوبصورت",
+      "meaning_hindi": "अत्यंत सुंदर",
+      "meaning_english": "Very beautiful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "حمزہ",
+      "name_hindi": "हमज़ा",
+      "name_english": "Hamza",
+      "meaning_urdu": "شیر، مضبوط",
+      "meaning_hindi": "शेर, शक्तिशाली",
+      "meaning_english": "Lion, strong",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "حارث",
+      "name_hindi": "हारिस",
+      "name_english": "Haris",
+      "meaning_urdu": "نگہبان، حفاظت کرنے والا",
+      "meaning_hindi": "रक्षक",
+      "meaning_english": "Guardian, protector",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "حامد",
+      "name_hindi": "हामिद",
+      "name_english": "Hamid",
+      "meaning_urdu": "اللہ کی حمد کرنے والا",
+      "meaning_hindi": "प्रशंसा करने वाला",
+      "meaning_english": "One who praises Allah",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "حافظ",
+      "name_hindi": "हाफ़िज़",
+      "name_english": "Hafiz",
+      "meaning_urdu": "محافظ، قرآن حفظ کرنے والا",
+      "meaning_hindi": "रक्षक, क़ुरआन याद करने वाला",
+      "meaning_english": "Protector, memorizer of Quran",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "حبیب",
+      "name_hindi": "हबीब",
+      "name_english": "Habib",
+      "meaning_urdu": "محبوب، پیارا",
+      "meaning_hindi": "प्रिय",
+      "meaning_english": "Beloved",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "حکیم",
+      "name_hindi": "हकीम",
+      "name_english": "Hakeem",
+      "meaning_urdu": "دانشمند، عقل مند",
+      "meaning_hindi": "बुद्धिमान",
+      "meaning_english": "Wise",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "حلیم",
+      "name_hindi": "हलीम",
+      "name_english": "Haleem",
+      "meaning_urdu": "بردبار، نرم دل",
+      "meaning_hindi": "धैर्यवान",
+      "meaning_english": "Forbearing, gentle",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "حیات",
+      "name_hindi": "हयात",
+      "name_english": "Hayat",
+      "meaning_urdu": "زندگی",
+      "meaning_hindi": "जीवन",
+      "meaning_english": "Life",
+      "gender": "male"
+    }
+  ]
+}

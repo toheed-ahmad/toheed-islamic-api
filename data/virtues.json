@@ -1,0 +1,18 @@
+{
+  "virtues": [
+    {
+      "id": "fajr_001",
+      "type": "prayer",
+      "prayer": "Fajr",
+      "text": {
+        "ur": "فجر کی دو رکعتیں دنیا اور اس کی تمام چیزوں سے بہتر ہیں",
+        "en": "Two rak‘ahs of Fajr are better than the world and all it contains"
+      },
+      "reference": "Muslim",
+      "conditions": ["normal", "ramadan"],
+      "active": true,
+      "priority": 1,
+      "createdAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

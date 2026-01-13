@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "surahNumber": 91,
+    "surahNameArabic": "سُورَةُ الشَّمۡسِ",
+    "surahNameEnglish": "Ash-Shams",
+    "surahNameTranslation": "The Sun",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 15
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 6044,
+      "ayahNumberInSurah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلشَّمْسِ وَضُحَىٰهَا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6045,
+      "ayahNumberInSurah": 2,
+      "text": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6046,
+      "ayahNumberInSurah": 3,
+      "text": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6047,
+      "ayahNumberInSurah": 4,
+      "text": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6048,
+      "ayahNumberInSurah": 5,
+      "text": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6049,
+      "ayahNumberInSurah": 6,
+      "text": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6050,
+      "ayahNumberInSurah": 7,
+      "text": "وَنَفْسٍۢ وَمَا سَوَّىٰهَا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6051,
+      "ayahNumberInSurah": 8,
+      "text": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6052,
+      "ayahNumberInSurah": 9,
+      "text": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6053,
+      "ayahNumberInSurah": 10,
+      "text": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6054,
+      "ayahNumberInSurah": 11,
+      "text": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6055,
+      "ayahNumberInSurah": 12,
+      "text": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6056,
+      "ayahNumberInSurah": 13,
+      "text": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَٰهَا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6057,
+      "ayahNumberInSurah": 14,
+      "text": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6058,
+      "ayahNumberInSurah": 15,
+      "text": "وَلَا يَخَافُ عُقْبَٰهَا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 595,
+      "ruku": 533,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ]
+}

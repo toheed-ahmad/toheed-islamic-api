@@ -1,0 +1,70 @@
+{
+  "letter": "thal",
+  "urdu_letter": "ذ",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "ذکی",
+      "name_hindi": "ज़की",
+      "name_english": "Zaki",
+      "meaning_urdu": "سمجھدار، ذہین",
+      "meaning_hindi": "बुद्धिमान, तेज़",
+      "meaning_english": "Intelligent, smart",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ذکی الدین",
+      "name_hindi": "ज़कीउद्दीन",
+      "name_english": "Zakiuddin",
+      "meaning_urdu": "دین کا ذہین شخص",
+      "meaning_hindi": "धर्म का बुद्धिमान",
+      "meaning_english": "Intelligent in religion",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ذکاء",
+      "name_hindi": "ज़का",
+      "name_english": "Zaka",
+      "meaning_urdu": "فہم، ذہانت",
+      "meaning_hindi": "बुद्धि",
+      "meaning_english": "Intellect",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ذہین",
+      "name_hindi": "ज़हीन",
+      "name_english": "Zaheen",
+      "meaning_urdu": "عقل مند",
+      "meaning_hindi": "बुद्धिमान",
+      "meaning_english": "Wise, intelligent",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ذیشان",
+      "name_hindi": "ज़ीशान",
+      "name_english": "Zeeshan",
+      "meaning_urdu": "شان والا، باوقار",
+      "meaning_hindi": "प्रतिष्ठित",
+      "meaning_english": "Dignified, honorable",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ذوالقرنین",
+      "name_hindi": "ज़ुलक़रनैन",
+      "name_english": "Zulqarnain",
+      "meaning_urdu": "دو سینگوں والا",
+      "meaning_hindi": "दो सींग वाला",
+      "meaning_english": "The one with two horns",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ذوالفقار",
+      "name_hindi": "ज़ुल्फ़िकार",
+      "name_english": "Zulfiqar",
+      "meaning_urdu": "حضرت علیؓ کی تلوار کا نام",
+      "meaning_hindi": "हज़रत अलीؓ की तलवार",
+      "meaning_english": "Name of Hazrat Ali’s sword",
+      "gender": "male"
+    }
+  ]
+}

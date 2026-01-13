@@ -1,0 +1,51 @@
+{
+  "letter": "daad",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "ضیاء",
+      "name_hindi": "ज़िया",
+      "name_english": "Ziya",
+      "meaning_urdu": "روشنی، نور",
+      "meaning_hindi": "प्रकाश, रोशनी",
+      "meaning_english": "Light, brightness",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ضیاءالدین",
+      "name_hindi": "ज़ियाउद्दीन",
+      "name_english": "Ziyauddin",
+      "meaning_urdu": "دین کی روشنی",
+      "meaning_hindi": "धर्म की रोशनी",
+      "meaning_english": "Light of the religion",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ضیغم",
+      "name_hindi": "ज़ैग़म",
+      "name_english": "Zaigham",
+      "meaning_urdu": "شیر، بہادر",
+      "meaning_hindi": "शेर, बहादुर",
+      "meaning_english": "Lion, brave",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ضامن",
+      "name_hindi": "ज़ामिन",
+      "name_english": "Zamin",
+      "meaning_urdu": "ضمانت دینے والا",
+      "meaning_hindi": "जिम्मेदारी लेने वाला",
+      "meaning_english": "Guarantor, protector",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ضیاف",
+      "name_hindi": "ज़ियाफ़",
+      "name_english": "Ziyaf",
+      "meaning_urdu": "مہمان نوازی کرنے والا",
+      "meaning_hindi": "अतिथि सत्कार करने वाला",
+      "meaning_english": "Hospitable",
+      "gender": "male"
+    }
+  ]
+}

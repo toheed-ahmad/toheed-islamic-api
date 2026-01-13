@@ -1,0 +1,166 @@
+{
+  "letter": "ta",
+  "gender": "male",
+  "names": [
+    {
+      "name_ur": "توحید",
+      "name_hi": "तौहीद",
+      "name_en": "Tauheed",
+      "meaning_ur": "اللہ کی واحدت اور یکتائی",
+      "meaning_hi": "अल्लाह की एकता",
+      "meaning_en": "Oneness of Allah",
+      "detail": "اسلامی عقیدہ کے مطابق نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "تمیم",
+      "name_hi": "तमिम",
+      "name_en": "Tamim",
+      "meaning_ur": "کامل، نیک اور مضبوط",
+      "meaning_hi": "पूर्ण, नेक और मजबूत",
+      "meaning_en": "Complete, righteous, strong",
+      "detail": "صحابہ کرام میں معروف نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "تقی",
+      "name_hi": "तक़ी",
+      "name_en": "Taqi",
+      "meaning_ur": "پرہیزگار، خدا خوف",
+      "meaning_hi": "भक्तिमान, ईश्वर-भय",
+      "meaning_en": "Pious, God-fearing",
+      "detail": "اسلامی نیک ناموں میں شامل",
+      "gender": "male"
+    },
+    {
+      "name_ur": "تیمور",
+      "name_hi": "तैमूर",
+      "name_en": "Taimoor",
+      "meaning_ur": "لوہے جیسا مضبوط، بہادر",
+      "meaning_hi": "लोहे जैसा मजबूत, बहादुर",
+      "meaning_en": "Strong as iron, courageous",
+      "detail": "تاریخی اور اسلامی نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "تیمورلی",
+      "name_hi": "तैमूरली",
+      "name_en": "Taimurli",
+      "meaning_ur": "طاقتور اور نیک دل",
+      "meaning_hi": "शक्तिशाली और नेक दिल",
+      "meaning_en": "Powerful and virtuous",
+      "detail": "تاریخی اسلامی نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "تاج الدین",
+      "name_hi": "ताजुद्दीन",
+      "name_en": "Tajuddin",
+      "meaning_ur": "دین میں تاج، وقار والا",
+      "meaning_hi": "धर्म में ताज, गौरव वाला",
+      "meaning_en": "Crown of religion, honorable",
+      "detail": "اسلامی اور دینی اہمیت والا نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "تاج",
+      "name_hi": "ताज",
+      "name_en": "Taj",
+      "meaning_ur": "تاج، عزت و وقار",
+      "meaning_hi": "ताज, सम्मान और गौरव",
+      "meaning_en": "Crown, honor",
+      "detail": "عزت و وقار کی علامت",
+      "gender": "male"
+    },
+    {
+      "name_ur": "تارک",
+      "name_hi": "तारिक",
+      "name_en": "Tark",
+      "meaning_ur": "چھوڑنے والا، ترک کرنے والا",
+      "meaning_hi": "छोड़ने वाला, त्याग करने वाला",
+      "meaning_en": "One who abandons evil",
+      "detail": "اسلام میں نیکی کی علامت",
+      "gender": "male"
+    },
+    {
+      "name_ur": "تقی الدین",
+      "name_hi": "तक़ीउद्दीन",
+      "name_en": "Taqiuddin",
+      "meaning_ur": "دین میں پرہیزگار",
+      "meaning_hi": "धर्म में भक्तिमान",
+      "meaning_en": "Pious in religion",
+      "detail": "اسلامی مذہبی اہمیت والا نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "تیمان",
+      "name_hi": "तिमान",
+      "name_en": "Timan",
+      "meaning_ur": "طاقتور، کامیاب",
+      "meaning_hi": "शक्तिशाली, सफल",
+      "meaning_en": "Powerful, successful",
+      "detail": "اسلامی اور قرآنی معنی والا نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "تیموری",
+      "name_hi": "तैमूरी",
+      "name_en": "Taimuri",
+      "meaning_ur": "طاقتور، بہادر",
+      "meaning_hi": "शक्तिशाली, बहादुर",
+      "meaning_en": "Powerful, brave",
+      "detail": "تاریخی اور اسلامی اثر والا نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "تقیان",
+      "name_hi": "तक़ियान",
+      "name_en": "Taqiyan",
+      "meaning_ur": "پرہیزگار، نیک دل",
+      "meaning_hi": "भक्तिमान, नेक दिल",
+      "meaning_en": "Pious, virtuous",
+      "detail": "اسلامی نام اور صفاتی اہمیت",
+      "gender": "male"
+    },
+    {
+      "name_ur": "توحانی",
+      "name_hi": "तौहानी",
+      "name_en": "Touhani",
+      "meaning_ur": "اللہ کی طرف رجوع کرنے والا",
+      "meaning_hi": "अल्लाह की तरफ रुख करने वाला",
+      "meaning_en": "One turning to Allah",
+      "detail": "اسلامی روحانی نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "تقدیر",
+      "name_hi": "तक़दीर",
+      "name_en": "Taqdeer",
+      "meaning_ur": "قسمت، نصیب والا",
+      "meaning_hi": "भाग्य, नियति वाला",
+      "meaning_en": "Fate, destiny",
+      "detail": "اسلام میں نیکی اور قسمت کی علامت",
+      "gender": "male"
+    },
+    {
+      "name_ur": "توحمانی",
+      "name_hi": "तौह्मानी",
+      "name_en": "Touhmani",
+      "meaning_ur": "اللہ کی حفاظت والا",
+      "meaning_hi": "अल्लाह की रक्षा करने वाला",
+      "meaning_en": "Protected by Allah",
+      "detail": "اسلامی اثر والا نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "تیمانوی",
+      "name_hi": "तिमानवी",
+      "name_en": "Timanvi",
+      "meaning_ur": "طاقتور اور کامیاب",
+      "meaning_hi": "शक्तिशाली और सफल",
+      "meaning_en": "Powerful and successful",
+      "detail": "اسلامی اور تاریخی نام",
+      "gender": "male"
+    }
+  ]
+}

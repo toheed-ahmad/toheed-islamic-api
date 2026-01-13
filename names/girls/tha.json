@@ -1,0 +1,197 @@
+{
+  "letter": "sa",
+  "label": "ث",
+  "gender": "female",
+  "names": [
+    {
+      "name_ur": "ثریا",
+      "name_hi": "सुरैया",
+      "name_en": "Suraiya",
+      "gender": "female",
+      "meaning_ur": "چمکتا ہوا ستارہ، بلندی",
+      "meaning_hi": "चमकता हुआ सितारा, ऊँचाई",
+      "meaning_en": "Bright star, High rank",
+      "detail": "یہ نام بلندی، عزت اور روشن مستقبل کی علامت ہے۔"
+    },
+    {
+      "name_ur": "ثوبیہ",
+      "name_hi": "सौबिया",
+      "name_en": "Saubiya",
+      "gender": "female",
+      "meaning_ur": "پاکیزہ لباس، صفائی",
+      "meaning_hi": "पवित्र वस्त्र, स्वच्छता",
+      "meaning_en": "Pure garment, Cleanliness",
+      "detail": "یہ نام پاکیزگی اور سادگی کی علامت ہے۔"
+    },
+    {
+      "name_ur": "ثناء",
+      "name_hi": "सना",
+      "name_en": "Sana",
+      "gender": "female",
+      "meaning_ur": "تعریف، حمد",
+      "meaning_hi": "प्रशंसा",
+      "meaning_en": "Praise, Admiration",
+      "detail": "یہ نام اللہ کی حمد و ثنا سے جڑا ہوا ہے۔"
+    },
+    {
+      "name_ur": "ثاقبہ",
+      "name_hi": "साक़िबा",
+      "name_en": "Saqiba",
+      "gender": "female",
+      "meaning_ur": "روشن، چمکدار",
+      "meaning_hi": "तेज़ चमकने वाली",
+      "meaning_en": "Bright, Shining",
+      "detail": "یہ نام ذہانت اور روشنی کی علامت ہے۔"
+    },
+    {
+      "name_ur": "ثروت",
+      "name_hi": "सरवत",
+      "name_en": "Sarwat",
+      "gender": "female",
+      "meaning_ur": "دولت، نعمت",
+      "meaning_hi": "धन, समृद्धि",
+      "meaning_en": "Wealth, Blessing",
+      "detail": "یہ نام نعمت اور خوشحالی کی علامت ہے۔"
+    },
+    {
+      "name_ur": "ثریٰ",
+      "name_hi": "सुरा",
+      "name_en": "Sura",
+      "gender": "female",
+      "meaning_ur": "بلند مقام",
+      "meaning_hi": "ऊँचा दर्जा",
+      "meaning_en": "High status",
+      "detail": "یہ نام عزت اور بلندی کی طرف اشارہ کرتا ہے۔"
+    },
+    {
+      "name_ur": "ثنا نور",
+      "name_hi": "सना नूर",
+      "name_en": "Sana Noor",
+      "gender": "female",
+      "meaning_ur": "روشنی کی تعریف",
+      "meaning_hi": "रोशनी की प्रशंसा",
+      "meaning_en": "Praise of light",
+      "detail": "یہ نام نور اور حمد کی خوبصورت ترکیب ہے۔"
+    },
+    {
+      "name_ur": "ثریا فاطمہ",
+      "name_hi": "सुरैया फ़ातिमा",
+      "name_en": "Suraiya Fatima",
+      "gender": "female",
+      "meaning_ur": "روشن ستارہ، پاکیزہ",
+      "meaning_hi": "उज्ज्वल सितारा, पाक",
+      "meaning_en": "Pure shining star",
+      "detail": "یہ نام نور اور پاکیزگی کی علامت ہے۔"
+    },
+    {
+      "name_ur": "ثوبیہ نور",
+      "name_hi": "सौबिया नूर",
+      "name_en": "Saubiya Noor",
+      "gender": "female",
+      "meaning_ur": "پاکیزہ نور",
+      "meaning_hi": "पवित्र रोशनी",
+      "meaning_en": "Pure light",
+      "detail": "یہ نام پاکیزہ کردار اور نورانیت کی نشانی ہے۔"
+    },
+    {
+      "name_ur": "ثنا زہرہ",
+      "name_hi": "सना ज़हरा",
+      "name_en": "Sana Zahra",
+      "gender": "female",
+      "meaning_ur": "روشن تعریف",
+      "meaning_hi": "उज्ज्वल प्रशंसा",
+      "meaning_en": "Radiant praise",
+      "detail": "یہ نام خوبصورتی اور نیکی کی علامت ہے۔"
+    },
+    {
+      "name_ur": "ثریٰ نور",
+      "name_hi": "सुरा नूर",
+      "name_en": "Sura Noor",
+      "gender": "female",
+      "meaning_ur": "بلند نور",
+      "meaning_hi": "ऊँची रोशनी",
+      "meaning_en": "High light",
+      "detail": "یہ نام روحانی بلندی کی علامت ہے۔"
+    },
+    {
+      "name_ur": "ثناء اللہ",
+      "name_hi": "सना अल्लाह",
+      "name_en": "Sanaullah",
+      "gender": "female",
+      "meaning_ur": "اللہ کی تعریف",
+      "meaning_hi": "अल्लाह की प्रशंसा",
+      "meaning_en": "Praise of Allah",
+      "detail": "یہ نام حمدِ الٰہی سے وابستہ ہے۔"
+    },
+    {
+      "name_ur": "ثاقبہ نور",
+      "name_hi": "साक़िबा नूर",
+      "name_en": "Saqiba Noor",
+      "gender": "female",
+      "meaning_ur": "چمکتا ہوا نور",
+      "meaning_hi": "तेज़ रोशनी",
+      "meaning_en": "Bright light",
+      "detail": "یہ نام ذہانت اور نورانیت کی علامت ہے۔"
+    },
+    {
+      "name_ur": "ثروت جہاں",
+      "name_hi": "सरवत जहाँ",
+      "name_en": "Sarwat Jahan",
+      "gender": "female",
+      "meaning_ur": "دنیا کی دولت",
+      "meaning_hi": "दुनिया की दौलत",
+      "meaning_en": "Wealth of the world",
+      "detail": "یہ نام نعمت اور عزت کی علامت ہے۔"
+    },
+    {
+      "name_ur": "ثریا زینب",
+      "name_hi": "सुरैया ज़ैनब",
+      "name_en": "Suraiya Zainab",
+      "gender": "female",
+      "meaning_ur": "روشن ستارہ، معزز",
+      "meaning_hi": "उज्ज्वल सितारा, सम्मानित",
+      "meaning_en": "Honorable shining star",
+      "detail": "یہ نام عزت اور نور دونوں کو ظاہر کرتا ہے۔"
+    },
+    {
+      "name_ur": "ثناء حیا",
+      "name_hi": "सना हया",
+      "name_en": "Sana Haya",
+      "gender": "female",
+      "meaning_ur": "شرم و حیا کی تعریف",
+      "meaning_hi": "लज्जा की प्रशंसा",
+      "meaning_en": "Praise of modesty",
+      "detail": "یہ نام اسلامی حیا کی خوبصورت علامت ہے۔"
+    },
+    {
+      "name_ur": "ثریٰ حور",
+      "name_hi": "सुरा हूर",
+      "name_en": "Sura Hoor",
+      "gender": "female",
+      "meaning_ur": "بلند مقام والی حور",
+      "meaning_hi": "ऊँचे दर्जे की हूर",
+      "meaning_en": "High-ranked maiden",
+      "detail": "یہ نام جنتی صفات کی طرف اشارہ کرتا ہے۔"
+    },
+    {
+      "name_ur": "ثنا فاطمہ",
+      "name_hi": "सना फ़ातिमा",
+      "name_en": "Sana Fatima",
+      "gender": "female",
+      "meaning_ur": "پاکیزہ تعریف",
+      "meaning_hi": "पवित्र प्रशंसा",
+      "meaning_en": "Pure praise",
+      "detail": "یہ نام پاکیزگی اور نیکی کی علامت ہے۔"
+    },
+    {
+      "name_ur": "ثریا نورین",
+      "name_hi": "सुरैया नूरीन",
+      "name_en": "Suraiya Nureen",
+      "gender": "female",
+      "meaning_ur": "دوہرا نور والا ستارہ",
+      "meaning_hi": "दोहरी रोशनी वाला सितारा",
+      "meaning_en": "Star with double light",
+      "detail": "یہ نام نور، خوبصورتی اور برکت کی علامت ہے۔"
+    }
+  ]
+}

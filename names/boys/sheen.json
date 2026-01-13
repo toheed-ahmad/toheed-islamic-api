@@ -1,0 +1,96 @@
+{
+  "letter": "sheen",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "شاہد",
+      "name_hindi": "शाहिद",
+      "name_english": "Shahid",
+      "meaning_urdu": "گواہ، حق پر گواہی دینے والا",
+      "meaning_hindi": "गवाह, सत्य का साक्षी",
+      "meaning_english": "Witness, one who bears testimony",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "شاکر",
+      "name_hindi": "शाकिर",
+      "name_english": "Shakir",
+      "meaning_urdu": "شکر کرنے والا",
+      "meaning_hindi": "कृतज्ञ, धन्यवाद देने वाला",
+      "meaning_english": "Thankful, grateful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "شعیب",
+      "name_hindi": "शुऐब",
+      "name_english": "Shuaib",
+      "meaning_urdu": "حضرت شعیبؑ کا نام",
+      "meaning_hindi": "पैगंबर शुऐब का नाम",
+      "meaning_english": "Name of Prophet Shuʿayb",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "شمس",
+      "name_hindi": "शम्स",
+      "name_english": "Shams",
+      "meaning_urdu": "سورج",
+      "meaning_hindi": "सूरज",
+      "meaning_english": "Sun",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "شریف",
+      "name_hindi": "शरीफ़",
+      "name_english": "Sharif",
+      "meaning_urdu": "معزز، نیک",
+      "meaning_hindi": "सम्मानित, नेक",
+      "meaning_english": "Honorable, noble",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "شہاب",
+      "name_hindi": "शिहाब",
+      "name_english": "Shihab",
+      "meaning_urdu": "چمکتا ہوا ستارہ",
+      "meaning_hindi": "चमकता तारा",
+      "meaning_english": "Flaming star, meteor",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "شاکرعلی",
+      "name_hindi": "शाकिर अली",
+      "name_english": "Shakir Ali",
+      "meaning_urdu": "شکر کرنے والا، علیؓ سے منسوب",
+      "meaning_hindi": "कृतज्ञ, अली से संबंधित",
+      "meaning_english": "Grateful, associated with Ali",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "شہزاد",
+      "name_hindi": "शहज़ाद",
+      "name_english": "Shehzad",
+      "meaning_urdu": "شاہ کا بیٹا",
+      "meaning_hindi": "राजकुमार",
+      "meaning_english": "Prince",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "شبیب",
+      "name_hindi": "शबीब",
+      "name_english": "Shabib",
+      "meaning_urdu": "نوجوان",
+      "meaning_hindi": "युवा",
+      "meaning_english": "Youthful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "شہریار",
+      "name_hindi": "शहरयार",
+      "name_english": "Shahryar",
+      "meaning_urdu": "بادشاہ، حکمران",
+      "meaning_hindi": "राजा, शासक",
+      "meaning_english": "King, ruler",
+      "gender": "male"
+    }
+  ]
+}

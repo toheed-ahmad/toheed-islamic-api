@@ -1,0 +1,79 @@
+{
+  "letter": "waw",
+  "arabic_letter": "و",
+  "gender": "female",
+  "names": [
+    {
+      "name_urdu": "وداد",
+      "name_hindi": "विदाद",
+      "name_english": "Widad",
+      "meaning_urdu": "محبت، دوستی",
+      "meaning_hindi": "प्रेम, मित्रता",
+      "meaning_english": "Love, affection",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "وجیہہ",
+      "name_hindi": "वजीहा",
+      "name_english": "Wajiha",
+      "meaning_urdu": "باوقار، خوبصورت",
+      "meaning_hindi": "सम्मानित, सुंदर",
+      "meaning_english": "Graceful, dignified",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "وادیہ",
+      "name_hindi": "वादिया",
+      "name_english": "Wadiya",
+      "meaning_urdu": "پرسکون، نرم",
+      "meaning_hindi": "शांत, कोमल",
+      "meaning_english": "Calm, gentle",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "وحیدہ",
+      "name_hindi": "वहीदा",
+      "name_english": "Wahida",
+      "meaning_urdu": "اکیلی، منفرد",
+      "meaning_hindi": "अद्वितीय, अकेली",
+      "meaning_english": "Unique, one",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "وصیفہ",
+      "name_hindi": "वसीफा",
+      "name_english": "Wasifa",
+      "meaning_urdu": "تعریف کرنے والی",
+      "meaning_hindi": "प्रशंसा करने वाली",
+      "meaning_english": "One who praises",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "وعدہ",
+      "name_hindi": "वादा",
+      "name_english": "Waada",
+      "meaning_urdu": "قول، وعدہ",
+      "meaning_hindi": "प्रतिज्ञा",
+      "meaning_english": "Promise",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ودیہہ",
+      "name_hindi": "विदीहा",
+      "name_english": "Wadiha",
+      "meaning_urdu": "ذہین، فطری سمجھ رکھنے والی",
+      "meaning_hindi": "बुद्धिमान",
+      "meaning_english": "Intelligent, perceptive",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "وجدان",
+      "name_hindi": "वजदान",
+      "name_english": "Wijdan",
+      "meaning_urdu": "احساس، باطنی علم",
+      "meaning_hindi": "आंतरिक भावना",
+      "meaning_english": "Inner awareness",
+      "gender": "female"
+    }
+  ]
+}

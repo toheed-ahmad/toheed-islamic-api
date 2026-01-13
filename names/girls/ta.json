@@ -1,0 +1,197 @@
+{
+  "letter": "ta",
+  "label": "ت",
+  "gender": "female",
+  "names": [
+    {
+      "name_ur": "تقویٰ",
+      "name_hi": "तक़वा",
+      "name_en": "Taqwa",
+      "gender": "female",
+      "meaning_ur": "اللہ کا خوف، پرہیزگاری",
+      "meaning_hi": "अल्लाह का डर, परहेज़गारी",
+      "meaning_en": "Piety, God-consciousness",
+      "detail": "یہ نام نیکی، دینداری اور اللہ کے احکام پر چلنے کی علامت ہے۔"
+    },
+    {
+      "name_ur": "تحریم",
+      "name_hi": "तहरीम",
+      "name_en": "Tahreem",
+      "gender": "female",
+      "meaning_ur": "پاکیزگی، احترام",
+      "meaning_hi": "पवित्रता, सम्मान",
+      "meaning_en": "Sanctity, Respect",
+      "detail": "یہ نام پاکیزہ زندگی اور عزت والے کردار کی طرف اشارہ کرتا ہے۔"
+    },
+    {
+      "name_ur": "تسنیم",
+      "name_hi": "तस्नीम",
+      "name_en": "Tasneem",
+      "gender": "female",
+      "meaning_ur": "جنت کا چشمہ",
+      "meaning_hi": "जन्नत का झरना",
+      "meaning_en": "A fountain in Paradise",
+      "detail": "یہ قرآن میں مذکور جنت کے چشمے کا نام ہے۔"
+    },
+    {
+      "name_ur": "تالیہ",
+      "name_hi": "तालिया",
+      "name_en": "Talia",
+      "gender": "female",
+      "meaning_ur": "تلاوت کرنے والی",
+      "meaning_hi": "क़ुरआन पढ़ने वाली",
+      "meaning_en": "Reciter",
+      "detail": "یہ نام قرآن سے محبت اور نیک عادت کی علامت ہے۔"
+    },
+    {
+      "name_ur": "توحیدہ",
+      "name_hi": "तौहीदा",
+      "name_en": "Tauheeda",
+      "gender": "female",
+      "meaning_ur": "اللہ کی وحدانیت پر ایمان رکھنے والی",
+      "meaning_hi": "अल्लाह की एकता पर विश्वास रखने वाली",
+      "meaning_en": "Believer in Oneness of Allah",
+      "detail": "یہ نام عقیدۂ توحید کی مضبوطی کو ظاہر کرتا ہے۔"
+    },
+    {
+      "name_ur": "تابندہ",
+      "name_hi": "ताबिंदा",
+      "name_en": "Tabinda",
+      "gender": "female",
+      "meaning_ur": "چمکدار، روشن",
+      "meaning_hi": "चमकदार, उज्ज्वल",
+      "meaning_en": "Shining, Radiant",
+      "detail": "یہ نام روشنی اور خوش اخلاقی کی نشانی ہے۔"
+    },
+    {
+      "name_ur": "تجمل",
+      "name_hi": "तजम्मुल",
+      "name_en": "Tajammul",
+      "gender": "female",
+      "meaning_ur": "خوبصورتی، وقار",
+      "meaning_hi": "सुंदरता, गरिमा",
+      "meaning_en": "Grace, Beauty",
+      "detail": "یہ نام خوبصورت انداز اور وقار کی علامت ہے۔"
+    },
+    {
+      "name_ur": "تحفہ",
+      "name_hi": "तोहफ़ा",
+      "name_en": "Tohfa",
+      "gender": "female",
+      "meaning_ur": "اللہ کی نعمت",
+      "meaning_hi": "अल्लाह की देन",
+      "meaning_en": "Gift",
+      "detail": "یہ نام اولاد کو اللہ کا انعام سمجھنے کی عکاسی کرتا ہے۔"
+    },
+    {
+      "name_ur": "تہنیت",
+      "name_hi": "तहनियत",
+      "name_en": "Tahniyat",
+      "gender": "female",
+      "meaning_ur": "مبارکباد",
+      "meaning_hi": "बधाई",
+      "meaning_en": "Congratulations",
+      "detail": "یہ نام خوشی اور خیر کی علامت ہے۔"
+    },
+    {
+      "name_ur": "تالیہ نور",
+      "name_hi": "तालिया नूर",
+      "name_en": "Talia Noor",
+      "gender": "female",
+      "meaning_ur": "نور کی تلاوت کرنے والی",
+      "meaning_hi": "रोशनी की तिलावत करने वाली",
+      "meaning_en": "Reciter of Light",
+      "detail": "یہ نام علم اور ہدایت کی روشنی کی طرف اشارہ کرتا ہے۔"
+    },
+    {
+      "name_ur": "تسنیم فاطمہ",
+      "name_hi": "तस्नीम फ़ातिमा",
+      "name_en": "Tasneem Fatima",
+      "gender": "female",
+      "meaning_ur": "جنت کا چشمہ، پاکیزہ",
+      "meaning_hi": "जन्नत का झरना, पाक",
+      "meaning_en": "Pure fountain of Paradise",
+      "detail": "یہ نام جنت اور پاکیزگی دونوں کو جمع کرتا ہے۔"
+    },
+    {
+      "name_ur": "توحیدا",
+      "name_hi": "तौहीदा",
+      "name_en": "Tawheeda",
+      "gender": "female",
+      "meaning_ur": "ایک اللہ پر ایمان",
+      "meaning_hi": "एक अल्लाह पर विश्वास",
+      "meaning_en": "Faith in One Allah",
+      "detail": "یہ نام اسلامی عقیدے کی بنیاد کو ظاہر کرتا ہے۔"
+    },
+    {
+      "name_ur": "تسبیح",
+      "name_hi": "तस्बीह",
+      "name_en": "Tasbeeh",
+      "gender": "female",
+      "meaning_ur": "اللہ کی یاد",
+      "meaning_hi": "अल्लाह की याद",
+      "meaning_en": "Remembrance of Allah",
+      "detail": "یہ نام ذکر اور عبادت سے محبت کی علامت ہے۔"
+    },
+    {
+      "name_ur": "تالیف",
+      "name_hi": "तालिफ़",
+      "name_en": "Talif",
+      "gender": "female",
+      "meaning_ur": "محبت پیدا کرنے والی",
+      "meaning_hi": "प्रेम उत्पन्न करने वाली",
+      "meaning_en": "Affection, Harmony",
+      "detail": "یہ نام دلوں کو جوڑنے والی شخصیت کی علامت ہے۔"
+    },
+    {
+      "name_ur": "تہذیب",
+      "name_hi": "तहज़ीब",
+      "name_en": "Tahzeeb",
+      "gender": "female",
+      "meaning_ur": "شائستگی، اچھا اخلاق",
+      "meaning_hi": "सभ्यता, अच्छे संस्कार",
+      "meaning_en": "Culture, Good manners",
+      "detail": "یہ نام اچھے اخلاق اور سلیقے کو ظاہر کرتا ہے۔"
+    },
+    {
+      "name_ur": "تالیہ فاطمہ",
+      "name_hi": "तालिया फ़ातिमा",
+      "name_en": "Talia Fatima",
+      "gender": "female",
+      "meaning_ur": "تلاوت کرنے والی، پاکیزہ",
+      "meaning_hi": "तिलावत करने वाली, पाक",
+      "meaning_en": "Pure reciter",
+      "detail": "یہ نام قرآن اور پاکیزگی دونوں کی علامت ہے۔"
+    },
+    {
+      "name_ur": "تحیہ",
+      "name_hi": "तहिया",
+      "name_en": "Tahiya",
+      "gender": "female",
+      "meaning_ur": "سلام، دعا",
+      "meaning_hi": "सलाम, दुआ",
+      "meaning_en": "Greeting, Prayer",
+      "detail": "یہ نام امن اور دعا کی علامت ہے۔"
+    },
+    {
+      "name_ur": "تالیہ زہرہ",
+      "name_hi": "तालिया ज़हरा",
+      "name_en": "Talia Zahra",
+      "gender": "female",
+      "meaning_ur": "روشن تلاوت کرنے والی",
+      "meaning_hi": "उज्ज्वल तिलावत करने वाली",
+      "meaning_en": "Radiant reciter",
+      "detail": "یہ نام نور اور علم کی خوبصورت ترکیب ہے۔"
+    },
+    {
+      "name_ur": "تسنیم نور",
+      "name_hi": "तस्नीम नूर",
+      "name_en": "Tasneem Noor",
+      "gender": "female",
+      "meaning_ur": "جنت کا نور",
+      "meaning_hi": "जन्नत की रोशनी",
+      "meaning_en": "Light of Paradise",
+      "detail": "یہ نام جنت اور نور دونوں کی علامت ہے۔"
+    }
+  ]
+}

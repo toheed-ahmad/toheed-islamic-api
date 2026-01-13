@@ -1,0 +1,206 @@
+{
+  "letter": "sheen",
+  "gender": "female",
+  "names": [
+    {
+      "name_ur": "شازیہ",
+      "name_hi": "शाज़िया",
+      "name_en": "Shazia",
+      "meaning_ur": "معزز، قابلِ احترام",
+      "meaning_hi": "सम्मानित",
+      "meaning_en": "Respectable, honorable",
+      "detail": "وقار اور عزت کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شریفہ",
+      "name_hi": "शरीफ़ा",
+      "name_en": "Sharifa",
+      "meaning_ur": "نیک، باعزت",
+      "meaning_hi": "नेक, प्रतिष्ठित",
+      "meaning_en": "Noble, virtuous",
+      "detail": "اچھے اخلاق کی پہچان",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شہناز",
+      "name_hi": "शहनाज़",
+      "name_en": "Shehnaz",
+      "meaning_ur": "بادشاہ کی نازنین",
+      "meaning_hi": "राजकुमारी",
+      "meaning_en": "Beloved of the king",
+      "detail": "خوبصورتی اور نرمی کا نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شمیلہ",
+      "name_hi": "शमीला",
+      "name_en": "Shamila",
+      "meaning_ur": "شامل ہونے والی، ملنسار",
+      "meaning_hi": "मिलनसार",
+      "meaning_en": "Sociable, friendly",
+      "detail": "نرمی اور محبت کا اظہار",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شفیقہ",
+      "name_hi": "शफ़ीका",
+      "name_en": "Shafiqa",
+      "meaning_ur": "مہربان، رحم دل",
+      "meaning_hi": "दयालु",
+      "meaning_en": "Kind, compassionate",
+      "detail": "رحم و کرم کی صفت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شبنم",
+      "name_hi": "शबनम",
+      "name_en": "Shabnam",
+      "meaning_ur": "اوس، شب کی بوند",
+      "meaning_hi": "ओस",
+      "meaning_en": "Dew",
+      "detail": "نرمی اور تازگی کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شگفتہ",
+      "name_hi": "शगुफ़्ता",
+      "name_en": "Shagufta",
+      "meaning_ur": "کھلی ہوئی، خوش",
+      "meaning_hi": "खिली हुई",
+      "meaning_en": "Blooming, cheerful",
+      "detail": "خوش اخلاقی کا نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شکیلہ",
+      "name_hi": "शकीला",
+      "name_en": "Shakeela",
+      "meaning_ur": "خوبصورت",
+      "meaning_hi": "सुंदर",
+      "meaning_en": "Beautiful",
+      "detail": "حسن و جمال کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شاہینہ",
+      "name_hi": "शाहिना",
+      "name_en": "Shahina",
+      "meaning_ur": "باز جیسی، بہادر",
+      "meaning_hi": "साहसी",
+      "meaning_en": "Brave like a falcon",
+      "detail": "حوصلہ اور طاقت کا نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شکیرا",
+      "name_hi": "शकीरा",
+      "name_en": "Shakira",
+      "meaning_ur": "شکر گزار",
+      "meaning_hi": "कृतज्ञ",
+      "meaning_en": "Thankful",
+      "detail": "شکر کی صفت والا نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شمائلہ",
+      "name_hi": "शमाइला",
+      "name_en": "Shamaila",
+      "meaning_ur": "عادات، خوبیاں",
+      "meaning_hi": "स्वभाव",
+      "meaning_en": "Traits, virtues",
+      "detail": "اچھی عادتوں کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شفاء",
+      "name_hi": "शिफ़ा",
+      "name_en": "Shifa",
+      "meaning_ur": "شفا، علاج",
+      "meaning_hi": "आरोग्य",
+      "meaning_en": "Healing",
+      "detail": "قرآنی مفہوم والا نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شاہدہ",
+      "name_hi": "शाहिदा",
+      "name_en": "Shahida",
+      "meaning_ur": "گواہ",
+      "meaning_hi": "साक्षी",
+      "meaning_en": "Witness",
+      "detail": "حق کی گواہی کا تصور",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شائستہ",
+      "name_hi": "शाइस्ता",
+      "name_en": "Shaista",
+      "meaning_ur": "مہذب، سلیقہ مند",
+      "meaning_hi": "सभ्य",
+      "meaning_en": "Polite, cultured",
+      "detail": "اخلاق و تہذیب کا نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شہیدہ",
+      "name_hi": "शहीदा",
+      "name_en": "Shaheeda",
+      "meaning_ur": "اللہ کی راہ میں جان دینے والی",
+      "meaning_hi": "शहीद स्त्री",
+      "meaning_en": "Martyr woman",
+      "detail": "عظیم قربانی کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شمسیہ",
+      "name_hi": "शम्सिया",
+      "name_en": "Shamsia",
+      "meaning_ur": "سورج سے منسوب",
+      "meaning_hi": "सूर्य से संबंधित",
+      "meaning_en": "Related to sun",
+      "detail": "روشنی اور چمک کا نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شہلا",
+      "name_hi": "शहला",
+      "name_en": "Shahla",
+      "meaning_ur": "گہری آنکھوں والی",
+      "meaning_hi": "गहरी आँखों वाली",
+      "meaning_en": "Deep-eyed",
+      "detail": "حسن کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شبیہ",
+      "name_hi": "शबीह",
+      "name_en": "Shabeeh",
+      "meaning_ur": "مشابہت",
+      "meaning_hi": "समानता",
+      "meaning_en": "Resemblance",
+      "detail": "خوبصورت انداز کا نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شکیلہ نور",
+      "name_hi": "शकीला नूर",
+      "name_en": "Shakeela Noor",
+      "meaning_ur": "خوبصورتی کی روشنی",
+      "meaning_hi": "सुंदरता की रोशनी",
+      "meaning_en": "Light of beauty",
+      "detail": "دو خوبصورت اسلامی الفاظ",
+      "gender": "female"
+    },
+    {
+      "name_ur": "شفیعہ",
+      "name_hi": "शफ़ीअा",
+      "name_en": "Shafia",
+      "meaning_ur": "سفارش کرنے والی",
+      "meaning_hi": "सिफ़ारिश करने वाली",
+      "meaning_en": "Intercessor",
+      "detail": "رحمت و شفاعت کا تصور",
+      "gender": "female"
+    }
+  ]
+}

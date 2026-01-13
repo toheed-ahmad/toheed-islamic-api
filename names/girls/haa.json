@@ -1,0 +1,97 @@
+{
+  "letter": "haa",
+  "arabic_letter": "ہ",
+  "gender": "female",
+  "names": [
+    {
+      "name_urdu": "ہدیٰ",
+      "name_hindi": "हुदा",
+      "name_english": "Huda",
+      "meaning_urdu": "ہدایت، راہنمائی",
+      "meaning_hindi": "मार्गदर्शन, रहनुमाई",
+      "meaning_english": "Guidance, direction",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ہاجرہ",
+      "name_hindi": "हाजरा",
+      "name_english": "Hajra",
+      "meaning_urdu": "ہجرت کرنے والی",
+      "meaning_hindi": "हिजरत करने वाली",
+      "meaning_english": "One who migrates",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ہانیہ",
+      "name_hindi": "हानिया",
+      "name_english": "Haniya",
+      "meaning_urdu": "خوشی دینے والی",
+      "meaning_hindi": "खुशी देने वाली",
+      "meaning_english": "Bringer of happiness",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ہنیرہ",
+      "name_hindi": "हनीरा",
+      "name_english": "Haneera",
+      "meaning_urdu": "نرمی، محبت والی",
+      "meaning_hindi": "स्नेह, कोमलता",
+      "meaning_english": "Gentle, affectionate",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ہما",
+      "name_hindi": "हमा",
+      "name_english": "Huma",
+      "meaning_urdu": "بلند پرواز کرنے والی، خوش نصیب",
+      "meaning_hindi": "उच्च उड़ान वाली, भाग्यशाली",
+      "meaning_english": "Exalted, fortunate",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ہنّاء",
+      "name_hindi": "हन्ना",
+      "name_english": "Hina",
+      "meaning_urdu": "مبارک، خوشبو والی",
+      "meaning_hindi": "मंगलमय, खुशबू",
+      "meaning_english": "Blessed, fragrant",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ہبیبہ",
+      "name_hindi": "हबीबा",
+      "name_english": "Habiba",
+      "meaning_urdu": "محبوبہ، پیاری",
+      "meaning_hindi": "प्रिय, प्यारी",
+      "meaning_english": "Beloved",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ہلالہ",
+      "name_hindi": "हलाला",
+      "name_english": "Hilala",
+      "meaning_urdu": "چاند جیسی روشنی",
+      "meaning_hindi": "चाँद जैसी रोशनी",
+      "meaning_english": "Moon-like light",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ہلانہ",
+      "name_hindi": "हलाना",
+      "name_english": "Halaana",
+      "meaning_urdu": "نور سے بھرپور، روشنی والی",
+      "meaning_hindi": "रोशनी से भरी हुई",
+      "meaning_english": "Filled with light",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ہنیہ",
+      "name_hindi": "हनीयाह",
+      "name_english": "Haniya",
+      "meaning_urdu": "خوشی، مسرت",
+      "meaning_hindi": "खुशी, आनंद",
+      "meaning_english": "Happiness, joy",
+      "gender": "female"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "letter": "kha",
+  "gender": "female",
+  "names": [
+    {
+      "name_ur": "خدیجہ",
+      "name_hi": "ख़दीजा",
+      "name_en": "Khadija",
+      "meaning_ur": "جلد پیدا ہونے والی",
+      "meaning_hi": "शीघ्र जन्म लेने वाली",
+      "meaning_en": "Prematurely born",
+      "detail": "ام المؤمنین حضرت خدیجہؓ بنت خویلدؓ، نبی کریم ﷺ کی پہلی زوجہ",
+      "gender": "female"
+    },
+    {
+      "name_ur": "خنساء",
+      "name_hi": "ख़नसा",
+      "name_en": "Khansa",
+      "meaning_ur": "اونچی ناک والی",
+      "meaning_hi": "उभरी नाक वाली",
+      "meaning_en": "Woman with a prominent nose",
+      "detail": "مشہور صحابیہ اور عرب کی عظیم شاعرہ",
+      "gender": "female"
+    },
+    {
+      "name_ur": "خلیلہ",
+      "name_hi": "ख़लीला",
+      "name_en": "Khalila",
+      "meaning_ur": "دوست، سہیلی",
+      "meaning_hi": "मित्र",
+      "meaning_en": "Friend, companion",
+      "detail": "محبت اور رفاقت کا مفہوم",
+      "gender": "female"
+    },
+    {
+      "name_ur": "خاشعہ",
+      "name_hi": "ख़ाशिआ",
+      "name_en": "Khashia",
+      "meaning_ur": "عاجزی کرنے والی",
+      "meaning_hi": "विनम्र",
+      "meaning_en": "Humble, submissive",
+      "detail": "خشوع و خضوع کی صفت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "خیرالنساء",
+      "name_hi": "ख़ैरुननिसा",
+      "name_en": "Khair-un-Nisa",
+      "meaning_ur": "عورتوں میں بہترین",
+      "meaning_hi": "स्त्रियों में श्रेष्ठ",
+      "meaning_en": "Best among women",
+      "detail": "فضیلت اور بھلائی ظاہر کرنے والا نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "خوشبو",
+      "name_hi": "ख़ुशबू",
+      "name_en": "Khushboo",
+      "meaning_ur": "مہک، خوشبو",
+      "meaning_hi": "सुगंध",
+      "meaning_en": "Fragrance",
+      "detail": "نرمی اور خوش اخلاقی کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "خیرہ",
+      "name_hi": "ख़ैरा",
+      "name_en": "Khaira",
+      "meaning_ur": "بھلائی والی",
+      "meaning_hi": "भलाई करने वाली",
+      "meaning_en": "Good, virtuous",
+      "detail": "خیر اور نیکی کا مفہوم",
+      "gender": "female"
+    },
+    {
+      "name_ur": "خاتون",
+      "name_hi": "ख़ातून",
+      "name_en": "Khatun",
+      "meaning_ur": "معزز عورت",
+      "meaning_hi": "सम्मानित स्त्री",
+      "meaning_en": "Noble lady",
+      "detail": "عزت اور وقار کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "خزینہ",
+      "name_hi": "ख़ज़ीना",
+      "name_en": "Khazina",
+      "meaning_ur": "خزانہ",
+      "meaning_hi": "ख़ज़ाना",
+      "meaning_en": "Treasure",
+      "detail": "قیمتی اور محبوب ہونے کا مفہوم",
+      "gender": "female"
+    },
+    {
+      "name_ur": "خاشیہ",
+      "name_hi": "ख़ाशिया",
+      "name_en": "Khashiya",
+      "meaning_ur": "اللہ سے ڈرنے والی",
+      "meaning_hi": "ईश्वर से डरने वाली",
+      "meaning_en": "God-fearing",
+      "detail": "تقویٰ اور خوفِ خدا کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "خنساءٰ",
+      "name_hi": "ख़नसा",
+      "name_en": "Khansa",
+      "meaning_ur": "وقار والی خاتون",
+      "meaning_hi": "गरिमामयी स्त्री",
+      "meaning_en": "Dignified woman",
+      "detail": "صبر اور استقامت کی مثال",
+      "gender": "female"
+    },
+    {
+      "name_ur": "خلوص",
+      "name_hi": "ख़ुलूस",
+      "name_en": "Khuloos",
+      "meaning_ur": "سچائی، اخلاص",
+      "meaning_hi": "ईमानदारी",
+      "meaning_en": "Sincerity",
+      "detail": "صاف دل اور نیت کا اظہار",
+      "gender": "female"
+    },
+    {
+      "name_ur": "خاشمہ",
+      "name_hi": "ख़ाशिमा",
+      "name_en": "Khashima",
+      "meaning_ur": "فرمانبردار",
+      "meaning_hi": "आज्ञाकारी",
+      "meaning_en": "Obedient",
+      "detail": "اطاعت اور عاجزی کا مفہوم",
+      "gender": "female"
+    },
+    {
+      "name_ur": "خیر",
+      "name_hi": "ख़ैर",
+      "name_en": "Khair",
+      "meaning_ur": "بھلائی",
+      "meaning_hi": "भलाई",
+      "meaning_en": "Goodness",
+      "detail": "قرآنی لفظ، نیکی کا مفہوم",
+      "gender": "female"
+    },
+    {
+      "name_ur": "خدیجہ نور",
+      "name_hi": "ख़दीजा नूर",
+      "name_en": "Khadija Noor",
+      "meaning_ur": "روشنی والی خدیجہ",
+      "meaning_hi": "प्रकाश वाली ख़दीजा",
+      "meaning_en": "Radiant Khadija",
+      "detail": "نور اور برکت کا امتزاج",
+      "gender": "female"
+    }
+  ]
+}

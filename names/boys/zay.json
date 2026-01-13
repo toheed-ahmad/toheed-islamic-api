@@ -1,0 +1,178 @@
+{
+  "letter": "zay",
+  "urdu_letter": "ز",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "زید",
+      "name_hindi": "ज़ैद",
+      "name_english": "Zaid",
+      "meaning_urdu": "ترقی کرنے والا",
+      "meaning_hindi": "वृद्धि करने वाला",
+      "meaning_english": "One who grows, increasing",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زبیر",
+      "name_hindi": "ज़ुबैर",
+      "name_english": "Zubair",
+      "meaning_urdu": "طاقتور، مضبوط",
+      "meaning_hindi": "शक्तिशाली",
+      "meaning_english": "Strong, powerful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زکریا",
+      "name_hindi": "ज़करिया",
+      "name_english": "Zakariya",
+      "meaning_urdu": "اللہ نے یاد کیا",
+      "meaning_hindi": "अल्लाह ने याद किया",
+      "meaning_english": "Allah has remembered",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زاہد",
+      "name_hindi": "ज़ाहिद",
+      "name_english": "Zahid",
+      "meaning_urdu": "دنیا سے بے رغبت",
+      "meaning_hindi": "संयमी",
+      "meaning_english": "Ascetic, pious",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زین",
+      "name_hindi": "ज़ैन",
+      "name_english": "Zain",
+      "meaning_urdu": "خوبصورتی، زینت",
+      "meaning_hindi": "सुंदरता",
+      "meaning_english": "Beauty, grace",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زین العابدین",
+      "name_hindi": "ज़ैनुल आबिदीन",
+      "name_english": "Zain-ul-Abideen",
+      "meaning_urdu": "عبادت گزاروں کی زینت",
+      "meaning_hindi": "इबादत करने वालों की शोभा",
+      "meaning_english": "Adornment of the worshippers",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زکی",
+      "name_hindi": "ज़की",
+      "name_english": "Zaki",
+      "meaning_urdu": "پاکیزہ، نیک",
+      "meaning_hindi": "पवित्र",
+      "meaning_english": "Pure, righteous",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زکری",
+      "name_hindi": "ज़करी",
+      "name_english": "Zikri",
+      "meaning_urdu": "یاد کرنے والا",
+      "meaning_hindi": "स्मरण करने वाला",
+      "meaning_english": "One who remembers",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زعیم",
+      "name_hindi": "ज़ईम",
+      "name_english": "Zaeem",
+      "meaning_urdu": "سردار، رہنما",
+      "meaning_hindi": "नेता",
+      "meaning_english": "Leader, chief",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زکی الدین",
+      "name_hindi": "ज़क़ीउद्दीन",
+      "name_english": "Zakiuddin",
+      "meaning_urdu": "دین میں پاکیزہ",
+      "meaning_hindi": "धर्म में पवित्र",
+      "meaning_english": "Pure in religion",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زریر",
+      "name_hindi": "ज़रीर",
+      "name_english": "Zareer",
+      "meaning_urdu": "بہادر",
+      "meaning_hindi": "बहादुर",
+      "meaning_english": "Brave",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زلفقار",
+      "name_hindi": "ज़ुल्फ़िकार",
+      "name_english": "Zulfiqar",
+      "meaning_urdu": "حضرت علیؓ کی تلوار کا نام",
+      "meaning_hindi": "हज़रत अली की तलवार",
+      "meaning_english": "Name of Hazrat Ali’s sword",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زعفران",
+      "name_hindi": "ज़ाफ़रान",
+      "name_english": "Zafran",
+      "meaning_urdu": "زعفران، خوشبو دار",
+      "meaning_hindi": "केसर",
+      "meaning_english": "Saffron",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زریاب",
+      "name_hindi": "ज़रिया",
+      "name_english": "Zaryab",
+      "meaning_urdu": "دولت والا",
+      "meaning_hindi": "धनी",
+      "meaning_english": "Wealthy",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زاہدالدین",
+      "name_hindi": "ज़ाहिदुद्दीन",
+      "name_english": "Zahiduddin",
+      "meaning_urdu": "دین میں پرہیزگار",
+      "meaning_hindi": "धर्म में संयमी",
+      "meaning_english": "Pious in religion",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زکی الرحمن",
+      "name_hindi": "ज़कीर्रहमान",
+      "name_english": "Zakirrahman",
+      "meaning_urdu": "رحمٰن کا ذکر کرنے والا",
+      "meaning_hindi": "अल्लाह को याद करने वाला",
+      "meaning_english": "One who remembers the Merciful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زکی الرحمن",
+      "name_hindi": "ज़कीर्रहमान",
+      "name_english": "Zakir-ur-Rahman",
+      "meaning_urdu": "رحمٰن کا ذکر کرنے والا",
+      "meaning_hindi": "दयालु को याद करने वाला",
+      "meaning_english": "Rememberer of the Merciful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زینان",
+      "name_hindi": "ज़ैनान",
+      "name_english": "Zainan",
+      "meaning_urdu": "خوبصورت",
+      "meaning_hindi": "सुंदर",
+      "meaning_english": "Beautiful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "زعفر",
+      "name_hindi": "ज़ाफ़र",
+      "name_english": "Zafar",
+      "meaning_urdu": "کامیابی",
+      "meaning_hindi": "सफलता",
+      "meaning_english": "Victory, success",
+      "gender": "male"
+    }
+  ]
+}

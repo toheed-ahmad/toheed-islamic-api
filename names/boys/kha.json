@@ -1,0 +1,79 @@
+{
+  "letter": "kha",
+  "urdu_letter": "خ",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "خالد",
+      "name_hindi": "ख़ालिद",
+      "name_english": "Khalid",
+      "meaning_urdu": "ہمیشہ رہنے والا",
+      "meaning_hindi": "हमेशा रहने वाला",
+      "meaning_english": "Eternal, everlasting",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "خلیل",
+      "name_hindi": "ख़लील",
+      "name_english": "Khalil",
+      "meaning_urdu": "قریبی دوست",
+      "meaning_hindi": "घनिष्ठ मित्र",
+      "meaning_english": "Close friend",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "خالدین",
+      "name_hindi": "ख़ालिदैन",
+      "name_english": "Khalidain",
+      "meaning_urdu": "ہمیشہ رہنے والا",
+      "meaning_hindi": "सदैव रहने वाला",
+      "meaning_english": "Everlasting",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "خضر",
+      "name_hindi": "ख़िज़्र",
+      "name_english": "Khidr",
+      "meaning_urdu": "سبز، زندگی بخش",
+      "meaning_hindi": "हरियाली, जीवन देने वाला",
+      "meaning_english": "Green, life-giving",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "خیرالدین",
+      "name_hindi": "ख़ैरुद्दीन",
+      "name_english": "Khairuddin",
+      "meaning_urdu": "دین کی بھلائی",
+      "meaning_hindi": "धर्म की भलाई",
+      "meaning_english": "Goodness of religion",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "خادم",
+      "name_hindi": "ख़ादिम",
+      "name_english": "Khadim",
+      "meaning_urdu": "خدمت کرنے والا",
+      "meaning_hindi": "सेवा करने वाला",
+      "meaning_english": "Servant",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "خالداللہ",
+      "name_hindi": "ख़ालिदुल्लाह",
+      "name_english": "Khalidullah",
+      "meaning_urdu": "اللہ کے لئے ہمیشہ رہنے والا",
+      "meaning_hindi": "अल्लाह के लिए स्थायी",
+      "meaning_english": "Everlasting for Allah",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "خیر",
+      "name_hindi": "ख़ैर",
+      "name_english": "Khair",
+      "meaning_urdu": "بھلائی",
+      "meaning_hindi": "भलाई",
+      "meaning_english": "Goodness",
+      "gender": "male"
+    }
+  ]
+}

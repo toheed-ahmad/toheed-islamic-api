@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>📊 API Stats</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 p-6">
+
+<h1 class="text-2xl font-bold mb-4">📊 API Statistics</h1>
+
+<div class="bg-white p-4 rounded shadow mb-4">
+  <pre id="stats" class="text-sm"></pre>
+</div>
+
+<button onclick="resetStats()"
+  class="bg-red-600 text-white px-4 py-2 rounded">
+  Reset Stats
+</button>
+
+<script>
+async function loadStats() {
+  const res = await fetch('/api/v1/stats');
+  const data = await res.json();
+  document.getElementById('stats').textContent =
+    JSON.stringify(data, null, 2);
+}
+
+async function resetStats() {
+  if (!confirm('Reset API stats?')) return;
+  await fetch('/api/v1/stats/reset', { method: 'DELETE' });
+  loadStats();
+}
+
+loadStats();
+</script>
+
+</body>
+</html>

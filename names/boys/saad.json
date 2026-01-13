@@ -1,0 +1,96 @@
+{
+  "letter": "saad",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "صابر",
+      "name_hindi": "साबिर",
+      "name_english": "Sabir",
+      "meaning_urdu": "صبر کرنے والا",
+      "meaning_hindi": "धैर्यवान",
+      "meaning_english": "Patient, steadfast",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "صادق",
+      "name_hindi": "सादिक़",
+      "name_english": "Sadiq",
+      "meaning_urdu": "سچ بولنے والا",
+      "meaning_hindi": "सत्यवादी",
+      "meaning_english": "Truthful, sincere",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "صالح",
+      "name_hindi": "सालेह",
+      "name_english": "Salih",
+      "meaning_urdu": "نیک، صالح",
+      "meaning_hindi": "नेक, धर्मपरायण",
+      "meaning_english": "Righteous, virtuous",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "صفوان",
+      "name_hindi": "सफ़वान",
+      "name_english": "Safwan",
+      "meaning_urdu": "صاف پتھر، خالص",
+      "meaning_hindi": "शुद्ध पत्थर, निर्मल",
+      "meaning_english": "Pure rock, sincere",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "صہیب",
+      "name_hindi": "सुहैब",
+      "name_english": "Suhaib",
+      "meaning_urdu": "سرخی مائل بالوں والا",
+      "meaning_hindi": "लालिमा लिए बालों वाला",
+      "meaning_english": "Reddish-haired",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "صریر",
+      "name_hindi": "सरीर",
+      "name_english": "Sareer",
+      "meaning_urdu": "پاکیزہ، معزز",
+      "meaning_hindi": "शुद्ध, सम्मानित",
+      "meaning_english": "Noble, pure",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "صمیم",
+      "name_hindi": "समिम",
+      "name_english": "Samim",
+      "meaning_urdu": "خلوص والا، سچا",
+      "meaning_hindi": "निष्ठावान, सच्चा",
+      "meaning_english": "Sincere, wholehearted",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "صلاح الدین",
+      "name_hindi": "सलाउद्दीन",
+      "name_english": "Salahuddin",
+      "meaning_urdu": "دین کی اصلاح کرنے والا",
+      "meaning_hindi": "धर्म की सुधार करने वाला",
+      "meaning_english": "Righteousness of the faith",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "صبیح",
+      "name_hindi": "सबीह",
+      "name_english": "Sabih",
+      "meaning_urdu": "خوبصورت، روشن چہرہ",
+      "meaning_hindi": "सुंदर, उज्ज्वल",
+      "meaning_english": "Handsome, bright-faced",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "صہیل",
+      "name_hindi": "सुहैल",
+      "name_english": "Suhail",
+      "meaning_urdu": "نرم، آسان",
+      "meaning_hindi": "कोमल, सरल",
+      "meaning_english": "Gentle, easy",
+      "gender": "male"
+    }
+  ]
+}

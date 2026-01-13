@@ -1,0 +1,186 @@
+{
+  "letter": "noon",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "نعمان",
+      "name_hindi": "नुमान",
+      "name_english": "Numan",
+      "meaning_urdu": "بہت قیمتی، نیک انسان",
+      "meaning_hindi": "कीमती, नेक आदमी",
+      "meaning_english": "Precious, virtuous person",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نبیل",
+      "name_hindi": "नबीला",
+      "name_english": "Nabeel",
+      "meaning_urdu": "اعلیٰ مرتبہ، شریف",
+      "meaning_hindi": "उच्च पद वाला, महान",
+      "meaning_english": "High rank, noble",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نعمت",
+      "name_hindi": "निमत",
+      "name_english": "Nemat",
+      "meaning_urdu": "اللہ کی نعمت، فضل",
+      "meaning_hindi": "अल्लाह का वरदान",
+      "meaning_english": "Blessing of Allah",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نور",
+      "name_hindi": "नूर",
+      "name_english": "Noor",
+      "meaning_urdu": "روشنی، روشنی دینے والا",
+      "meaning_hindi": "प्रकाश, प्रकाश देने वाला",
+      "meaning_english": "Light, luminous",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نسیم",
+      "name_hindi": "नसीम",
+      "name_english": "Naseem",
+      "meaning_urdu": "ہلکی ہوا، تازگی",
+      "meaning_hindi": "हल्की हवा, ताजगी",
+      "meaning_english": "Gentle breeze, freshness",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نعیم",
+      "name_hindi": "नाइम",
+      "name_english": "Naeem",
+      "meaning_urdu": "آرام، سکون",
+      "meaning_hindi": "आराम, सुख",
+      "meaning_english": "Comfort, tranquility",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نصر",
+      "name_hindi": "नस्र",
+      "name_english": "Nasr",
+      "meaning_urdu": "فتح، مدد",
+      "meaning_hindi": "فتح, मदद",
+      "meaning_english": "Victory, support",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نصیر",
+      "name_hindi": "नसीर",
+      "name_english": "Nasir",
+      "meaning_urdu": "مددگار، معاون",
+      "meaning_hindi": "सहायक, समर्थक",
+      "meaning_english": "Helper, supporter",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نجیب",
+      "name_hindi": "नजिब",
+      "name_english": "Najeeb",
+      "meaning_urdu": "اعلیٰ، شریف",
+      "meaning_hindi": "उच्च, महान",
+      "meaning_english": "Noble, high-born",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نعمان",
+      "name_hindi": "नुमान",
+      "name_english": "Nu'man",
+      "meaning_urdu": "نیک، قیمتی",
+      "meaning_hindi": "नेक, कीमती",
+      "meaning_english": "Virtuous, precious",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نجم",
+      "name_hindi": "नज्म",
+      "name_english": "Najm",
+      "meaning_urdu": "ستارہ، روشنی والا",
+      "meaning_hindi": "तारा, प्रकाशमान",
+      "meaning_english": "Star, luminous",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نوید",
+      "name_hindi": "नवेद",
+      "name_english": "Naveed",
+      "meaning_urdu": "خوشخبری، پیغام",
+      "meaning_hindi": "अच्छी खबर, संदेश",
+      "meaning_english": "Good news, message",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نعمان",
+      "name_hindi": "नुमान",
+      "name_english": "Nauman",
+      "meaning_urdu": "نیک، قابل احترام",
+      "meaning_hindi": "नेक, सम्माननीय",
+      "meaning_english": "Virtuous, respected",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نائل",
+      "name_hindi": "नाइल",
+      "name_english": "Nael",
+      "meaning_urdu": "حاصل کرنے والا، کامیاب",
+      "meaning_hindi": "प्राप्त करने वाला, सफल",
+      "meaning_english": "Acquirer, successful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نصراللہ",
+      "name_hindi": "नसरुल्लाह",
+      "name_english": "Nasrullah",
+      "meaning_urdu": "اللہ کی مدد",
+      "meaning_hindi": "अल्लाह की मदद",
+      "meaning_english": "Help of Allah",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نظام",
+      "name_hindi": "निज़ाम",
+      "name_english": "Nizam",
+      "meaning_urdu": "انتظام، قانون",
+      "meaning_hindi": "व्यवस्था, कानून",
+      "meaning_english": "Order, system",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نعمان",
+      "name_hindi": "नुमान",
+      "name_english": "Nu'man",
+      "meaning_urdu": "معتبر، نیک",
+      "meaning_hindi": "विश्वसनीय, नेक",
+      "meaning_english": "Trustworthy, virtuous",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نورالدین",
+      "name_hindi": "नूरुद्दीन",
+      "name_english": "Nooruddin",
+      "meaning_urdu": "دین کی روشنی",
+      "meaning_hindi": "धर्म की रोशनी",
+      "meaning_english": "Light of the religion",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نزار",
+      "name_hindi": "नज़ार",
+      "name_english": "Nizar",
+      "meaning_urdu": "نظارے والا، ممتاز",
+      "meaning_hindi": "विशिष्ट, दृष्टि वाला",
+      "meaning_english": "Distinguished, observer",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "نصرت",
+      "name_hindi": "नस्रत",
+      "name_english": "Nasrat",
+      "meaning_urdu": "فتح، مدد",
+      "meaning_hindi": "सहायता, विजय",
+      "meaning_english": "Victory, help",
+      "gender": "male"
+    }
+  ]
+}

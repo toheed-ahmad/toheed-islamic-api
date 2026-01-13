@@ -1,0 +1,97 @@
+{
+  "letter": "kaf",
+  "arabic_letter": "ک",
+  "gender": "female",
+  "names": [
+    {
+      "name_urdu": "کبریٰ",
+      "name_hindi": "क़ुबरा",
+      "name_english": "Kubra",
+      "meaning_urdu": "عظیم، بڑی",
+      "meaning_hindi": "महान, बड़ी",
+      "meaning_english": "Great, grand",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "کلثوم",
+      "name_hindi": "कुलसूम",
+      "name_english": "Kulsoom",
+      "meaning_urdu": "بھرا ہوا چہرہ، خوبصورت",
+      "meaning_hindi": "सुंदर चेहरा",
+      "meaning_english": "Beautiful-faced",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "کریمہ",
+      "name_hindi": "करीमा",
+      "name_english": "Karima",
+      "meaning_urdu": "سخی، معزز",
+      "meaning_hindi": "उदार, सम्मानित",
+      "meaning_english": "Generous, noble",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "کنزہ",
+      "name_hindi": "कंज़ा",
+      "name_english": "Kanza",
+      "meaning_urdu": "خزانہ",
+      "meaning_hindi": "ख़ज़ाना",
+      "meaning_english": "Treasure",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "کوثر",
+      "name_hindi": "कौसर",
+      "name_english": "Kausar",
+      "meaning_urdu": "جنت کی نہر",
+      "meaning_hindi": "जन्नत की नहर",
+      "meaning_english": "River of Paradise",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "کنیزہ",
+      "name_hindi": "कनीज़ा",
+      "name_english": "Kaniza",
+      "meaning_urdu": "خادمہ، فرمانبردار",
+      "meaning_hindi": "सेविका",
+      "meaning_english": "Servant, devoted",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "کاملہ",
+      "name_hindi": "कामिला",
+      "name_english": "Kamila",
+      "meaning_urdu": "مکمل، کامل",
+      "meaning_hindi": "पूर्ण",
+      "meaning_english": "Perfect, complete",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "کفایت",
+      "name_hindi": "किफ़ायत",
+      "name_english": "Kifayat",
+      "meaning_urdu": "بچت، سادگی",
+      "meaning_hindi": "मितव्ययिता",
+      "meaning_english": "Frugality",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "کائنات",
+      "name_hindi": "कायनात",
+      "name_english": "Kainat",
+      "meaning_urdu": "ساری مخلوق",
+      "meaning_hindi": "सृष्टि",
+      "meaning_english": "Universe",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "کبریا",
+      "name_hindi": "क़ुब्रिया",
+      "name_english": "Kubriya",
+      "meaning_urdu": "عظمت، بزرگی",
+      "meaning_hindi": "महानता",
+      "meaning_english": "Grandeur",
+      "gender": "female"
+    }
+  ]
+}

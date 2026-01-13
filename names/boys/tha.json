@@ -1,0 +1,70 @@
+{
+  "letter": "tha",
+  "urdu_letter": "ث",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "ثاقب",
+      "name_hindi": "साक़िब",
+      "name_english": "Saqib",
+      "meaning_urdu": "چمکدار، روشن ستارہ",
+      "meaning_hindi": "चमकदार, उज्ज्वल सितारा",
+      "meaning_english": "Bright, shining star",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ثابت",
+      "name_hindi": "साबित",
+      "name_english": "Sabit",
+      "meaning_urdu": "مضبوط، قائم رہنے والا",
+      "meaning_hindi": "स्थिर, अडिग",
+      "meaning_english": "Firm, steadfast",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ثروان",
+      "name_hindi": "सरवान",
+      "name_english": "Sarwan",
+      "meaning_urdu": "دولت مند، خوشحال",
+      "meaning_hindi": "धनवान, समृद्ध",
+      "meaning_english": "Wealthy, prosperous",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ثنااللہ",
+      "name_hindi": "सनाुल्लाह",
+      "name_english": "Sanaullah",
+      "meaning_urdu": "اللہ کی تعریف کرنے والا",
+      "meaning_hindi": "अल्लाह की प्रशंसा करने वाला",
+      "meaning_english": "One who praises Allah",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ثاقف",
+      "name_hindi": "साक़िफ़",
+      "name_english": "Saqif",
+      "meaning_urdu": "ذہین، سمجھدار",
+      "meaning_hindi": "बुद्धिमान, समझदार",
+      "meaning_english": "Intelligent, wise",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ثامر",
+      "name_hindi": "सामिर",
+      "name_english": "Thamir",
+      "meaning_urdu": "پھل دار، فائدہ پہنچانے والا",
+      "meaning_hindi": "फलदार, लाभ देने वाला",
+      "meaning_english": "Fruitful, beneficial",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ثوبان",
+      "name_hindi": "सौबान",
+      "name_english": "Thawban",
+      "meaning_urdu": "صحابیٔ رسول ﷺ کا نام",
+      "meaning_hindi": "रसूल ﷺ के सहाबी का नाम",
+      "meaning_english": "Name of a companion of Prophet ﷺ",
+      "gender": "male"
+    }
+  ]
+}

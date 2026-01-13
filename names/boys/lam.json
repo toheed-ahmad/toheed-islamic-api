@@ -1,0 +1,186 @@
+{
+  "letter": "lam",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "لطیف",
+      "name_hindi": "लतीफ़",
+      "name_english": "Latif",
+      "meaning_urdu": "مہربان، نرمی کرنے والا",
+      "meaning_hindi": "दयालु, कोमल",
+      "meaning_english": "Kind, gentle",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لائق",
+      "name_hindi": "लायक",
+      "name_english": "Laiq",
+      "meaning_urdu": "قابل، لائق",
+      "meaning_hindi": "योग्य, योग्य",
+      "meaning_english": "Worthy, capable",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لہیب",
+      "name_hindi": "लहीब",
+      "name_english": "Laheeb",
+      "meaning_urdu": "شعلہ، آگ کی مانند",
+      "meaning_hindi": "शोल, आग की तरह",
+      "meaning_english": "Flame, blazing",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لیاقت",
+      "name_hindi": "लियाक़त",
+      "name_english": "Liaqat",
+      "meaning_urdu": "قابلیت، اہلیت",
+      "meaning_hindi": "काबिलियत, योग्यता",
+      "meaning_english": "Capability, competence",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لعبی",
+      "name_hindi": "लाबी",
+      "name_english": "Laabi",
+      "meaning_urdu": "محبت کرنے والا، خوش اخلاق",
+      "meaning_hindi": "प्यार करने वाला, अच्छा स्वभाव",
+      "meaning_english": "Loving, good-natured",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لبیک",
+      "name_hindi": "लबैक",
+      "name_english": "Labbaik",
+      "meaning_urdu": "اللہ کی خدمت میں حاضر",
+      "meaning_hindi": "अल्लाह की सेवा में उपस्थित",
+      "meaning_english": "Here I am for God, devoted",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لجپال",
+      "name_hindi": "लजपाल",
+      "name_english": "Lajpal",
+      "meaning_urdu": "حفاظت کرنے والا",
+      "meaning_hindi": "रक्षा करने वाला",
+      "meaning_english": "Protector, guardian",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لطیف اللہ",
+      "name_hindi": "लतीफ़ुल्लाह",
+      "name_english": "Latifullah",
+      "meaning_urdu": "اللہ کا مہربان",
+      "meaning_hindi": "अल्लाह का दयालु",
+      "meaning_english": "Kind by God",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لامی",
+      "name_hindi": "लामी",
+      "name_english": "Lami",
+      "meaning_urdu": "روشنی دینے والا",
+      "meaning_hindi": "प्रकाश देने वाला",
+      "meaning_english": "Illuminating, bright",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لاہور",
+      "name_hindi": "लाहौर",
+      "name_english": "Lahore",
+      "meaning_urdu": "شہر کا نام، تاریخی",
+      "meaning_hindi": "शहर का नाम, ऐतिहासिक",
+      "meaning_english": "City name, historical",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لایق",
+      "name_hindi": "लायक",
+      "name_english": "Laiq",
+      "meaning_urdu": "قابل، اہل",
+      "meaning_hindi": "योग्य, सक्षम",
+      "meaning_english": "Capable, worthy",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لعیب",
+      "name_hindi": "लाइब",
+      "name_english": "Laib",
+      "meaning_urdu": "مہذب، خوش اخلاق",
+      "meaning_hindi": "सभ्य, अच्छा स्वभाव",
+      "meaning_english": "Polite, good-mannered",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لمیان",
+      "name_hindi": "लमियाँ",
+      "name_english": "Lamian",
+      "meaning_urdu": "نور والا، روشنی دینے والا",
+      "meaning_hindi": "प्रकाश वाला, उज्ज्वल",
+      "meaning_english": "Radiant, luminous",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لمی",
+      "name_hindi": "लमी",
+      "name_english": "Lami",
+      "meaning_urdu": "بہادر، نیک",
+      "meaning_hindi": "बहादुर, नेक",
+      "meaning_english": "Brave, virtuous",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لقمان",
+      "name_hindi": "लक़मान",
+      "name_english": "Luqman",
+      "meaning_urdu": "حکمت والا، نیک نصیحت کرنے والا",
+      "meaning_hindi": "द्रष्टा, नेक सलाह देने वाला",
+      "meaning_english": "Wise, giver of good advice",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لطمان",
+      "name_hindi": "ल़तमान",
+      "name_english": "Latman",
+      "meaning_urdu": "نیک دل، نرم مزاج",
+      "meaning_hindi": "सज्जन, सौम्य स्वभाव",
+      "meaning_english": "Kind-hearted, gentle",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لیل",
+      "name_hindi": "लैल",
+      "name_english": "Lail",
+      "meaning_urdu": "رات، تاریکی",
+      "meaning_hindi": "रात, अंधेरा",
+      "meaning_english": "Night, darkness",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لشکر",
+      "name_hindi": "लश्कर",
+      "name_english": "Lashkar",
+      "meaning_urdu": "سپاہ، فوج",
+      "meaning_hindi": "सेना, फ़ौज",
+      "meaning_english": "Army, troops",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لایان",
+      "name_hindi": "लायान",
+      "name_english": "Layan",
+      "meaning_urdu": "پرامن، نرم دل",
+      "meaning_hindi": "शांत, कोमल हृदय",
+      "meaning_english": "Peaceful, gentle-hearted",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "لئیم",
+      "name_hindi": "लऐम",
+      "name_english": "Laim",
+      "meaning_urdu": "بہادر، نیک",
+      "meaning_hindi": "बहादुर, नेक",
+      "meaning_english": "Brave, virtuous",
+      "gender": "male"
+    }
+  ]
+}

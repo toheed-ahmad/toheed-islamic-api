@@ -1,0 +1,177 @@
+{
+  "letter": "ya",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "یاسین",
+      "name_hindi": "यासीन",
+      "name_english": "Yaseen",
+      "meaning_urdu": "قرآن کی ایک سورہ کا نام، رحمت والا",
+      "meaning_hindi": "कुरआन की एक सूरा का नाम, कृपा वाला",
+      "meaning_english": "Name of a Surah in Quran, full of mercy",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یوسف",
+      "name_hindi": "यूसुफ़",
+      "name_english": "Yusuf",
+      "meaning_urdu": "اللہ نے بڑھا دیا، خوبصورت",
+      "meaning_hindi": "अल्लाह ने बढ़ाया, सुंदर",
+      "meaning_english": "God increases, beautiful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یاران",
+      "name_hindi": "यारान",
+      "name_english": "Yaran",
+      "meaning_urdu": "دوست، محبوب",
+      "meaning_hindi": "मित्र, प्रिय",
+      "meaning_english": "Friend, beloved",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یحیی",
+      "name_hindi": "यह्या",
+      "name_english": "Yahya",
+      "meaning_urdu": "زندہ کرنے والا، نبی کا نام",
+      "meaning_hindi": "जीवन देने वाला, नबी का नाम",
+      "meaning_english": "The one who gives life, Prophet’s name",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یامین",
+      "name_hindi": "यामिन",
+      "name_english": "Yamin",
+      "meaning_urdu": "دائیں طرف، برکت والا",
+      "meaning_hindi": "दाईं ओर, शुभ वाला",
+      "meaning_english": "Right-hand side, blessed",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یارسین",
+      "name_hindi": "यारसीन",
+      "name_english": "Yarsin",
+      "meaning_urdu": "دوستی اور قربت والا",
+      "meaning_hindi": "मित्रता और निकटता वाला",
+      "meaning_english": "Friendly and close",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یحیاءالدین",
+      "name_hindi": "यह्या उल-दीन",
+      "name_english": "Yahyauddin",
+      "meaning_urdu": "دین میں زندہ کرنے والا",
+      "meaning_hindi": "धर्म में जीवन देने वाला",
+      "meaning_english": "Reviver of faith",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یاران علی",
+      "name_hindi": "यारान अली",
+      "name_english": "Yaran Ali",
+      "meaning_urdu": "علی کے دوست، وفادار",
+      "meaning_hindi": "अली के मित्र, वफादार",
+      "meaning_english": "Friend of Ali, loyal",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یعقوب",
+      "name_hindi": "याक़ूब",
+      "name_english": "Yaqub",
+      "meaning_urdu": "اللہ کا خادم، نبی کا نام",
+      "meaning_hindi": "अल्लाह का सेवक, नबी का नाम",
+      "meaning_english": "Servant of Allah, Prophet’s name",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یارش",
+      "name_hindi": "यारश",
+      "name_english": "Yarsh",
+      "meaning_urdu": "محبت اور دوستی والا",
+      "meaning_hindi": "मोहब्बत और मित्रता वाला",
+      "meaning_english": "Loving and friendly",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یحییٰ رضا",
+      "name_hindi": "यह्या रज़ा",
+      "name_english": "Yahya Raza",
+      "meaning_urdu": "رضا والے نبی، صبر والا",
+      "meaning_hindi": "संतुष्टि वाला नबी, धैर्यवान",
+      "meaning_english": "Satisfied Prophet, patient",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یعقوب علی",
+      "name_hindi": "याक़ूब अली",
+      "name_english": "Yaqub Ali",
+      "meaning_urdu": "اللہ کا خادم، اعلیٰ مرتبہ",
+      "meaning_hindi": "अल्लाह का सेवक, उच्च स्थान",
+      "meaning_english": "Servant of Allah, exalted",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یارسین علی",
+      "name_hindi": "यारसीन अली",
+      "name_english": "Yarsin Ali",
+      "meaning_urdu": "دوستی اور قربت والا، علی سے منسوب",
+      "meaning_hindi": "मित्रता और निकटता वाला, अली से संबंधित",
+      "meaning_english": "Friendly, related to Ali",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یحییٰ حسین",
+      "name_hindi": "यह्या हुसैन",
+      "name_english": "Yahya Hussain",
+      "meaning_urdu": "زندگی دینے والا حسین، نیک",
+      "meaning_hindi": "जीवन देने वाला हुसैन, नेक",
+      "meaning_english": "Life-giving Hussain, righteous",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یارش علی",
+      "name_hindi": "यारश अली",
+      "name_english": "Yarsh Ali",
+      "meaning_urdu": "محبت اور دوستی والا، علی سے منسوب",
+      "meaning_hindi": "मोहब्बत और मित्रता वाला, अली से जुड़ा",
+      "meaning_english": "Loving and friendly, related to Ali",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یحییٰ علی",
+      "name_hindi": "यह्या अली",
+      "name_english": "Yahya Ali",
+      "meaning_urdu": "زندگی دینے والا، علی کے تابع",
+      "meaning_hindi": "जीवन देने वाला, अली के अधीन",
+      "meaning_english": "Life-giver, under Ali",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یامین علی",
+      "name_hindi": "यामिन अली",
+      "name_english": "Yamin Ali",
+      "meaning_urdu": "برکت والا، علی سے منسوب",
+      "meaning_hindi": "शुभ वाला, अली से संबंधित",
+      "meaning_english": "Blessed, related to Ali",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یاران رضا",
+      "name_hindi": "यारान रज़ा",
+      "name_english": "Yaran Raza",
+      "meaning_urdu": "دوستی، اللہ کی رضا کے تابع",
+      "meaning_hindi": "मित्रता, अल्लाह की संतुष्टि में",
+      "meaning_english": "Friendship, under Allah’s pleasure",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "یوسف علی",
+      "name_hindi": "यूसुफ़ अली",
+      "name_english": "Yusuf Ali",
+      "meaning_urdu": "خوبصورت، اللہ کا خادم",
+      "meaning_hindi": "सुंदर, अल्लाह का सेवक",
+      "meaning_english": "Beautiful, servant of Allah",
+      "gender": "male"
+    }
+  ]
+}

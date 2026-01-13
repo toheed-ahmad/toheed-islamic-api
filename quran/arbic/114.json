@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "surahNumber": 114,
+    "surahNameArabic": "سُورَةُ النَّاسِ",
+    "surahNameEnglish": "An-Naas",
+    "surahNameTranslation": "Mankind",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 6
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 6231,
+      "ayahNumberInSurah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6232,
+      "ayahNumberInSurah": 2,
+      "text": "مَلِكِ ٱلنَّاسِ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6233,
+      "ayahNumberInSurah": 3,
+      "text": "إِلَٰهِ ٱلنَّاسِ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6234,
+      "ayahNumberInSurah": 4,
+      "text": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6235,
+      "ayahNumberInSurah": 5,
+      "text": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6236,
+      "ayahNumberInSurah": 6,
+      "text": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+}

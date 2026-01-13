@@ -1,0 +1,186 @@
+{
+  "letter": "waw",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "وقاص",
+      "name_hindi": "वकास",
+      "name_english": "Waqas",
+      "meaning_urdu": "شجاع، بہادر",
+      "meaning_hindi": "साहसी, बहादुर",
+      "meaning_english": "Brave, courageous",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ولید",
+      "name_hindi": "वलीद",
+      "name_english": "Walid",
+      "meaning_urdu": "اولاد والا، نیا پیدا ہونے والا",
+      "meaning_hindi": "संतान वाला, नया जन्मा",
+      "meaning_english": "One with children, newborn",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "وحید",
+      "name_hindi": "वहीद",
+      "name_english": "Waheed",
+      "meaning_urdu": "اکیلا، منفرد",
+      "meaning_hindi": "एकल, अद्वितीय",
+      "meaning_english": "Unique, singular",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "وسیم",
+      "name_hindi": "वसीम",
+      "name_english": "Wasim",
+      "meaning_urdu": "خوبصورت، خوشنما",
+      "meaning_hindi": "सुंदर, आकर्षक",
+      "meaning_english": "Handsome, graceful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "وفا",
+      "name_hindi": "वफा",
+      "name_english": "Wafa",
+      "meaning_urdu": "وفاداری، سچائی",
+      "meaning_hindi": "वफ़ादारी, ईमानदारी",
+      "meaning_english": "Loyalty, fidelity",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "وقار",
+      "name_hindi": "वकार",
+      "name_english": "Waqar",
+      "meaning_urdu": "عزت، وقار",
+      "meaning_hindi": "सम्मान, गरिमा",
+      "meaning_english": "Respect, dignity",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ولیم",
+      "name_hindi": "वलीम",
+      "name_english": "Waleem",
+      "meaning_urdu": "میٹھا، مبارک",
+      "meaning_hindi": "मधुर, शुभ",
+      "meaning_english": "Sweet, blessed",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "وضاح",
+      "name_hindi": "वज़ाह",
+      "name_english": "Wazah",
+      "meaning_urdu": "صاف، واضح",
+      "meaning_hindi": "साफ, स्पष्ट",
+      "meaning_english": "Clear, distinct",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "وصال",
+      "name_hindi": "वसाल",
+      "name_english": "Wisal",
+      "meaning_urdu": "ملن، قربت",
+      "meaning_hindi": "मिलन, निकटता",
+      "meaning_english": "Union, closeness",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "وحیداللہ",
+      "name_hindi": "वहीदुल्लाह",
+      "name_english": "Waheedullah",
+      "meaning_urdu": "اللہ کا منفرد بندہ",
+      "meaning_hindi": "अल्लाह का अद्वितीय बंदा",
+      "meaning_english": "Unique servant of Allah",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "وسیم",
+      "name_hindi": "वसीम",
+      "name_english": "Wasim",
+      "meaning_urdu": "خوبصورت، دلکش",
+      "meaning_hindi": "सुंदर, आकर्षक",
+      "meaning_english": "Handsome, elegant",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ولیب",
+      "name_hindi": "वलीब",
+      "name_english": "Waleeb",
+      "meaning_urdu": "قوی، طاقتور",
+      "meaning_hindi": "शक्तिशाली, मजबूत",
+      "meaning_english": "Strong, powerful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "وقاص اللہ",
+      "name_hindi": "वकासुल्लाह",
+      "name_english": "Waqasullah",
+      "meaning_urdu": "اللہ کی مدد والا",
+      "meaning_hindi": "अल्लाह की मदद वाला",
+      "meaning_english": "Helper from Allah",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "وسعت",
+      "name_hindi": "वसअत",
+      "name_english": "Wusat",
+      "meaning_urdu": "وسعت، کشادگی",
+      "meaning_hindi": "व्यापकता, खुलापन",
+      "meaning_english": "Spaciousness, breadth",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "وقارالدین",
+      "name_hindi": "वकारुद्दीन",
+      "name_english": "Waqaruddin",
+      "meaning_urdu": "دین میں وقار",
+      "meaning_hindi": "धर्म में गरिमा",
+      "meaning_english": "Dignity in religion",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ولیداللہ",
+      "name_hindi": "वलीदुल्लाह",
+      "name_english": "Walidullah",
+      "meaning_urdu": "اللہ کی طرف سے پیدا ہوا",
+      "meaning_hindi": "अल्लाह की ओर से जन्मा",
+      "meaning_english": "Born from Allah",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "وقاصی",
+      "name_hindi": "वकासी",
+      "name_english": "Waqasi",
+      "meaning_urdu": "مضبوط اور بہادر",
+      "meaning_hindi": "मजबूत और बहादुर",
+      "meaning_english": "Strong and courageous",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "وضاحال",
+      "name_hindi": "वज़ाहाल",
+      "name_english": "Wazahal",
+      "meaning_urdu": "صاف، روشن",
+      "meaning_hindi": "साफ, स्पष्ट",
+      "meaning_english": "Clear, bright",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "وسیم اللہ",
+      "name_hindi": "वसीमुल्लाह",
+      "name_english": "Wasimullah",
+      "meaning_urdu": "اللہ کی مدد سے خوبصورت",
+      "meaning_hindi": "अल्लाह की मदद से सुंदर",
+      "meaning_english": "Beautiful with Allah’s help",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "وفاق",
+      "name_hindi": "वफ़ाक",
+      "name_english": "Wafaq",
+      "meaning_urdu": "اتحاد، ہم آہنگی",
+      "meaning_hindi": "एकता, सामंजस्य",
+      "meaning_english": "Unity, harmony",
+      "gender": "male"
+    }
+  ]
+}

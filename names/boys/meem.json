@@ -1,0 +1,186 @@
+{
+  "letter": "meem",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "محمد",
+      "name_hindi": "मुहम्मद",
+      "name_english": "Muhammad",
+      "meaning_urdu": "تعریف کیا گیا، عظیم پیغمبر",
+      "meaning_hindi": "प्रशंसित, महान पैगंबर",
+      "meaning_english": "Praised, the great Prophet",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "محمود",
+      "name_hindi": "महमूद",
+      "name_english": "Mahmood",
+      "meaning_urdu": "تعریف کے لائق، قابل تحسین",
+      "meaning_hindi": "सराहनीय, प्रशंसित",
+      "meaning_english": "Praiseworthy, commendable",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "مالک",
+      "name_hindi": "मालिक",
+      "name_english": "Malik",
+      "meaning_urdu": "مالک، حاکم",
+      "meaning_hindi": "स्वामी, शासक",
+      "meaning_english": "Owner, ruler",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ماجد",
+      "name_hindi": "माजिद",
+      "name_english": "Majid",
+      "meaning_urdu": "عزت والا، شاندار",
+      "meaning_hindi": "प्रतिष्ठित, शानदार",
+      "meaning_english": "Glorious, noble",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ماہِر",
+      "name_hindi": "माहिर",
+      "name_english": "Mahir",
+      "meaning_urdu": "ماہر، ہنرمند",
+      "meaning_hindi": "कुशल, माहिर",
+      "meaning_english": "Skilled, expert",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "منیر",
+      "name_hindi": "मुनीर",
+      "name_english": "Munir",
+      "meaning_urdu": "روشنی دینے والا، روشن دماغ",
+      "meaning_hindi": "प्रकाश देने वाला, उज्ज्वल",
+      "meaning_english": "Illuminating, bright",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "مکرّم",
+      "name_hindi": "मकर्रम",
+      "name_english": "Mukarram",
+      "meaning_urdu": "معزز، بزرگی والا",
+      "meaning_hindi": "सम्मानित, महान",
+      "meaning_english": "Honored, noble",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "مختار",
+      "name_hindi": "मख़्तार",
+      "name_english": "Mukhtar",
+      "meaning_urdu": "منتخب، منتخب کیا گیا",
+      "meaning_hindi": "चयनित, चुना हुआ",
+      "meaning_english": "Chosen, selected",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "مدثر",
+      "name_hindi": "मदसदर",
+      "name_english": "Mudathir",
+      "meaning_urdu": "لپیٹے ہوئے، پردہ دار",
+      "meaning_hindi": "लिपटा हुआ, आवरण वाला",
+      "meaning_english": "Wrapped, cloaked",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "معاذ",
+      "name_hindi": "मुअज़",
+      "name_english": "Muaz",
+      "meaning_urdu": "اللہ کی پناہ میں",
+      "meaning_hindi": "अल्लाह की सुरक्षा में",
+      "meaning_english": "Under God's protection",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "معین",
+      "name_hindi": "मुईन",
+      "name_english": "Moin",
+      "meaning_urdu": "مددگار، معاون",
+      "meaning_hindi": "सहायक, समर्थक",
+      "meaning_english": "Helper, supporter",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "مدیح",
+      "name_hindi": "मदीह",
+      "name_english": "Madeeh",
+      "meaning_urdu": "تعریف کرنے والا، حمد کرنے والا",
+      "meaning_hindi": "प्रशंसा करने वाला",
+      "meaning_english": "Praiser, one who praises",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "محسن",
+      "name_hindi": "मोह्सिन",
+      "name_english": "Mohsin",
+      "meaning_urdu": "نیک، احسان کرنے والا",
+      "meaning_hindi": "भला करने वाला, नेक",
+      "meaning_english": "Benevolent, kind",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "مظفر",
+      "name_hindi": "मज़फ़र",
+      "name_english": "Muzaffar",
+      "meaning_urdu": "فاتح، کامیاب",
+      "meaning_hindi": "विजयी, सफल",
+      "meaning_english": "Victorious, successful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "مطیع",
+      "name_hindi": "मुतिआ",
+      "name_english": "Mutia",
+      "meaning_urdu": "فرمانبردار، مطیع",
+      "meaning_hindi": "आज्ञाकारी, आज्ञापालन करने वाला",
+      "meaning_english": "Obedient, compliant",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "معراج",
+      "name_hindi": "मिराज",
+      "name_english": "Miraj",
+      "meaning_urdu": "بلندی، عروج",
+      "meaning_hindi": "ऊँचाई, आरोह",
+      "meaning_english": "Ascension, elevation",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "معارف",
+      "name_hindi": "म'आरिफ़",
+      "name_english": "Maarif",
+      "meaning_urdu": "علم والا، معرفت رکھنے والا",
+      "meaning_hindi": "ज्ञान रखने वाला",
+      "meaning_english": "Knowledgeable, wise",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "مناف",
+      "name_hindi": "मुनाफ़",
+      "name_english": "Manaf",
+      "meaning_urdu": "بلندی والا، معزز",
+      "meaning_hindi": "ऊँचाई वाला, सम्मानित",
+      "meaning_english": "High, honored",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "منصور",
+      "name_hindi": "मंसूर",
+      "name_english": "Mansoor",
+      "meaning_urdu": "مدد یافتہ، کامیاب",
+      "meaning_hindi": "सहायता प्राप्त, सफल",
+      "meaning_english": "Victorious, aided",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "محمودین",
+      "name_hindi": "महमूदीन",
+      "name_english": "Mahmoodin",
+      "meaning_urdu": "انتہائی تعریف کیا گیا، نیک لوگ",
+      "meaning_hindi": "बहुत प्रशंसित, नेक लोग",
+      "meaning_english": "Highly praised, virtuous",
+      "gender": "male"
+    }
+  ]
+}

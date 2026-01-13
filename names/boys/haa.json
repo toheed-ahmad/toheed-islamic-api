@@ -1,0 +1,186 @@
+{
+  "letter": "haa",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "ہادی",
+      "name_hindi": "हादी",
+      "name_english": "Hadi",
+      "meaning_urdu": "رہنما، ہدایت دینے والا",
+      "meaning_hindi": "मार्गदर्शक, मार्ग दिखाने वाला",
+      "meaning_english": "Guide, leader",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہاشم",
+      "name_hindi": "हाशिम",
+      "name_english": "Hashim",
+      "meaning_urdu": "خوراک دینے والا، شجر کو توڑنے والا",
+      "meaning_hindi": "खिलाने वाला, वृक्ष तोड़ने वाला",
+      "meaning_english": "Provider, breaker of bread",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہمایوں",
+      "name_hindi": "हुमायूँ",
+      "name_english": "Humayun",
+      "meaning_urdu": "نیک نصیب، خوش قسمت",
+      "meaning_hindi": "सौभाग्यशाली, भाग्यशाली",
+      "meaning_english": "Fortunate, blessed",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہشام",
+      "name_hindi": "हिशाम",
+      "name_english": "Hisham",
+      "meaning_urdu": "نیک، مہربان",
+      "meaning_hindi": "भला, दयालु",
+      "meaning_english": "Kind, noble",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہمایہ",
+      "name_hindi": "हुमायाह",
+      "name_english": "Humaya",
+      "meaning_urdu": "بہادر، اعلیٰ مقام والا",
+      "meaning_hindi": "साहसी, उच्च स्थान वाला",
+      "meaning_english": "Brave, high-ranked",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہمایتی",
+      "name_hindi": "हुमायती",
+      "name_english": "Humayti",
+      "meaning_urdu": "مددگار، محافظ",
+      "meaning_hindi": "सहायक, रक्षक",
+      "meaning_english": "Helper, protector",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہلال",
+      "name_hindi": "हिलाल",
+      "name_english": "Hilal",
+      "meaning_urdu": "چاند، روشنی",
+      "meaning_hindi": "चाँद, रोशनी",
+      "meaning_english": "Moon, light",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہشمت",
+      "name_hindi": "हशमत",
+      "name_english": "Hashmat",
+      "meaning_urdu": "عظمت، وقار",
+      "meaning_hindi": "महानता, गरिमा",
+      "meaning_english": "Grandeur, dignity",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہمایون",
+      "name_hindi": "हुमायूँ",
+      "name_english": "Humayoon",
+      "meaning_urdu": "مبارک، خوش نصیب",
+      "meaning_hindi": "शुभ, सौभाग्यशाली",
+      "meaning_english": "Blessed, fortunate",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہادیان",
+      "name_hindi": "हादियाँ",
+      "name_english": "Hadiyan",
+      "meaning_urdu": "رہنمائی کرنے والا",
+      "meaning_hindi": "मार्गदर्शक",
+      "meaning_english": "One who guides",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہمایل",
+      "name_hindi": "हुमायल",
+      "name_english": "Humail",
+      "meaning_urdu": "پیار اور حفاظت کرنے والا",
+      "meaning_hindi": "प्यार और सुरक्षा देने वाला",
+      "meaning_english": "Loving and protective",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہنر",
+      "name_hindi": "हनर",
+      "name_english": "Hunar",
+      "meaning_urdu": "مہارت، قابلیت",
+      "meaning_hindi": "कौशल, क्षमता",
+      "meaning_english": "Skill, talent",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہمایت",
+      "name_hindi": "हुमायत",
+      "name_english": "Humayat",
+      "meaning_urdu": "مددگار، حمایتی",
+      "meaning_hindi": "सहायक, समर्थन करने वाला",
+      "meaning_english": "Supportive, helper",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہماین",
+      "name_hindi": "हुमायन",
+      "name_english": "Humayen",
+      "meaning_urdu": "نیک اور برکت والا",
+      "meaning_hindi": "भला और शुभ",
+      "meaning_english": "Good and blessed",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہیر",
+      "name_hindi": "हीर",
+      "name_english": "Heer",
+      "meaning_urdu": "خوبصورت، دلکش",
+      "meaning_hindi": "सुंदर, आकर्षक",
+      "meaning_english": "Beautiful, charming",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہمدان",
+      "name_hindi": "हमदान",
+      "name_english": "Hamdan",
+      "meaning_urdu": "تعریف کرنے والا، شکر گزار",
+      "meaning_hindi": "समीक्षा करने वाला, आभारी",
+      "meaning_english": "Praiseworthy, grateful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہمایتیان",
+      "name_hindi": "हुमायतीयन",
+      "name_english": "Humaytian",
+      "meaning_urdu": "مددگار، حمایت کرنے والا",
+      "meaning_hindi": "सहायक, समर्थन करने वाला",
+      "meaning_english": "Supportive, helper",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہاشم اللہ",
+      "name_hindi": "हाशिमुल्लाह",
+      "name_english": "Hashimullah",
+      "meaning_urdu": "اللہ کا عطا کیا ہوا",
+      "meaning_hindi": "अल्लाह का दिया हुआ",
+      "meaning_english": "Given by Allah",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہماین اللہ",
+      "name_hindi": "हुमायनुल्लाह",
+      "name_english": "Humayenullah",
+      "meaning_urdu": "اللہ کا برکت والا",
+      "meaning_hindi": "अल्लाह का शुभ",
+      "meaning_english": "Blessed by Allah",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ہمایتی اللہ",
+      "name_hindi": "हुमायती अल्लाह",
+      "name_english": "Humayti Allah",
+      "meaning_urdu": "اللہ کی مدد والا",
+      "meaning_hindi": "अल्लाह की मदद देने वाला",
+      "meaning_english": "Helper by Allah",
+      "gender": "male"
+    }
+  ]
+}

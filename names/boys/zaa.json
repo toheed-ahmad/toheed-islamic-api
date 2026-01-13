@@ -1,0 +1,51 @@
+{
+  "letter": "zaa",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "ظافر",
+      "name_hindi": "ज़ाफ़िर",
+      "name_english": "Zafir",
+      "meaning_urdu": "کامیاب، فتح یاب",
+      "meaning_hindi": "विजयी, सफल",
+      "meaning_english": "Victorious, successful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ظہیر",
+      "name_hindi": "ज़हीर",
+      "name_english": "Zaheer",
+      "meaning_urdu": "مددگار، ظاہر",
+      "meaning_hindi": "सहायक, प्रकट",
+      "meaning_english": "Supporter, helper",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ظہور",
+      "name_hindi": "ज़ुहूर",
+      "name_english": "Zuhūr",
+      "meaning_urdu": "ظاہر ہونا، نمود",
+      "meaning_hindi": "प्रकट होना",
+      "meaning_english": "Appearance, manifestation",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ظفر",
+      "name_hindi": "ज़फ़र",
+      "name_english": "Zafar",
+      "meaning_urdu": "فتح، کامیابی",
+      "meaning_hindi": "जीत, सफलता",
+      "meaning_english": "Victory, success",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ظلیم",
+      "name_hindi": "ज़लीम",
+      "name_english": "Zalim",
+      "meaning_urdu": "طاقتور (لغوی معنی)",
+      "meaning_hindi": "शक्तिशाली (शाब्दिक अर्थ)",
+      "meaning_english": "Strong (literal meaning)",
+      "gender": "male"
+    }
+  ]
+}

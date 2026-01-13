@@ -1,0 +1,78 @@
+{
+  "letter": "taa",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "طارق",
+      "name_hindi": "तारिक़",
+      "name_english": "Tariq",
+      "meaning_urdu": "رات کو آنے والا، ستارہ",
+      "meaning_hindi": "रात में आने वाला, तारा",
+      "meaning_english": "Night visitor, morning star",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "طاہر",
+      "name_hindi": "ताहिर",
+      "name_english": "Tahir",
+      "meaning_urdu": "پاک، صاف",
+      "meaning_hindi": "पवित्र, स्वच्छ",
+      "meaning_english": "Pure, clean",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "طلال",
+      "name_hindi": "तलाल",
+      "name_english": "Talal",
+      "meaning_urdu": "خوبصورت، تروتازہ",
+      "meaning_hindi": "सुंदर, तरोताज़ा",
+      "meaning_english": "Handsome, fresh",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "طیب",
+      "name_hindi": "तैय्यब",
+      "name_english": "Tayyib",
+      "meaning_urdu": "پاکیزہ، اچھا",
+      "meaning_hindi": "पवित्र, अच्छा",
+      "meaning_english": "Pure, good",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "طیبہ",
+      "name_hindi": "तैय्यबा",
+      "name_english": "Tayyaba",
+      "meaning_urdu": "پاکیزگی",
+      "meaning_hindi": "पवित्रता",
+      "meaning_english": "Purity",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "طہ",
+      "name_hindi": "ताहा",
+      "name_english": "Taha",
+      "meaning_urdu": "قرآن کی ایک سورت کا نام",
+      "meaning_hindi": "क़ुरआन की एक सूरह का नाम",
+      "meaning_english": "Name of a Surah in the Quran",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "طلعت",
+      "name_hindi": "तलअत",
+      "name_english": "Talat",
+      "meaning_urdu": "چمک، رونق",
+      "meaning_hindi": "चमक, रौनक",
+      "meaning_english": "Brightness, radiance",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "طوفان",
+      "name_hindi": "तूफ़ान",
+      "name_english": "Toofan",
+      "meaning_urdu": "شدت، طاقت",
+      "meaning_hindi": "तेज़ तूफ़ान",
+      "meaning_english": "Storm, power",
+      "gender": "male"
+    }
+  ]
+}

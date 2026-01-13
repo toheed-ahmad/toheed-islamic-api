@@ -1,0 +1,21 @@
+{
+  "type": "ramadan",
+  "version": "1.0",
+  "rules": {
+    "Fajr": { "mode": "after_adhan", "minutes": 25 },
+    "Dhuhr": { "mode": "fixed_time", "time": "13:45" },
+    "Asr": { "mode": "after_adhan", "minutes": 15 },
+    "Maghrib": { "mode": "after_adhan", "minutes": 2 },
+    "Isha": {
+      "mode": "after_adhan",
+      "minutes": 10,
+      "taraweeh": {
+        "enabled": true,
+        "after_iqamah_minutes": 20
+      }
+    }
+  },
+  "meta": {
+    "ramadan_only": true
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "letter": "ayn",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "علی",
+      "name_hindi": "अली",
+      "name_english": "Ali",
+      "meaning_urdu": "بلند، اعلیٰ",
+      "meaning_hindi": "उच्च, महान",
+      "meaning_english": "High, exalted",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "عمر",
+      "name_hindi": "उमर",
+      "name_english": "Umar",
+      "meaning_urdu": "عمر، زندگی",
+      "meaning_hindi": "आयु, जीवन",
+      "meaning_english": "Life, age",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "عثمان",
+      "name_hindi": "उस्मान",
+      "name_english": "Usman",
+      "meaning_urdu": "دانشمند، حکمت والا",
+      "meaning_hindi": "बुद्धिमान",
+      "meaning_english": "Wise, intelligent",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "عاصم",
+      "name_hindi": "आसिम",
+      "name_english": "Asim",
+      "meaning_urdu": "محافظ، بچانے والا",
+      "meaning_hindi": "रक्षक",
+      "meaning_english": "Protector",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "عادل",
+      "name_hindi": "आदिल",
+      "name_english": "Adil",
+      "meaning_urdu": "انصاف کرنے والا",
+      "meaning_hindi": "न्यायी",
+      "meaning_english": "Just, fair",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "عارف",
+      "name_hindi": "आरिफ़",
+      "name_english": "Arif",
+      "meaning_urdu": "جاننے والا، پہچاننے والا",
+      "meaning_hindi": "ज्ञानी",
+      "meaning_english": "Knowing, wise",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "عزیز",
+      "name_hindi": "अज़ीज़",
+      "name_english": "Aziz",
+      "meaning_urdu": "عزت والا، پیارا",
+      "meaning_hindi": "प्रिय, सम्मानित",
+      "meaning_english": "Dear, respected",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "عقیل",
+      "name_hindi": "अकील",
+      "name_english": "Aqeel",
+      "meaning_urdu": "عقل مند",
+      "meaning_hindi": "बुद्धिमान",
+      "meaning_english": "Intelligent, wise",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "عبداللہ",
+      "name_hindi": "अब्दुल्लाह",
+      "name_english": "Abdullah",
+      "meaning_urdu": "اللہ کا بندہ",
+      "meaning_hindi": "अल्लाह का सेवक",
+      "meaning_english": "Servant of Allah",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "عباس",
+      "name_hindi": "अब्बास",
+      "name_english": "Abbas",
+      "meaning_urdu": "شیر دل، بہادر",
+      "meaning_hindi": "साहसी",
+      "meaning_english": "Brave, lion-hearted",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "عمران",
+      "name_hindi": "इमरान",
+      "name_english": "Imran",
+      "meaning_urdu": "ترقی، خوشحالی",
+      "meaning_hindi": "समृद्धि",
+      "meaning_english": "Prosperity",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "عمار",
+      "name_hindi": "अम्मार",
+      "name_english": "Ammar",
+      "meaning_urdu": "عبادت گزار، تعمیر کرنے والا",
+      "meaning_hindi": "पूजक",
+      "meaning_english": "Devout, builder",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "عطا",
+      "name_hindi": "अता",
+      "name_english": "Ata",
+      "meaning_urdu": "بخشش، عطیہ",
+      "meaning_hindi": "दान",
+      "meaning_english": "Gift, grant",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "علاءالدین",
+      "name_hindi": "अलाउद्दीन",
+      "name_english": "Alauddin",
+      "meaning_urdu": "دین کی بلندی",
+      "meaning_hindi": "धर्म की ऊँचाई",
+      "meaning_english": "Excellence of faith",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "عنایت",
+      "name_hindi": "इनायत",
+      "name_english": "Inayat",
+      "meaning_urdu": "مہربانی، فضل",
+      "meaning_hindi": "कृपा",
+      "meaning_english": "Kindness, favor",
+      "gender": "male"
+    }
+  ]
+}

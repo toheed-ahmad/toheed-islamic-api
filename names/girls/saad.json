@@ -1,0 +1,206 @@
+{
+  "letter": "saad",
+  "gender": "female",
+  "names": [
+    {
+      "name_ur": "صابرہ",
+      "name_hi": "साबिरा",
+      "name_en": "Sabira",
+      "meaning_ur": "صبر کرنے والی",
+      "meaning_hi": "धैर्य रखने वाली",
+      "meaning_en": "Patient, steadfast",
+      "detail": "صبر اسلامی تعلیمات کی اہم صفت ہے",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صادقہ",
+      "name_hi": "सादिका",
+      "name_en": "Sadiqa",
+      "meaning_ur": "سچی، راست گو",
+      "meaning_hi": "सच्ची",
+      "meaning_en": "Truthful, sincere",
+      "detail": "سچائی اور اخلاص کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صالحہ",
+      "name_hi": "सालिहा",
+      "name_en": "Saliha",
+      "meaning_ur": "نیک، صالح",
+      "meaning_hi": "नेक",
+      "meaning_en": "Righteous, virtuous",
+      "detail": "نیکی اور پرہیزگاری کی صفت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صفیہ",
+      "name_hi": "सफ़िया",
+      "name_en": "Safiya",
+      "meaning_ur": "خالص، چنی ہوئی",
+      "meaning_hi": "शुद्ध",
+      "meaning_en": "Pure, chosen",
+      "detail": "ام المؤمنین حضرت صفیہؓ کا نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صبیحہ",
+      "name_hi": "सबिहा",
+      "name_en": "Sabiha",
+      "meaning_ur": "خوبصورت، روشن",
+      "meaning_hi": "सुंदर",
+      "meaning_en": "Beautiful, bright",
+      "detail": "حسن اور روشنی کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صمیمہ",
+      "name_hi": "समीमा",
+      "name_en": "Samima",
+      "meaning_ur": "خلوص والی",
+      "meaning_hi": "निष्कपट",
+      "meaning_en": "Sincere",
+      "detail": "دل کی سچائی کا اظہار",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صنم",
+      "name_hi": "सनम",
+      "name_en": "Sanam",
+      "meaning_ur": "محبوب",
+      "meaning_hi": "प्रिय",
+      "meaning_en": "Beloved",
+      "detail": "محبت کا اظہار کرنے والا نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صوفیہ",
+      "name_hi": "सूफ़िया",
+      "name_en": "Sophia",
+      "meaning_ur": "دانشمند، عقلمند",
+      "meaning_hi": "बुद्धिमान",
+      "meaning_en": "Wise",
+      "detail": "علم و دانائی کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صبیحہ نور",
+      "name_hi": "सबिहा नूर",
+      "name_en": "Sabiha Noor",
+      "meaning_ur": "روشن حسن",
+      "meaning_hi": "सुंदर प्रकाश",
+      "meaning_en": "Radiant beauty",
+      "detail": "دو بابرکت الفاظ کا مجموعہ",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صباح",
+      "name_hi": "सबाह",
+      "name_en": "Sabah",
+      "meaning_ur": "صبح، روشنی",
+      "meaning_hi": "सुबह",
+      "meaning_en": "Morning, dawn",
+      "detail": "نئی شروعات کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صہیبہ",
+      "name_hi": "सहैबा",
+      "name_en": "Suhaiba",
+      "meaning_ur": "نرم طبیعت والی",
+      "meaning_hi": "कोमल स्वभाव",
+      "meaning_en": "Gentle-natured",
+      "detail": "نرمی اور شفقت کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صدیقہ",
+      "name_hi": "सिद्दीका",
+      "name_en": "Siddiqa",
+      "meaning_ur": "بہت سچی",
+      "meaning_hi": "अत्यंत सच्ची",
+      "meaning_en": "Very truthful",
+      "detail": "حضرت عائشہؓ کا لقب",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صہبا",
+      "name_hi": "सहबा",
+      "name_en": "Sahba",
+      "meaning_ur": "سرخی مائل",
+      "meaning_hi": "लालिमा लिए",
+      "meaning_en": "Reddish glow",
+      "detail": "حسن کی کیفیت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صفورا",
+      "name_hi": "सफ़ोरा",
+      "name_en": "Saffura",
+      "meaning_ur": "پرندہ",
+      "meaning_hi": "पक्षी",
+      "meaning_en": "Bird",
+      "detail": "آزادی اور نرمی کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صائمہ",
+      "name_hi": "साइमा",
+      "name_en": "Saima",
+      "meaning_ur": "روزہ رکھنے والی",
+      "meaning_hi": "उपवास रखने वाली",
+      "meaning_en": "Fasting woman",
+      "detail": "عبادت اور تقویٰ کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صوفیانہ",
+      "name_hi": "सूफ़ियाना",
+      "name_en": "Sufiyana",
+      "meaning_ur": "روحانی",
+      "meaning_hi": "आध्यात्मिक",
+      "meaning_en": "Spiritual",
+      "detail": "روحانیت سے جڑا نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صبیہ",
+      "name_hi": "सबिया",
+      "name_en": "Sabiya",
+      "meaning_ur": "نرم مزاج",
+      "meaning_hi": "कोमल",
+      "meaning_en": "Gentle",
+      "detail": "نرمی اور سکون کا اظہار",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صالحہ نور",
+      "name_hi": "सालिहा नूर",
+      "name_en": "Saliha Noor",
+      "meaning_ur": "نیکی کی روشنی",
+      "meaning_hi": "नेकी की रोशनी",
+      "meaning_en": "Light of righteousness",
+      "detail": "ایمانی مفہوم والا نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صبیحتہ",
+      "name_hi": "सबिहता",
+      "name_en": "Sabihta",
+      "meaning_ur": "روشن چہرے والی",
+      "meaning_hi": "उज्ज्वल मुख वाली",
+      "meaning_en": "Radiant-faced",
+      "detail": "حسن اور نور کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "صفوانہ",
+      "name_hi": "सफ़वाना",
+      "name_en": "Safwana",
+      "meaning_ur": "صاف دل والی",
+      "meaning_hi": "स्वच्छ हृदय वाली",
+      "meaning_en": "Pure-hearted",
+      "detail": "دل کی پاکیزگی کا اظہار",
+      "gender": "female"
+    }
+  ]
+}

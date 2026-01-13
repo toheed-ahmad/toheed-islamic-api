@@ -1,0 +1,156 @@
+{
+  "letter": "dal",
+  "gender": "female",
+  "names": [
+    {
+      "name_ur": "دعا",
+      "name_hi": "दुआ",
+      "name_en": "Dua",
+      "meaning_ur": "اللہ سے مانگنا، دعا",
+      "meaning_hi": "प्रार्थना",
+      "meaning_en": "Supplication, prayer",
+      "detail": "عبادت اور اللہ سے تعلق کا خوبصورت اظہار",
+      "gender": "female"
+    },
+    {
+      "name_ur": "درّہ",
+      "name_hi": "दुर्रा",
+      "name_en": "Durrah",
+      "meaning_ur": "موتی",
+      "meaning_hi": "मोती",
+      "meaning_en": "Pearl",
+      "detail": "قیمتی اور نایاب ہونے کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "دانہ",
+      "name_hi": "दाना",
+      "name_en": "Dana",
+      "meaning_ur": "سمجھدار، دانائی والی",
+      "meaning_hi": "बुद्धिमान",
+      "meaning_en": "Wise, intelligent",
+      "detail": "دانش اور عقل کا مفہوم",
+      "gender": "female"
+    },
+    {
+      "name_ur": "درخشاں",
+      "name_hi": "दरख़्शाँ",
+      "name_en": "Darakhshan",
+      "meaning_ur": "چمکدار، روشن",
+      "meaning_hi": "चमकदार",
+      "meaning_en": "Bright, shining",
+      "detail": "نور اور روشنی کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "دانیہ",
+      "name_hi": "दानिया",
+      "name_en": "Dania",
+      "meaning_ur": "قریب، نرم دل",
+      "meaning_hi": "निकट, कोमल",
+      "meaning_en": "Close, gentle",
+      "detail": "قرآنی لفظ (قطوفها دانية)",
+      "gender": "female"
+    },
+    {
+      "name_ur": "دلال",
+      "name_hi": "दलाल",
+      "name_en": "Dalal",
+      "meaning_ur": "ناز و انداز",
+      "meaning_hi": "कोमलता",
+      "meaning_en": "Grace, tenderness",
+      "detail": "نرمی اور نزاکت کا اظہار",
+      "gender": "female"
+    },
+    {
+      "name_ur": "دلفروز",
+      "name_hi": "दिलफ़रोज़",
+      "name_en": "Dilfaroz",
+      "meaning_ur": "دل کو خوش کرنے والی",
+      "meaning_hi": "दिल को प्रसन्न करने वाली",
+      "meaning_en": "Heart-pleasing",
+      "detail": "محبت اور خوشی کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "دلشاد",
+      "name_hi": "दिलशाद",
+      "name_en": "Dilshad",
+      "meaning_ur": "خوش دل",
+      "meaning_hi": "प्रसन्नचित्त",
+      "meaning_en": "Happy-hearted",
+      "detail": "مسرت اور خوش اخلاقی کا مفہوم",
+      "gender": "female"
+    },
+    {
+      "name_ur": "دلفریب",
+      "name_hi": "दिलफ़रीब",
+      "name_en": "Dilfareb",
+      "meaning_ur": "دل کو لبھانے والی",
+      "meaning_hi": "मन मोहने वाली",
+      "meaning_en": "Charming",
+      "detail": "اچھے اخلاق اور کشش کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "دریہ",
+      "name_hi": "दरिया",
+      "name_en": "Dariya",
+      "meaning_ur": "سمندر",
+      "meaning_hi": "समुद्र",
+      "meaning_en": "Ocean",
+      "detail": "وسعتِ دل اور سخاوت کا استعارہ",
+      "gender": "female"
+    },
+    {
+      "name_ur": "درین",
+      "name_hi": "दरीन",
+      "name_en": "Dareen",
+      "meaning_ur": "قیمتی خوشبو",
+      "meaning_hi": "मूल्यवान सुगंध",
+      "meaning_en": "Precious fragrance",
+      "detail": "خوبصورتی اور نفاست کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "دینا",
+      "name_hi": "दीना",
+      "name_en": "Deena",
+      "meaning_ur": "دین والی",
+      "meaning_hi": "धर्म से जुड़ी",
+      "meaning_en": "Religious, faithful",
+      "detail": "ایمان اور دینداری کا مفہوم",
+      "gender": "female"
+    },
+    {
+      "name_ur": "دلالہ",
+      "name_hi": "दलाला",
+      "name_en": "Dalala",
+      "meaning_ur": "نرمی سے رہنمائی کرنے والی",
+      "meaning_hi": "मार्गदर्शन करने वाली",
+      "meaning_en": "Guide gently",
+      "detail": "حکمت اور شفقت کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "دلفزا",
+      "name_hi": "दिलफ़ज़ा",
+      "name_en": "Dilfaza",
+      "meaning_ur": "دل بڑھانے والی",
+      "meaning_hi": "हृदय को बढ़ाने वाली",
+      "meaning_en": "Heart-enriching",
+      "detail": "محبت اور حوصلہ دینے والی",
+      "gender": "female"
+    },
+    {
+      "name_ur": "دعا نور",
+      "name_hi": "दुआ नूर",
+      "name_en": "Dua Noor",
+      "meaning_ur": "روشنی والی دعا",
+      "meaning_hi": "प्रकाशमय प्रार्थना",
+      "meaning_en": "Prayer of light",
+      "detail": "دعا اور نور کا حسین امتزاج",
+      "gender": "female"
+    }
+  ]
+}

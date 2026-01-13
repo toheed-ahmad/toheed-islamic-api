@@ -1,0 +1,86 @@
+{
+  "version": "1.0",
+  "type": "prayer_notifications",
+
+  "global_settings": {
+    "enabled": true,
+    "timezone": "auto",
+    "offline_supported": true,
+    "monthly_preschedule": true,
+    "silent_mode": {
+      "enabled": true,
+      "during_prayer": true,
+      "during_iqamah": true
+    }
+  },
+
+  "adhan_notifications": {
+    "enabled": true,
+    "sound": {
+      "type": "adhan",
+      "volume": 80,
+      "vibration": true
+    },
+    "prayers": {
+      "Fajr": true,
+      "Dhuhr": true,
+      "Asr": true,
+      "Maghrib": true,
+      "Isha": true
+    }
+  },
+
+  "before_prayer_reminder": {
+    "enabled": true,
+    "default_minutes": 10,
+    "custom_minutes": {
+      "Fajr": 20,
+      "Dhuhr": 10,
+      "Asr": 10,
+      "Maghrib": 5,
+      "Isha": 10
+    },
+    "notification_type": "silent"
+  },
+
+  "iqamah_reminder": {
+    "enabled": true,
+    "notify_before_minutes": 5,
+    "notification_type": "silent",
+    "use_api_iqamah_time": true
+  },
+
+  "ramadan_mode": {
+    "enabled": true,
+
+    "sehri": {
+      "enabled": true,
+      "reminder_minutes": 30,
+      "notification_type": "sound"
+    },
+
+    "iftar": {
+      "enabled": true,
+      "reminder_minutes": 5,
+      "notification_type": "sound"
+    },
+
+    "taraweeh": {
+      "enabled": true,
+      "notify_after_isha_iqamah_minutes": 15,
+      "notification_type": "silent"
+    }
+  },
+
+  "monthly_schedule": {
+    "generate_for_days": 30,
+    "regenerate_on_location_change": true,
+    "regenerate_on_method_change": true
+  },
+
+  "meta": {
+    "editable_by_admin": true,
+    "recommended_for_flutter": true,
+    "last_updated": "2026-01-09"
+  }
+}

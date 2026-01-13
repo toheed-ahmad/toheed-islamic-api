@@ -1,0 +1,97 @@
+{
+  "letter": "jeem",
+  "urdu_letter": "ج",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "جابر",
+      "name_hindi": "जाबिर",
+      "name_english": "Jabir",
+      "meaning_urdu": "صبر کرنے والا، مضبوط",
+      "meaning_hindi": "धैर्यवान, मजबूत",
+      "meaning_english": "Patient, strong",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "جعفر",
+      "name_hindi": "जाफ़र",
+      "name_english": "Jafar",
+      "meaning_urdu": "نہر، چشمہ",
+      "meaning_hindi": "नहर, झरना",
+      "meaning_english": "Stream, river",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "جلال",
+      "name_hindi": "जलाल",
+      "name_english": "Jalal",
+      "meaning_urdu": "عظمت، شان",
+      "meaning_hindi": "महिमा, वैभव",
+      "meaning_english": "Glory, majesty",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "جمیل",
+      "name_hindi": "जमील",
+      "name_english": "Jameel",
+      "meaning_urdu": "خوبصورت",
+      "meaning_hindi": "सुंदर",
+      "meaning_english": "Beautiful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "جنید",
+      "name_hindi": "जुनैद",
+      "name_english": "Junaid",
+      "meaning_urdu": "سپاہی، جنگجو",
+      "meaning_hindi": "सैनिक, योद्धा",
+      "meaning_english": "Soldier, warrior",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "جواد",
+      "name_hindi": "जवाद",
+      "name_english": "Jawad",
+      "meaning_urdu": "سخی، فیاض",
+      "meaning_hindi": "उदार, दानी",
+      "meaning_english": "Generous",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "جسار",
+      "name_hindi": "जसार",
+      "name_english": "Jassar",
+      "meaning_urdu": "بہادر، دلیر",
+      "meaning_hindi": "बहादुर",
+      "meaning_english": "Brave",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "جبران",
+      "name_hindi": "जिब्रान",
+      "name_english": "Jibran",
+      "meaning_urdu": "کمی پوری کرنے والا",
+      "meaning_hindi": "कमी पूरी करने वाला",
+      "meaning_english": "Compensator, provider",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "جراح",
+      "name_hindi": "जर्राह",
+      "name_english": "Jarrah",
+      "meaning_urdu": "زخم بھرنے والا، طبیب",
+      "meaning_hindi": "चिकित्सक",
+      "meaning_english": "Healer",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "جاسم",
+      "name_hindi": "जासिम",
+      "name_english": "Jasim",
+      "meaning_urdu": "بڑا جسم والا، طاقتور",
+      "meaning_hindi": "बलवान",
+      "meaning_english": "Strong, powerful",
+      "gender": "male"
+    }
+  ]
+}

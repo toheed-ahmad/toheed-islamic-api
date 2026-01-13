@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "surahNumber": 101,
+    "surahNameArabic": "سُورَةُ القَارِعَةِ",
+    "surahNameEnglish": "Al-Qaari'a",
+    "surahNameTranslation": "The Calamity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 6158,
+      "ayahNumberInSurah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 543,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6159,
+      "ayahNumberInSurah": 2,
+      "text": "مَا ٱلْقَارِعَةُ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 543,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6160,
+      "ayahNumberInSurah": 3,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 543,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6161,
+      "ayahNumberInSurah": 4,
+      "text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 543,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6162,
+      "ayahNumberInSurah": 5,
+      "text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 543,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6163,
+      "ayahNumberInSurah": 6,
+      "text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 543,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6164,
+      "ayahNumberInSurah": 7,
+      "text": "فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 543,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6165,
+      "ayahNumberInSurah": 8,
+      "text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 543,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6166,
+      "ayahNumberInSurah": 9,
+      "text": "فَأُمُّهُۥ هَاوِيَةٌۭ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 543,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6167,
+      "ayahNumberInSurah": 10,
+      "text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 543,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6168,
+      "ayahNumberInSurah": 11,
+      "text": "نَارٌ حَامِيَةٌۢ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 543,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+}

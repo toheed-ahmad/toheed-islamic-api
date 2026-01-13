@@ -1,0 +1,196 @@
+{
+  "letter": "alif",
+  "gender": "male",
+  "names": [
+    {
+      "name_ur": "احمد",
+      "name_hi": "अहमद",
+      "name_en": "Ahmad",
+      "meaning_ur": "بہت زیادہ تعریف کیا گیا",
+      "meaning_hi": "बहुत अधिक प्रशंसा किया गया",
+      "meaning_en": "Highly praised",
+      "detail": "نبی کریم ﷺ کا مبارک نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "آدم",
+      "name_hi": "आदम",
+      "name_en": "Adam",
+      "meaning_ur": "انسان، مٹی سے پیدا کیا گیا",
+      "meaning_hi": "मनुष्य, मिट्टी से बनाया गया",
+      "meaning_en": "Man, created from earth",
+      "detail": "حضرت آدم علیہ السلام، پہلے نبی",
+      "gender": "male"
+    },
+    {
+      "name_ur": "ابراہیم",
+      "name_hi": "इब्राहीम",
+      "name_en": "Ibrahim",
+      "meaning_ur": "عظیم باپ",
+      "meaning_hi": "महान पिता",
+      "meaning_en": "Great father",
+      "detail": "خلیلُ اللہ، عظیم پیغمبر",
+      "gender": "male"
+    },
+    {
+      "name_ur": "اسماعیل",
+      "name_hi": "इस्माइल",
+      "name_en": "Ismail",
+      "meaning_ur": "اللہ نے سنا",
+      "meaning_hi": "ईश्वर ने सुना",
+      "meaning_en": "God has heard",
+      "detail": "حضرت ابراہیمؑ کے بیٹے، نبی",
+      "gender": "male"
+    },
+    {
+      "name_ur": "امین",
+      "name_hi": "अमीन",
+      "name_en": "Ameen",
+      "meaning_ur": "امانت دار",
+      "meaning_hi": "ईमानदार",
+      "meaning_en": "Trustworthy",
+      "detail": "نبی ﷺ کی صفت",
+      "gender": "male"
+    },
+    {
+      "name_ur": "انس",
+      "name_hi": "अनस",
+      "name_en": "Anas",
+      "meaning_ur": "محبت، انسیت",
+      "meaning_hi": "स्नेह, अपनापन",
+      "meaning_en": "Affection, closeness",
+      "detail": "صحابی رسول ﷺ",
+      "gender": "male"
+    },
+    {
+      "name_ur": "اسد",
+      "name_hi": "असद",
+      "name_en": "Asad",
+      "meaning_ur": "شیر",
+      "meaning_hi": "शेर",
+      "meaning_en": "Lion",
+      "detail": "بہادری کی علامت",
+      "gender": "male"
+    },
+    {
+      "name_ur": "عارف",
+      "name_hi": "आरिफ़",
+      "name_en": "Arif",
+      "meaning_ur": "جاننے والا",
+      "meaning_hi": "ज्ञान रखने वाला",
+      "meaning_en": "Knowing, wise",
+      "detail": "علم و معرفت والا",
+      "gender": "male"
+    },
+    {
+      "name_ur": "ابرار",
+      "name_hi": "अबरार",
+      "name_en": "Abrar",
+      "meaning_ur": "نیک لوگ",
+      "meaning_hi": "नेक लोग",
+      "meaning_en": "Righteous people",
+      "detail": "قرآن میں مذکور",
+      "gender": "male"
+    },
+    {
+      "name_ur": "عادل",
+      "name_hi": "आदिल",
+      "name_en": "Adil",
+      "meaning_ur": "انصاف کرنے والا",
+      "meaning_hi": "न्याय करने वाला",
+      "meaning_en": "Just, fair",
+      "detail": "عدل و انصاف کی علامت",
+      "gender": "male"
+    },
+    {
+      "name_ur": "احسان",
+      "name_hi": "एहसान",
+      "name_en": "Ehsan",
+      "meaning_ur": "نیکی",
+      "meaning_hi": "भलाई",
+      "meaning_en": "Kindness",
+      "detail": "اسلام کا اعلیٰ درجہ",
+      "gender": "male"
+    },
+    {
+      "name_ur": "اقبال",
+      "name_hi": "इक़बाल",
+      "name_en": "Iqbal",
+      "meaning_ur": "بلندی، کامیابی",
+      "meaning_hi": "उन्नति, सफलता",
+      "meaning_en": "Prosperity, success",
+      "detail": "عزت و ترقی کی علامت",
+      "gender": "male"
+    },
+    {
+      "name_ur": "افضال",
+      "name_hi": "अफ़ज़ल",
+      "name_en": "Afzal",
+      "meaning_ur": "سب سے بہتر",
+      "meaning_hi": "सबसे श्रेष्ठ",
+      "meaning_en": "The best",
+      "detail": "فضیلت والا",
+      "gender": "male"
+    },
+    {
+      "name_ur": "امان",
+      "name_hi": "अमान",
+      "name_en": "Aman",
+      "meaning_ur": "امن، حفاظت",
+      "meaning_hi": "शांति, सुरक्षा",
+      "meaning_en": "Peace, safety",
+      "detail": "سکون کی علامت",
+      "gender": "male"
+    },
+    {
+      "name_ur": "ایان",
+      "name_hi": "अयान",
+      "name_en": "Ayan",
+      "meaning_ur": "اللہ کا تحفہ",
+      "meaning_hi": "ईश्वर का उपहार",
+      "meaning_en": "Gift of God",
+      "detail": "خوبصورت جدید نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "اکرام",
+      "name_hi": "इकराम",
+      "name_en": "Ikram",
+      "meaning_ur": "عزت دینا",
+      "meaning_hi": "सम्मान देना",
+      "meaning_en": "Honor",
+      "detail": "اچھے اخلاق",
+      "gender": "male"
+    },
+    {
+      "name_ur": "اصف",
+      "name_hi": "आसिफ",
+      "name_en": "Asif",
+      "meaning_ur": "مشیر",
+      "meaning_hi": "सलाहकार",
+      "meaning_en": "Advisor",
+      "detail": "حضرت سلیمانؑ کے درباری",
+      "gender": "male"
+    },
+    {
+      "name_ur": "ابان",
+      "name_hi": "अबान",
+      "name_en": "Aban",
+      "meaning_ur": "واضح",
+      "meaning_hi": "स्पष्ट",
+      "meaning_en": "Clear",
+      "detail": "سادہ و منفرد نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "ارسلان",
+      "name_hi": "अरसलान",
+      "name_en": "Arsalan",
+      "meaning_ur": "بہادر شیر",
+      "meaning_hi": "बहादुर शेर",
+      "meaning_en": "Brave lion",
+      "detail": "شجاعت کی علامت",
+      "gender": "male"
+    }
+  ]
+}

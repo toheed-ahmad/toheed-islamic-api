@@ -1,0 +1,66 @@
+{
+  "letter": "thal",
+  "gender": "female",
+  "names": [
+    {
+      "name_ur": "ذکیہ",
+      "name_hi": "ज़किया",
+      "name_en": "Zakiya",
+      "meaning_ur": "ذہین، پاکیزہ",
+      "meaning_hi": "बुद्धिमान, पवित्र",
+      "meaning_en": "Intelligent, pure",
+      "detail": "عقل و فہم اور پاکیزگی کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "ذکیہ نور",
+      "name_hi": "ज़किया नूर",
+      "name_en": "Zakiya Noor",
+      "meaning_ur": "پاکیزہ روشنی",
+      "meaning_hi": "पवित्र प्रकाश",
+      "meaning_en": "Pure light",
+      "detail": "علم اور نور کا حسین امتزاج",
+      "gender": "female"
+    },
+    {
+      "name_ur": "ذہبیہ",
+      "name_hi": "ज़हबिया",
+      "name_en": "Zahabiya",
+      "meaning_ur": "سنہری",
+      "meaning_hi": "स्वर्णिम",
+      "meaning_en": "Golden",
+      "detail": "قیمتی اور روشن شخصیت کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "ذکیہ فاطمہ",
+      "name_hi": "ज़किया फ़ातिमा",
+      "name_en": "Zakiya Fatima",
+      "meaning_ur": "ذہین اور پاکیزہ فاطمہ",
+      "meaning_hi": "बुद्धिमान और पवित्र",
+      "meaning_en": "Intelligent and pure",
+      "detail": "پاکیزہ صفات سے منسوب نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "ذوقیہ",
+      "name_hi": "ज़ौकिया",
+      "name_en": "Zauqiya",
+      "meaning_ur": "ذوق رکھنے والی",
+      "meaning_hi": "रुचि रखने वाली",
+      "meaning_en": "Tasteful, refined",
+      "detail": "اچھے ذوق اور سلیقے کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "ذہنہ",
+      "name_hi": "ज़हना",
+      "name_en": "Zahna",
+      "meaning_ur": "سمجھدار",
+      "meaning_hi": "समझदार",
+      "meaning_en": "Wise",
+      "detail": "دانائی اور فہم کی علامت",
+      "gender": "female"
+    }
+  ]
+}

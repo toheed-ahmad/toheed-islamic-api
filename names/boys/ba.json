@@ -1,0 +1,206 @@
+{
+  "letter": "ba",
+  "gender": "male",
+  "names": [
+    {
+      "name_ur": "بشار",
+      "name_hi": "बशार",
+      "name_en": "Bashar",
+      "meaning_ur": "خوشخبری دینے والا",
+      "meaning_hi": "खुशख़बरी देने वाला",
+      "meaning_en": "Bringer of good news",
+      "detail": "قرآنی اور اسلامی نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "بدر",
+      "name_hi": "बदर",
+      "name_en": "Badr",
+      "meaning_ur": "چمکتا ہوا، پورا چاند",
+      "meaning_hi": "चमकता हुआ, पूरा चाँद",
+      "meaning_en": "Bright, full moon",
+      "detail": "غزوہ بدر کی یادگار",
+      "gender": "male"
+    },
+    {
+      "name_ur": "باسط",
+      "name_hi": "बासित",
+      "name_en": "Basit",
+      "meaning_ur": "کسی پر رحم کرنے والا، آسان کرنے والا",
+      "meaning_hi": "किसी पर रहम करने वाला, आसान करने वाला",
+      "meaning_en": "One who spreads ease, merciful",
+      "detail": "اللہ کے صفاتی نام سے مشتق",
+      "gender": "male"
+    },
+    {
+      "name_ur": "بلال",
+      "name_hi": "बिलाल",
+      "name_en": "Bilal",
+      "meaning_ur": "پانی والا، پانی کے لئے جانے والا",
+      "meaning_hi": "पानी वाला, पानी के लिए जाने वाला",
+      "meaning_en": "Water bearer, chosen one",
+      "detail": "حضرت بلالؓ، پہلا مؤذن",
+      "gender": "male"
+    },
+    {
+      "name_ur": "باسر",
+      "name_hi": "बासर",
+      "name_en": "Basir",
+      "meaning_ur": "دیکھنے والا، بصیرت والا",
+      "meaning_hi": "देखने वाला, दूरदर्शी",
+      "meaning_en": "All-seeing, perceptive",
+      "detail": "اللہ کے صفاتی نام سے مشتق",
+      "gender": "male"
+    },
+    {
+      "name_ur": "بصیر",
+      "name_hi": "बसीर",
+      "name_en": "Baseer",
+      "meaning_ur": "بصیرت والا، ہر چیز دیکھنے والا",
+      "meaning_hi": "दूरदर्शी, हर चीज़ देखने वाला",
+      "meaning_en": "Perceptive, all-seeing",
+      "detail": "اللہ کے صفاتی نام سے مشتق",
+      "gender": "male"
+    },
+    {
+      "name_ur": "باقر",
+      "name_hi": "बाकर",
+      "name_en": "Baqir",
+      "meaning_ur": "علم میں گہرائی والا",
+      "meaning_hi": "ज्ञान में गहराई वाला",
+      "meaning_en": "Deep in knowledge",
+      "detail": "حضرت محمد ﷺ کی اولاد اور علما میں مشہور نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "بشیر",
+      "name_hi": "बशीर",
+      "name_en": "Basheer",
+      "meaning_ur": "خوشخبری دینے والا",
+      "meaning_hi": "खुशख़बरी देने वाला",
+      "meaning_en": "Bearer of good news",
+      "detail": "قرآنی اور اسلامی نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "بلالہ",
+      "name_hi": "बिलाला",
+      "name_en": "Bilalah",
+      "meaning_ur": "خدا کی یاد رکھنے والا",
+      "meaning_hi": "ख़ुदा की याद रखने वाला",
+      "meaning_en": "Remembers God",
+      "detail": "اسلامی روایت میں اہم نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "باکر",
+      "name_hi": "बाकर",
+      "name_en": "Bakar",
+      "meaning_ur": "نیک، راستباز",
+      "meaning_hi": "सच्चा, नेक",
+      "meaning_en": "Righteous, virtuous",
+      "detail": "اسلامی اور قرآنی نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "برہان",
+      "name_hi": "बुरहान",
+      "name_en": "Burhan",
+      "meaning_ur": "ثبوت، دلیل",
+      "meaning_hi": "साबित करने वाला, प्रमाण",
+      "meaning_en": "Proof, evidence",
+      "detail": "قرآنی اور اسلامی نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "باسطین",
+      "name_hi": "बास्तीन",
+      "name_en": "Basteen",
+      "meaning_ur": "آرام دینے والا، سہارا دینے والا",
+      "meaning_hi": "आराम देने वाला, सहारा देने वाला",
+      "meaning_en": "Comforting, supporter",
+      "detail": "اللہ کے صفاتی نام سے مشتق",
+      "gender": "male"
+    },
+    {
+      "name_ur": "باکتاش",
+      "name_hi": "बाकताश",
+      "name_en": "Baktash",
+      "meaning_ur": "محافظ، نگہبان",
+      "meaning_hi": "संरक्षक, पहरेदार",
+      "meaning_en": "Protector, guardian",
+      "detail": "اسلامی روایت میں محفوظ نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "بادیہ",
+      "name_hi": "बादिया",
+      "name_en": "Badiya",
+      "meaning_ur": "خوبصورت جگہ، وادی",
+      "meaning_hi": "सुंदर जगह, घाटी",
+      "meaning_en": "Beautiful place, valley",
+      "detail": "اسلامی روایت میں استعمال",
+      "gender": "male"
+    },
+    {
+      "name_ur": "بہرام",
+      "name_hi": "बहराम",
+      "name_en": "Bahram",
+      "meaning_ur": "شیر دل، بہادر",
+      "meaning_hi": "साहसी, बहादुर",
+      "meaning_en": "Brave, courageous",
+      "detail": "اسلامی اور تاریخی نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "باقرین",
+      "name_hi": "बाकरीन",
+      "name_en": "Baqreen",
+      "meaning_ur": "علم میں بلند مقام رکھنے والا",
+      "meaning_hi": "ज्ञान में ऊँचा स्थान रखने वाला",
+      "meaning_en": "High in knowledge",
+      "detail": "قرآنی اور علمی معنی والا نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "بشیرالدین",
+      "name_hi": "बशीरुद्दीन",
+      "name_en": "Basheeruddin",
+      "meaning_ur": "دین کی خوشخبری دینے والا",
+      "meaning_hi": "धर्म की खुशख़बरी देने वाला",
+      "meaning_en": "Bringer of good news of religion",
+      "detail": "اسلامی اور دینی نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "بہزاد",
+      "name_hi": "बहज़ाद",
+      "name_en": "Behzad",
+      "meaning_ur": "خوش قسمتی والا",
+      "meaning_hi": "सौभाग्यशाली",
+      "meaning_en": "Fortunate, lucky",
+      "detail": "اسلامی اور تاریخی نام",
+      "gender": "male"
+    },
+    {
+      "name_ur": "بہرام",
+      "name_hi": "बहराम",
+      "name_en": "Bahram",
+      "meaning_ur": "طاقتور، بہادر",
+      "meaning_hi": "शक्तिशाली, बहादुर",
+      "meaning_en": "Powerful, brave",
+      "detail": "اسلامی روایت میں مستعمل",
+      "gender": "male"
+    },
+    {
+      "name_ur": "بازیار",
+      "name_hi": "बाज़ियार",
+      "name_en": "Bazyar",
+      "meaning_ur": "شیر دل، کامیاب",
+      "meaning_hi": "साहसी, सफल",
+      "meaning_en": "Brave and successful",
+      "detail": "اسلامی اور قرآنی نام",
+      "gender": "male"
+    }
+  ]
+}

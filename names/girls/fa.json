@@ -1,0 +1,115 @@
+{
+  "letter": "fa",
+  "arabic_letter": "ف",
+  "gender": "female",
+  "names": [
+    {
+      "name_urdu": "فاطمہ",
+      "name_hindi": "फ़ातिमा",
+      "name_english": "Fatima",
+      "meaning_urdu": "پاکیزہ، جدا رہنے والی",
+      "meaning_hindi": "पवित्र, अलग रहने वाली",
+      "meaning_english": "Pure, chaste",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "فاطمہ زہراء",
+      "name_hindi": "फ़ातिमा ज़हरा",
+      "name_english": "Fatima Zahra",
+      "meaning_urdu": "روشن و پاکیزہ فاطمہ",
+      "meaning_hindi": "प्रकाशमान और पवित्र फ़ातिमा",
+      "meaning_english": "Radiant and pure Fatima",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "فائزہ",
+      "name_hindi": "फ़ाइज़ा",
+      "name_english": "Faiza",
+      "meaning_urdu": "کامیاب، فائدہ پانے والی",
+      "meaning_hindi": "सफल, लाभ पाने वाली",
+      "meaning_english": "Successful, victorious",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "فریحہ",
+      "name_hindi": "फ़रीहा",
+      "name_english": "Fariha",
+      "meaning_urdu": "خوش، مسرور",
+      "meaning_hindi": "खुश, प्रसन्न",
+      "meaning_english": "Happy, joyful",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "فرح",
+      "name_hindi": "फ़रह",
+      "name_english": "Farah",
+      "meaning_urdu": "خوشی، مسرت",
+      "meaning_hindi": "खुशी",
+      "meaning_english": "Joy, happiness",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "فردوس",
+      "name_hindi": "फ़िरदौस",
+      "name_english": "Firdaus",
+      "meaning_urdu": "جنت کا اعلیٰ درجہ",
+      "meaning_hindi": "जन्नत का उच्च स्तर",
+      "meaning_english": "Highest level of Paradise",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "فہمیدہ",
+      "name_hindi": "फ़हीमदा",
+      "name_english": "Faheema",
+      "meaning_urdu": "سمجھدار، عقل مند",
+      "meaning_hindi": "समझदार",
+      "meaning_english": "Intelligent, wise",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "فوزیہ",
+      "name_hindi": "फ़ौज़िया",
+      "name_english": "Fawzia",
+      "meaning_urdu": "کامیابی پانے والی",
+      "meaning_hindi": "सफलता प्राप्त करने वाली",
+      "meaning_english": "Victorious",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "فہمینہ",
+      "name_hindi": "फ़हीमीना",
+      "name_english": "Fahemina",
+      "meaning_urdu": "سمجھ بوجھ رکھنے والی",
+      "meaning_hindi": "बुद्धिमान",
+      "meaning_english": "Understanding, intelligent",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "فہیمہ",
+      "name_hindi": "फ़हीमा",
+      "name_english": "Faheema",
+      "meaning_urdu": "عقلمند",
+      "meaning_hindi": "बुद्धिमान",
+      "meaning_english": "Wise",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "فاطنہ",
+      "name_hindi": "फ़ातिना",
+      "name_english": "Fatina",
+      "meaning_urdu": "ذہین، سمجھدار",
+      "meaning_hindi": "तेज़ बुद्धि वाली",
+      "meaning_english": "Intelligent",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "فدویٰ",
+      "name_hindi": "फ़िदवा",
+      "name_english": "Fidwa",
+      "meaning_urdu": "قربان ہونے والی",
+      "meaning_hindi": "त्याग करने वाली",
+      "meaning_english": "Devoted, sacrificing",
+      "gender": "female"
+    }
+  ]
+}

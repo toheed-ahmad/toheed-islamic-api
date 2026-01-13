@@ -1,0 +1,28 @@
+{
+  "totalRequests": 35,
+  "endpoints": {
+    "/v1/timings": 3,
+    "/v1/calendar": 2,
+    "/v1/stats": 5,
+    "/v1/quran/surah/1http://localhost:3000/api/v1/quran/surah/114": 5,
+    "/v1/quran/surah/1": 2,
+    "/v1/quran/surah/114": 2,
+    "/v1/quran/arbic/1": 2,
+    "/v1/quran/surah/2": 1,
+    "/v1/quran/surah/93": 1,
+    "/v1/quran/surah/95": 1,
+    "/v1/quran/surah/96": 1,
+    "/v1/names/alif": 1,
+    "/v1/names": 1,
+    "/v1/names/dal": 1,
+    "/v1/names/girls/alif": 1,
+    "/v1/names/girls/ra": 1,
+    "/v1/names/girls/dhal": 1,
+    "/v1/names/girls/thal": 1,
+    "/v1/names/boy/alif": 1,
+    "/v1/names/boys/alif": 1,
+    "/v1/names/boys/ya": 1
+  },
+  "lastRequest": "2026-01-12T15:20:51.467Z",
+  "startedAt": "2026-01-11T04:42:42.695Z"
+}

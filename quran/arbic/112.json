@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "surahNumber": 112,
+    "surahNameArabic": "سُورَةُ الإِخۡلَاصِ",
+    "surahNameEnglish": "Al-Ikhlaas",
+    "surahNameTranslation": "Sincerity",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 4
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 6222,
+      "ayahNumberInSurah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 554,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6223,
+      "ayahNumberInSurah": 2,
+      "text": "ٱللَّهُ ٱلصَّمَدُ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 554,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6224,
+      "ayahNumberInSurah": 3,
+      "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 554,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6225,
+      "ayahNumberInSurah": 4,
+      "text": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 554,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "ramadan",
+  "version": "1.0",
+
+  "sehri": {
+    "based_on": "fajr",
+    "offset_minutes": -10,
+    "notification": true
+  },
+
+  "iftar": {
+    "based_on": "maghrib",
+    "offset_minutes": 0,
+    "notification": true
+  },
+
+  "imsak": {
+    "enabled": true,
+    "offset_minutes": -15
+  },
+
+  "notifications": {
+    "sehri_reminder_minutes": 30,
+    "iftar_reminder_minutes": 5
+  },
+
+  "meta": {
+    "auto_enable": true,
+    "timezone": "auto",
+    "location_based": true
+  }
+}

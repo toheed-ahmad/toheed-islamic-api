@@ -1,0 +1,186 @@
+{
+  "letter": "fa",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "فہد",
+      "name_hindi": "फ़हद",
+      "name_english": "Fahad",
+      "meaning_urdu": "شیر، بہادر",
+      "meaning_hindi": "शेर, वीर",
+      "meaning_english": "Lion, brave",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فارس",
+      "name_hindi": "फ़ारस",
+      "name_english": "Faris",
+      "meaning_urdu": "سوار، بہادر جنگجو",
+      "meaning_hindi": "सवार, वीर योद्धा",
+      "meaning_english": "Knight, courageous warrior",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فیاض",
+      "name_hindi": "फ़ैयाज़",
+      "name_english": "Fayyaz",
+      "meaning_urdu": "سخی، فیاض دل",
+      "meaning_hindi": "उदार, दयालु",
+      "meaning_english": "Generous, benevolent",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فیصل",
+      "name_hindi": "फ़ैसल",
+      "name_english": "Faisal",
+      "meaning_urdu": "فیصلہ کرنے والا، قاضی",
+      "meaning_hindi": "निर्णय करने वाला",
+      "meaning_english": "Decisive, judge",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فخرالدین",
+      "name_hindi": "फख़्रुद्दीन",
+      "name_english": "Fakhruddin",
+      "meaning_urdu": "دین کی فخر",
+      "meaning_hindi": "धर्म का गर्व",
+      "meaning_english": "Pride of the faith",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فتاح",
+      "name_hindi": "फ़ताह",
+      "name_english": "Fattah",
+      "meaning_urdu": "فتح دینے والا، کامیاب کرنے والا",
+      "meaning_hindi": "فتح देने वाला",
+      "meaning_english": "Opener, granter of success",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فاروق",
+      "name_hindi": "फ़ारूक़",
+      "name_english": "Farooq",
+      "meaning_urdu": "حق و باطل میں فرق کرنے والا",
+      "meaning_hindi": "सही और गलत में अंतर करने वाला",
+      "meaning_english": "One who distinguishes truth from falsehood",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فتیح",
+      "name_hindi": "फ़तिह",
+      "name_english": "Fateh",
+      "meaning_urdu": "فتح پانے والا، فاتح",
+      "meaning_hindi": "विजेता, फतह करने वाला",
+      "meaning_english": "Conqueror, victorious",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فواد",
+      "name_hindi": "फ़वाद",
+      "name_english": "Fawad",
+      "meaning_urdu": "دل، دل والا",
+      "meaning_hindi": "दिल, हृदय",
+      "meaning_english": "Heart, courageous heart",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فیروز",
+      "name_hindi": "फ़िरोज़",
+      "name_english": "Feroz",
+      "meaning_urdu": "فتح یاب، کامیاب",
+      "meaning_hindi": "विजयी, सफल",
+      "meaning_english": "Victorious, successful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فائق",
+      "name_hindi": "फ़ाइक़",
+      "name_english": "Faiq",
+      "meaning_urdu": "بہتر، اعلیٰ",
+      "meaning_hindi": "श्रेष्ठ, उत्तम",
+      "meaning_english": "Superior, excellent",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فہدون",
+      "name_hindi": "फ़हदून",
+      "name_english": "Fahdoon",
+      "meaning_urdu": "شیر کی طرح بہادر",
+      "meaning_hindi": "शेर जैसा वीर",
+      "meaning_english": "Brave like a lion",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فرحان",
+      "name_hindi": "फ़रहान",
+      "name_english": "Farhan",
+      "meaning_urdu": "خوش، مسرور",
+      "meaning_hindi": "खुश, प्रसन्न",
+      "meaning_english": "Joyful, happy",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فہیم",
+      "name_hindi": "फ़हीम",
+      "name_english": "Faheem",
+      "meaning_urdu": "فہمی والا، سمجھدار",
+      "meaning_hindi": "समझदार, बुद्धिमान",
+      "meaning_english": "Intelligent, wise",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فراز",
+      "name_hindi": "फ़राज़",
+      "name_english": "Faraz",
+      "meaning_urdu": "بلند، ترقی پانے والا",
+      "meaning_hindi": "ऊँचा, उन्नति करने वाला",
+      "meaning_english": "High, elevated",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فیض",
+      "name_hindi": "फ़ैज़",
+      "name_english": "Faiz",
+      "meaning_urdu": "رحمت، فیض",
+      "meaning_hindi": "कृपा, वरदान",
+      "meaning_english": "Blessing, grace",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فیاض الدین",
+      "name_hindi": "फ़ैयाज़ुद्दीन",
+      "name_english": "Fayyazuddin",
+      "meaning_urdu": "دین میں سخی، فیاض",
+      "meaning_hindi": "धर्म में उदार, स्नेही",
+      "meaning_english": "Generous in faith",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فائق الدین",
+      "name_hindi": "फ़ाइक़ुद्दीन",
+      "name_english": "Faiquddin",
+      "meaning_urdu": "دین میں بہترین، اعلیٰ",
+      "meaning_hindi": "धर्म में श्रेष्ठ, उच्च",
+      "meaning_english": "Excellent in faith",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فرازالدین",
+      "name_hindi": "फ़राज़ुद्दीन",
+      "name_english": "Farazuddin",
+      "meaning_urdu": "دین میں ترقی کرنے والا",
+      "meaning_hindi": "धर्म में उन्नति करने वाला",
+      "meaning_english": "Advancing in faith",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "فہیم الدین",
+      "name_hindi": "फ़हीमुद्दीन",
+      "name_english": "Faheemuddin",
+      "meaning_urdu": "دین میں سمجھدار، فہمی والا",
+      "meaning_hindi": "धर्म में बुद्धिमान, समझदार",
+      "meaning_english": "Wise in faith",
+      "gender": "male"
+    }
+  ]
+}

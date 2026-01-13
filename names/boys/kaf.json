@@ -1,0 +1,186 @@
+{
+  "letter": "kaf",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "کامران",
+      "name_hindi": "कामरान",
+      "name_english": "Kamran",
+      "meaning_urdu": "کامیاب، خوش قسمت",
+      "meaning_hindi": "सफल, भाग्यशाली",
+      "meaning_english": "Successful, fortunate",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کریم",
+      "name_hindi": "करीम",
+      "name_english": "Karim",
+      "meaning_urdu": "سخی، مہربان",
+      "meaning_hindi": "उदार, दयालु",
+      "meaning_english": "Generous, kind",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کامشید",
+      "name_hindi": "कामशेद",
+      "name_english": "Kamshid",
+      "meaning_urdu": "چمکتا ہوا، روشن",
+      "meaning_hindi": "चमकता हुआ, उज्ज्वल",
+      "meaning_english": "Shining, bright",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کاظم",
+      "name_hindi": "क़ाज़िम",
+      "name_english": "Kazim",
+      "meaning_urdu": "صبور، غصہ قابو پانے والا",
+      "meaning_hindi": "धैर्यवान, गुस्सा नियंत्रित करने वाला",
+      "meaning_english": "Patient, restrainer of anger",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کامیل",
+      "name_hindi": "कामिल",
+      "name_english": "Kamil",
+      "meaning_urdu": "کامل، مکمل",
+      "meaning_hindi": "पूर्ण, संपूर्ण",
+      "meaning_english": "Perfect, complete",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کامل",
+      "name_hindi": "कामल",
+      "name_english": "Kamil",
+      "meaning_urdu": "کامل، نیک",
+      "meaning_hindi": "पूर्ण, नेक",
+      "meaning_english": "Complete, virtuous",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کاظمی",
+      "name_hindi": "क़ाज़िमी",
+      "name_english": "Kazmi",
+      "meaning_urdu": "کاظم خاندان سے تعلق رکھنے والا",
+      "meaning_hindi": "क़ाज़िम परिवार से संबंधित",
+      "meaning_english": "Belongs to Kazmi family",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کرامت",
+      "name_hindi": "करामत",
+      "name_english": "Karamat",
+      "meaning_urdu": "نیک کام، برکت",
+      "meaning_hindi": "सद्गुण, आशीर्वाद",
+      "meaning_english": "Blessing, virtuous deed",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کاشف",
+      "name_hindi": "काशिफ",
+      "name_english": "Kashif",
+      "meaning_urdu": "راز کھولنے والا، معلوم کرنے والا",
+      "meaning_hindi": "रहस्य प्रकट करने वाला",
+      "meaning_english": "Revealer, discoverer",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کنول",
+      "name_hindi": "क़नवल",
+      "name_english": "Kanwal",
+      "meaning_urdu": "پھول، خوبصورت",
+      "meaning_hindi": "फूल, सुंदर",
+      "meaning_english": "Flower, beautiful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کشور",
+      "name_hindi": "क़शोर",
+      "name_english": "Kishwar",
+      "meaning_urdu": "دنیا، زمین",
+      "meaning_hindi": "दुनिया, पृथ्वी",
+      "meaning_english": "World, land",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کنعان",
+      "name_hindi": "क़नआन",
+      "name_english": "Kana'an",
+      "meaning_urdu": "پرانا شہر، خوشحال زمین",
+      "meaning_hindi": "पुराना शहर, समृद्ध भूमि",
+      "meaning_english": "Ancient city, prosperous land",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کیاش",
+      "name_hindi": "कियाश",
+      "name_english": "Kiash",
+      "meaning_urdu": "زندگی کا محافظ",
+      "meaning_hindi": "जीवन का संरक्षक",
+      "meaning_english": "Protector of life",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کاتب",
+      "name_hindi": "कातिब",
+      "name_english": "Katib",
+      "meaning_urdu": "لکھنے والا، مؤرخ",
+      "meaning_hindi": "लेखक, इतिहासकार",
+      "meaning_english": "Writer, scribe",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کریم اللہ",
+      "name_hindi": "करीमुल्लाह",
+      "name_english": "Karimullah",
+      "meaning_urdu": "اللہ کا مہربان",
+      "meaning_hindi": "अल्लाह का दयालु",
+      "meaning_english": "Generous by God, merciful",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کفاح",
+      "name_hindi": "क़िफ़ाह",
+      "name_english": "Kifah",
+      "meaning_urdu": "جدو جہد، کوشش",
+      "meaning_hindi": "संगर्ष, प्रयास",
+      "meaning_english": "Struggle, effort",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کشتی",
+      "name_hindi": "क़श्ती",
+      "name_english": "Kashti",
+      "meaning_urdu": "کشتی، سفر کرنے والا",
+      "meaning_hindi": "नाव, यात्रा करने वाला",
+      "meaning_english": "Boat, traveler",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کلثوم",
+      "name_hindi": "क़ुलथूम",
+      "name_english": "Kulthum",
+      "meaning_urdu": "بلند و باوقار، نیک",
+      "meaning_hindi": "ऊँचा, गरिमापूर्ण",
+      "meaning_english": "High, dignified",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کوشان",
+      "name_hindi": "कुशान",
+      "name_english": "Kushan",
+      "meaning_urdu": "طاقتور، مضبوط",
+      "meaning_hindi": "शक्तिशाली, मजबूत",
+      "meaning_english": "Powerful, strong",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "کامشاد",
+      "name_hindi": "कामशाद",
+      "name_english": "Kamshad",
+      "meaning_urdu": "خوشحال، کامیاب",
+      "meaning_hindi": "समृद्ध, सफल",
+      "meaning_english": "Prosperous, successful",
+      "gender": "male"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "letter": "meem",
+  "arabic_letter": "م",
+  "gender": "female",
+  "names": [
+    {
+      "name_urdu": "مریم",
+      "name_hindi": "मरयम",
+      "name_english": "Maryam",
+      "meaning_urdu": "پاکیزہ، عبادت گزار",
+      "meaning_hindi": "पवित्र, भक्त",
+      "meaning_english": "Pure, devout",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "مہرین",
+      "name_hindi": "मेहरिन",
+      "name_english": "Mehreen",
+      "meaning_urdu": "چاند جیسی، خوبصورت",
+      "meaning_hindi": "चाँद जैसी सुंदर",
+      "meaning_english": "Moon-like, beautiful",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "مریمۃ",
+      "name_hindi": "मरयमता",
+      "name_english": "Maryamata",
+      "meaning_urdu": "عبادت گزار عورت",
+      "meaning_hindi": "धार्मिक स्त्री",
+      "meaning_english": "Devout woman",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "ملیحہ",
+      "name_hindi": "मलीहा",
+      "name_english": "Maliha",
+      "meaning_urdu": "خوبصورت، خوش اخلاق",
+      "meaning_hindi": "सुंदर, सौम्य",
+      "meaning_english": "Beautiful, well-mannered",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "مشکات",
+      "name_hindi": "मिश्कात",
+      "name_english": "Mishkat",
+      "meaning_urdu": "چراغ دان، نور",
+      "meaning_hindi": "दीपक, प्रकाश",
+      "meaning_english": "Lamp, light",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "مومنہ",
+      "name_hindi": "मोमिना",
+      "name_english": "Momina",
+      "meaning_urdu": "ایمان والی",
+      "meaning_hindi": "ईमान वाली",
+      "meaning_english": "Believing woman",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "مہر",
+      "name_hindi": "मेहर",
+      "name_english": "Mehr",
+      "meaning_urdu": "محبت، شفقت",
+      "meaning_hindi": "स्नेह",
+      "meaning_english": "Affection, kindness",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "مبین",
+      "name_hindi": "मुबीन",
+      "name_english": "Mubeen",
+      "meaning_urdu": "واضح، روشن",
+      "meaning_hindi": "स्पष्ट",
+      "meaning_english": "Clear, evident",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "مہک",
+      "name_hindi": "महक",
+      "name_english": "Mehak",
+      "meaning_urdu": "خوشبو",
+      "meaning_hindi": "सुगंध",
+      "meaning_english": "Fragrance",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "مہوش",
+      "name_hindi": "मेहविश",
+      "name_english": "Mehwish",
+      "meaning_urdu": "چاند جیسی",
+      "meaning_hindi": "चाँद जैसी",
+      "meaning_english": "Moon-like",
+      "gender": "female"
+    }
+  ]
+}

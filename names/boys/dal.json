@@ -1,0 +1,61 @@
+{
+  "letter": "dal",
+  "urdu_letter": "د",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "دانش",
+      "name_hindi": "दानिश",
+      "name_english": "Danish",
+      "meaning_urdu": "عقل، دانائی",
+      "meaning_hindi": "बुद्धि, समझ",
+      "meaning_english": "Wisdom, intelligence",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "داود",
+      "name_hindi": "दाऊद",
+      "name_english": "Dawood",
+      "meaning_urdu": "محبوب",
+      "meaning_hindi": "प्रिय",
+      "meaning_english": "Beloved",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "دانیال",
+      "name_hindi": "दानियाल",
+      "name_english": "Daniyal",
+      "meaning_urdu": "اللہ میرا حاکم ہے",
+      "meaning_hindi": "अल्लाह मेरा न्यायाधीश है",
+      "meaning_english": "Allah is my judge",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "دلشاد",
+      "name_hindi": "दिलशाद",
+      "name_english": "Dilshad",
+      "meaning_urdu": "خوش دل",
+      "meaning_hindi": "प्रसन्न हृदय",
+      "meaning_english": "Happy-hearted",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "دلیل",
+      "name_hindi": "दलील",
+      "name_english": "Daleel",
+      "meaning_urdu": "واضح دلیل",
+      "meaning_hindi": "स्पष्ट प्रमाण",
+      "meaning_english": "Clear proof",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "داؤد خان",
+      "name_hindi": "दाऊद ख़ान",
+      "name_english": "Dawood Khan",
+      "meaning_urdu": "محبوب سردار",
+      "meaning_hindi": "प्रिय नेता",
+      "meaning_english": "Beloved leader",
+      "gender": "male"
+    }
+  ]
+}

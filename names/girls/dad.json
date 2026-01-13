@@ -1,0 +1,106 @@
+{
+  "letter": "dad",
+  "gender": "female",
+  "names": [
+    {
+      "name_ur": "ضاحیہ",
+      "name_hi": "दाहिया",
+      "name_en": "Dahiya",
+      "meaning_ur": "روشن، ظاہر",
+      "meaning_hi": "प्रकाशमान",
+      "meaning_en": "Bright, visible",
+      "detail": "روشنی اور وضاحت کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "ضیاء",
+      "name_hi": "ज़िया",
+      "name_en": "Ziya",
+      "meaning_ur": "روشنی، نور",
+      "meaning_hi": "प्रकाश",
+      "meaning_en": "Light, radiance",
+      "detail": "قرآنی لفظ، نورانیت کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "ضیاءالنور",
+      "name_hi": "ज़ियानूर",
+      "name_en": "Ziya Noor",
+      "meaning_ur": "نور کی روشنی",
+      "meaning_hi": "प्रकाश की रोशनी",
+      "meaning_en": "Light of radiance",
+      "detail": "دو بابرکت الفاظ کا مجموعہ",
+      "gender": "female"
+    },
+    {
+      "name_ur": "ضحوٰی",
+      "name_hi": "दुहा",
+      "name_en": "Duha",
+      "meaning_ur": "چاشت کا وقت",
+      "meaning_hi": "चाश्त का समय",
+      "meaning_en": "Forenoon time",
+      "detail": "قرآنی سورت الضحیٰ سے ماخوذ",
+      "gender": "female"
+    },
+    {
+      "name_ur": "ضامنہ",
+      "name_hi": "ज़ामिना",
+      "name_en": "Zamina",
+      "meaning_ur": "ذمہ لینے والی",
+      "meaning_hi": "जिम्मेदारी लेने वाली",
+      "meaning_en": "Guarantor, responsible",
+      "detail": "ذمہ داری کی صفت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "ضیافت",
+      "name_hi": "ज़ियाफ़त",
+      "name_en": "Ziyafat",
+      "meaning_ur": "مہمان نوازی",
+      "meaning_hi": "अतिथि सत्कार",
+      "meaning_en": "Hospitality",
+      "detail": "سخاوت اور محبت کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "ضیغمہ",
+      "name_hi": "ज़ैग़मा",
+      "name_en": "Zaighma",
+      "meaning_ur": "قوت والی",
+      "meaning_hi": "शक्तिशाली",
+      "meaning_en": "Strong",
+      "detail": "طاقت اور ہمت کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "ضیاہ",
+      "name_hi": "ज़ियाह",
+      "name_en": "Ziyah",
+      "meaning_ur": "چمک",
+      "meaning_hi": "चमक",
+      "meaning_en": "Glow",
+      "detail": "روشنی کی کیفیت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "ضحوہ",
+      "name_hi": "दुहवा",
+      "name_en": "Duhwa",
+      "meaning_ur": "صبح کی روشنی",
+      "meaning_hi": "सुबह की रोशनी",
+      "meaning_en": "Morning light",
+      "detail": "امید اور آغاز کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "ضریا",
+      "name_hi": "दरिया",
+      "name_en": "Dariya",
+      "meaning_ur": "سمندر",
+      "meaning_hi": "समुद्र",
+      "meaning_en": "Sea",
+      "detail": "وسعت اور گہرائی کی علامت",
+      "gender": "female"
+    }
+  ]
+}

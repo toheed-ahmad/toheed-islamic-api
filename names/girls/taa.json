@@ -1,0 +1,106 @@
+{
+  "letter": "taa",
+  "gender": "female",
+  "names": [
+    {
+      "name_ur": "طاہرہ",
+      "name_hi": "ताहिरा",
+      "name_en": "Tahira",
+      "meaning_ur": "پاکیزہ، صاف",
+      "meaning_hi": "पवित्र",
+      "meaning_en": "Pure, clean",
+      "detail": "پاکیزگی اور طہارت کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "طیبہ",
+      "name_hi": "तैयबा",
+      "name_en": "Tayyiba",
+      "meaning_ur": "نیک، پاک",
+      "meaning_hi": "अच्छी, पवित्र",
+      "meaning_en": "Good, pure",
+      "detail": "مدینہ منورہ کا بابرکت نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "طیفہ",
+      "name_hi": "तैफ़ा",
+      "name_en": "Taifa",
+      "meaning_ur": "نرم، لطیف",
+      "meaning_hi": "कोमल",
+      "meaning_en": "Gentle, delicate",
+      "detail": "نرمی اور حسنِ اخلاق کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "طیّہ",
+      "name_hi": "तैय्यह",
+      "name_en": "Tayya",
+      "meaning_ur": "پاکیزہ عورت",
+      "meaning_hi": "पवित्र स्त्री",
+      "meaning_en": "Pure woman",
+      "detail": "طہارت سے ماخوذ نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "طُہٰی",
+      "name_hi": "तुहा",
+      "name_en": "Tuha",
+      "meaning_ur": "خوبصورت، روشن",
+      "meaning_hi": "सुंदर, उज्ज्वल",
+      "meaning_en": "Beautiful, radiant",
+      "detail": "روحانی حسن کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "طلیحہ",
+      "name_hi": "तलीहा",
+      "name_en": "Taliha",
+      "meaning_ur": "چمکنے والی",
+      "meaning_hi": "चमकने वाली",
+      "meaning_en": "Shining",
+      "detail": "روشنی اور وقار کی علامت",
+      "gender": "female"
+    },
+    {
+      "name_ur": "طوبیٰ",
+      "name_hi": "तूबा",
+      "name_en": "Tooba",
+      "meaning_ur": "جنت کا درخت",
+      "meaning_hi": "जन्नत का वृक्ष",
+      "meaning_en": "Tree in Paradise",
+      "detail": "قرآنی و حدیثی بابرکت نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "طُہرہ",
+      "name_hi": "तुहरा",
+      "name_en": "Tuhra",
+      "meaning_ur": "پاکیزگی",
+      "meaning_hi": "पवित्रता",
+      "meaning_en": "Purity",
+      "detail": "طہارت سے نکلا ہوا نام",
+      "gender": "female"
+    },
+    {
+      "name_ur": "طیبہ نور",
+      "name_hi": "तैयबा नूर",
+      "name_en": "Tayyiba Noor",
+      "meaning_ur": "پاکیزہ نور",
+      "meaning_hi": "पवित्र प्रकाश",
+      "meaning_en": "Pure light",
+      "detail": "دو بابرکت الفاظ کا حسین مجموعہ",
+      "gender": "female"
+    },
+    {
+      "name_ur": "طاہرہ فاطمہ",
+      "name_hi": "ताहिरा फातिमा",
+      "name_en": "Tahira Fatima",
+      "meaning_ur": "پاکیزہ، عظیم",
+      "meaning_hi": "पवित्र, महान",
+      "meaning_en": "Pure and noble",
+      "detail": "پاکیزگی اور عظمت کی علامت",
+      "gender": "female"
+    }
+  ]
+}

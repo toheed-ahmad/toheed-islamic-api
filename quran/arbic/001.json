@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "surahNumber": 1,
+    "surahNameArabic": "سُورَةُ ٱلْفَاتِحَةِ",
+    "surahNameEnglish": "Al-Faatiha",
+    "surahNameTranslation": "The Opening",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 7
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "ayahNumberInSurah": 1,
+      "text": "﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "juz": 1,
+      "manzil": 1,
+      "page": 1,
+      "ruku": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 2,
+      "ayahNumberInSurah": 2,
+      "text": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+      "juz": 1,
+      "manzil": 1,
+      "page": 1,
+      "ruku": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 3,
+      "ayahNumberInSurah": 3,
+      "text": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "juz": 1,
+      "manzil": 1,
+      "page": 1,
+      "ruku": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 4,
+      "ayahNumberInSurah": 4,
+      "text": "مَٰلِكِ يَوْمِ ٱلدِّينِ",
+      "juz": 1,
+      "manzil": 1,
+      "page": 1,
+      "ruku": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 5,
+      "ayahNumberInSurah": 5,
+      "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "juz": 1,
+      "manzil": 1,
+      "page": 1,
+      "ruku": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6,
+      "ayahNumberInSurah": 6,
+      "text": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+      "juz": 1,
+      "manzil": 1,
+      "page": 1,
+      "ruku": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 7,
+      "ayahNumberInSurah": 7,
+      "text": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+      "juz": 1,
+      "manzil": 1,
+      "page": 1,
+      "ruku": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    }
+  ]
+}

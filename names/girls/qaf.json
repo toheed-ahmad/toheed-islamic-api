@@ -1,0 +1,97 @@
+{
+  "letter": "qaf",
+  "arabic_letter": "ق",
+  "gender": "female",
+  "names": [
+    {
+      "name_urdu": "قرۃالعین",
+      "name_hindi": "क़ुर्रतुल ऐन",
+      "name_english": "Qurratul Ain",
+      "meaning_urdu": "آنکھوں کی ٹھنڈک",
+      "meaning_hindi": "आँखों की ठंडक",
+      "meaning_english": "Coolness of the eyes",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "قمر",
+      "name_hindi": "क़मर",
+      "name_english": "Qamar",
+      "meaning_urdu": "چاند",
+      "meaning_hindi": "चाँद",
+      "meaning_english": "Moon",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "قانتہ",
+      "name_hindi": "क़ानिता",
+      "name_english": "Qanita",
+      "meaning_urdu": "فرمانبردار، عبادت گزار",
+      "meaning_hindi": "आज्ञाकारी, उपासक",
+      "meaning_english": "Obedient, devout",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "قائمہ",
+      "name_hindi": "क़ायिमा",
+      "name_english": "Qaima",
+      "meaning_urdu": "سیدھی کھڑی رہنے والی",
+      "meaning_hindi": "स्थिर रहने वाली",
+      "meaning_english": "Upright, steadfast",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "قدسیہ",
+      "name_hindi": "क़ुदसिया",
+      "name_english": "Qudsia",
+      "meaning_urdu": "پاکیزہ، مقدس",
+      "meaning_hindi": "पवित्र",
+      "meaning_english": "Pure, sacred",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "قریشہ",
+      "name_hindi": "क़ुरैशा",
+      "name_english": "Quraisha",
+      "meaning_urdu": "قریش قبیلے سے منسوب",
+      "meaning_hindi": "क़ुरैश से संबंधित",
+      "meaning_english": "Belonging to Quraysh",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "قانت",
+      "name_hindi": "क़ानित",
+      "name_english": "Qanit",
+      "meaning_urdu": "عبادت گزار",
+      "meaning_hindi": "इबादत करने वाली",
+      "meaning_english": "Devout worshipper",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "قمرین",
+      "name_hindi": "क़मरैन",
+      "name_english": "Qamreen",
+      "meaning_urdu": "دو چاند جیسی",
+      "meaning_hindi": "दो चाँद जैसी",
+      "meaning_english": "Like two moons",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "قریبہ",
+      "name_hindi": "क़रीबा",
+      "name_english": "Qareeba",
+      "meaning_urdu": "قریب رہنے والی",
+      "meaning_hindi": "निकट रहने वाली",
+      "meaning_english": "Close, near",
+      "gender": "female"
+    },
+    {
+      "name_urdu": "قابلہ",
+      "name_hindi": "क़ाबिला",
+      "name_english": "Qabila",
+      "meaning_urdu": "قابل، لائق",
+      "meaning_hindi": "योग्य",
+      "meaning_english": "Capable",
+      "gender": "female"
+    }
+  ]
+}

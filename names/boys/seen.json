@@ -1,0 +1,187 @@
+{
+  "letter": "seen",
+  "urdu_letter": "س",
+  "gender": "male",
+  "names": [
+    {
+      "name_urdu": "سعد",
+      "name_hindi": "सअद",
+      "name_english": "Saad",
+      "meaning_urdu": "خوش نصیب، سعادت مند",
+      "meaning_hindi": "भाग्यशाली",
+      "meaning_english": "Fortunate, blessed",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سلمان",
+      "name_hindi": "सलमान",
+      "name_english": "Salman",
+      "meaning_urdu": "محفوظ، سلامت",
+      "meaning_hindi": "सुरक्षित",
+      "meaning_english": "Safe, secure",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سلیم",
+      "name_hindi": "सलीम",
+      "name_english": "Saleem",
+      "meaning_urdu": "سلامت، بے عیب",
+      "meaning_hindi": "निर्दोष",
+      "meaning_english": "Sound, healthy",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سہیل",
+      "name_hindi": "सुहैल",
+      "name_english": "Suhail",
+      "meaning_urdu": "نرم، آسان",
+      "meaning_hindi": "कोमल",
+      "meaning_english": "Gentle, easy",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سفیان",
+      "name_hindi": "सुफ़यान",
+      "name_english": "Sufyan",
+      "meaning_urdu": "تیز چلنے والا",
+      "meaning_hindi": "तेज़ चलने वाला",
+      "meaning_english": "Fast moving",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ساجد",
+      "name_hindi": "साजिद",
+      "name_english": "Sajid",
+      "meaning_urdu": "سجدہ کرنے والا",
+      "meaning_hindi": "सजदा करने वाला",
+      "meaning_english": "One who prostrates",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سامی",
+      "name_hindi": "सामी",
+      "name_english": "Sami",
+      "meaning_urdu": "بلند، عالی",
+      "meaning_hindi": "उच्च",
+      "meaning_english": "Exalted, high",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سنان",
+      "name_hindi": "सिनान",
+      "name_english": "Sinan",
+      "meaning_urdu": "نیزہ",
+      "meaning_hindi": "भाला",
+      "meaning_english": "Spear",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سراج",
+      "name_hindi": "सिराज",
+      "name_english": "Siraj",
+      "meaning_urdu": "چراغ، روشنی",
+      "meaning_hindi": "दीपक",
+      "meaning_english": "Lamp, light",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سلمان فارسی",
+      "name_hindi": "सलमान फ़ारसी",
+      "name_english": "Salman Farsi",
+      "meaning_urdu": "صحابی رسول ﷺ",
+      "meaning_hindi": "रसूल ﷺ के सहाबी",
+      "meaning_english": "Companion of Prophet ﷺ",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سلیم الدین",
+      "name_hindi": "सलीमुद्दीन",
+      "name_english": "Saleemuddin",
+      "meaning_urdu": "دین میں سالم",
+      "meaning_hindi": "धर्म में पवित्र",
+      "meaning_english": "Pure in religion",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سعدالدین",
+      "name_hindi": "सअदुद्दीन",
+      "name_english": "Saaduddin",
+      "meaning_urdu": "دین کی سعادت",
+      "meaning_hindi": "धर्म की खुशहाली",
+      "meaning_english": "Blessing of religion",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سہیب",
+      "name_hindi": "सुहैब",
+      "name_english": "Suhaib",
+      "meaning_urdu": "سرخی مائل",
+      "meaning_hindi": "लालिमा",
+      "meaning_english": "Reddish complexion",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سفی",
+      "name_hindi": "सफ़ी",
+      "name_english": "Safi",
+      "meaning_urdu": "خالص، صاف",
+      "meaning_hindi": "शुद्ध",
+      "meaning_english": "Pure",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سروش",
+      "name_hindi": "सरोज़",
+      "name_english": "Sarosh",
+      "meaning_urdu": "پیغام رساں",
+      "meaning_hindi": "संदेशवाहक",
+      "meaning_english": "Messenger",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سلمان علی",
+      "name_hindi": "सलमान अली",
+      "name_english": "Salman Ali",
+      "meaning_urdu": "محفوظ اور بلند",
+      "meaning_hindi": "सुरक्षित और उच्च",
+      "meaning_english": "Safe and exalted",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سراج الدین",
+      "name_hindi": "सिराजुद्दीन",
+      "name_english": "Sirajuddin",
+      "meaning_urdu": "دین کا چراغ",
+      "meaning_hindi": "धर्म का दीपक",
+      "meaning_english": "Light of religion",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سلمان احمد",
+      "name_hindi": "सलमान अहमद",
+      "name_english": "Salman Ahmad",
+      "meaning_urdu": "محفوظ اور قابل تعریف",
+      "meaning_hindi": "सुरक्षित और प्रशंसनीय",
+      "meaning_english": "Secure and praiseworthy",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "سنان الدین",
+      "name_hindi": "सिनानुद्दीन",
+      "name_english": "Sinanuddin",
+      "meaning_urdu": "دین کا ہتھیار",
+      "meaning_hindi": "धर्म का हथियार",
+      "meaning_english": "Strength of religion",
+      "gender": "male"
+    },
+    {
+      "name_urdu": "ساجد علی",
+      "name_hindi": "साजिद अली",
+      "name_english": "Sajid Ali",
+      "meaning_urdu": "سجدہ کرنے والا، بلند",
+      "meaning_hindi": "सजदा करने वाला, उच्च",
+      "meaning_english": "Prostrating, exalted",
+      "gender": "male"
+    }
+  ]
+}

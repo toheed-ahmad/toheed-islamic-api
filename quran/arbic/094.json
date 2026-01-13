@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "surahNumber": 94,
+    "surahNameArabic": "سُورَةُ الشَّرۡحِ",
+    "surahNameEnglish": "Ash-Sharh",
+    "surahNameTranslation": "The Consolation",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 8
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 6091,
+      "ayahNumberInSurah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 536,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6092,
+      "ayahNumberInSurah": 2,
+      "text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 536,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6093,
+      "ayahNumberInSurah": 3,
+      "text": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 536,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6094,
+      "ayahNumberInSurah": 4,
+      "text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 536,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6095,
+      "ayahNumberInSurah": 5,
+      "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 536,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6096,
+      "ayahNumberInSurah": 6,
+      "text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 536,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6097,
+      "ayahNumberInSurah": 7,
+      "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 536,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6098,
+      "ayahNumberInSurah": 8,
+      "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 536,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ]
+}
