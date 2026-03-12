@@ -40,6 +40,7 @@ app.use('/admin', express.static(path.join(__dirname, 'public/admin')));
    API Routes (v1)
 ========================= */
 app.use('/api/v1/quran', require('./routes/quran'));
+app.use('/api/v1/quran-pdf', require('./routes/quran-pdf'));
 app.use('/api/v1/names', require('./routes/names'));
 app.use('/api/v1/timings', require('./routes/timings'));
 app.use('/api/v1/calendar', require('./routes/calendar'));
