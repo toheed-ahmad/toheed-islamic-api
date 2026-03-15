@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "surahNumber": 100,
+    "surahNameArabic": "سُورَةُ العَادِيَاتِ",
+    "surahNameEnglish": "Al-Aadiyaat",
+    "surahNameTranslation": "The Chargers",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 11
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 6147,
+      "ayahNumberInSurah": 1,
+      "text": " وَٱلْعَٰدِيَٰتِ ضَبْحًۭا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6148,
+      "ayahNumberInSurah": 2,
+      "text": "فَٱلْمُورِيَٰتِ قَدْحًۭا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6149,
+      "ayahNumberInSurah": 3,
+      "text": "فَٱلْمُغِيرَٰتِ صُبْحًۭا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6150,
+      "ayahNumberInSurah": 4,
+      "text": "فَأَثَرْنَ بِهِۦ نَقْعًۭا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6151,
+      "ayahNumberInSurah": 5,
+      "text": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6152,
+      "ayahNumberInSurah": 6,
+      "text": "إِنَّ ٱلْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌۭ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6153,
+      "ayahNumberInSurah": 7,
+      "text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌۭ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6154,
+      "ayahNumberInSurah": 8,
+      "text": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6155,
+      "ayahNumberInSurah": 9,
+      "text": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6156,
+      "ayahNumberInSurah": 10,
+      "text": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 542,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6157,
+      "ayahNumberInSurah": 11,
+      "text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍۢ لَّخَبِيرٌۢ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 542,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+}

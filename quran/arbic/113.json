@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "surahNumber": 113,
+    "surahNameArabic": "سُورَةُ الفَلَقِ",
+    "surahNameEnglish": "Al-Falaq",
+    "surahNameTranslation": "The Dawn",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 6226,
+      "ayahNumberInSurah": 1,
+      "text": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6227,
+      "ayahNumberInSurah": 2,
+      "text": "مِن شَرِّ مَا خَلَقَ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6228,
+      "ayahNumberInSurah": 3,
+      "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6229,
+      "ayahNumberInSurah": 4,
+      "text": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6230,
+      "ayahNumberInSurah": 5,
+      "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+}

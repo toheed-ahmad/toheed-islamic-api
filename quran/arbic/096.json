@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "surahNumber": 96,
+    "surahNameArabic": "سُورَةُ العَلَقِ",
+    "surahNameEnglish": "Al-Alaq",
+    "surahNameTranslation": "The Clot",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 6107,
+      "ayahNumberInSurah": 1,
+      "text": " ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6108,
+      "ayahNumberInSurah": 2,
+      "text": "خَلَقَ ٱلْإِنسَٰنَ مِنْ عَلَقٍ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6109,
+      "ayahNumberInSurah": 3,
+      "text": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6110,
+      "ayahNumberInSurah": 4,
+      "text": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6111,
+      "ayahNumberInSurah": 5,
+      "text": "عَلَّمَ ٱلْإِنسَٰنَ مَا لَمْ يَعْلَمْ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6112,
+      "ayahNumberInSurah": 6,
+      "text": "كَلَّآ إِنَّ ٱلْإِنسَٰنَ لَيَطْغَىٰٓ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6113,
+      "ayahNumberInSurah": 7,
+      "text": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6114,
+      "ayahNumberInSurah": 8,
+      "text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6115,
+      "ayahNumberInSurah": 9,
+      "text": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6116,
+      "ayahNumberInSurah": 10,
+      "text": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6117,
+      "ayahNumberInSurah": 11,
+      "text": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6118,
+      "ayahNumberInSurah": 12,
+      "text": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6119,
+      "ayahNumberInSurah": 13,
+      "text": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6120,
+      "ayahNumberInSurah": 14,
+      "text": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6121,
+      "ayahNumberInSurah": 15,
+      "text": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6122,
+      "ayahNumberInSurah": 16,
+      "text": "نَاصِيَةٍۢ كَٰذِبَةٍ خَاطِئَةٍۢ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6123,
+      "ayahNumberInSurah": 17,
+      "text": "فَلْيَدْعُ نَادِيَهُۥ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6124,
+      "ayahNumberInSurah": 18,
+      "text": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "ayahNumber": 6125,
+      "ayahNumberInSurah": 19,
+      "text": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": {
+        "id": 15,
+        "recommended": false,
+        "obligatory": true
+      }
+    }
+  ]
+}

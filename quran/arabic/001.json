@@ -9,17 +9,6 @@
   },
   "ayahs": [
     {
-      "ayahNumber": 1,
-      "ayahNumberInSurah": 1,
-      "text": "﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
-      "juz": 1,
-      "manzil": 1,
-      "page": 1,
-      "ruku": 1,
-      "hizbQuarter": 1,
-      "sajda": false
-    },
-    {
       "ayahNumber": 2,
       "ayahNumberInSurah": 2,
       "text": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
